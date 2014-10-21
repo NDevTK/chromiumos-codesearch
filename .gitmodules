@@ -1,0 +1,360 @@
+[submodule "chromite"]
+	path = chromite
+	url = https://chromium.googlesource.com/chromiumos/chromite
+[submodule "chromium/src/third_party/hwcplus"]
+	path = chromium/src/third_party/hwcplus
+	url = https://chromium.googlesource.com/chromium/src/third_party/hwcplus
+[submodule "chromium/src/third_party/libmtp"]
+	path = chromium/src/third_party/libmtp
+	url = https://chromium.googlesource.com/chromium/deps/libmtp
+[submodule "chromium/tools/depot_tools"]
+	path = chromium/tools/depot_tools
+	url = https://chromium.googlesource.com/chromium/tools/depot_tools
+[submodule "src/overlays"]
+	path = src/overlays
+	url = https://chromium.googlesource.com/chromiumos/overlays/board-overlays
+[submodule "src/platform/assets"]
+	path = src/platform/assets
+	url = https://chromium.googlesource.com/chromiumos/platform/assets
+[submodule "src/platform/audiotest"]
+	path = src/platform/audiotest
+	url = https://chromium.googlesource.com/chromiumos/platform/audiotest
+[submodule "src/platform/bootcache"]
+	path = src/platform/bootcache
+	url = https://chromium.googlesource.com/chromiumos/platform/bootcache
+[submodule "src/platform/btsocket"]
+	path = src/platform/btsocket
+	url = https://chromium.googlesource.com/chromiumos/platform/btsocket
+[submodule "src/platform/chameleon"]
+	path = src/platform/chameleon
+	url = https://chromium.googlesource.com/chromiumos/platform/chameleon
+[submodule "src/platform/chromiumos-assets"]
+	path = src/platform/chromiumos-assets
+	url = https://chromium.googlesource.com/chromiumos/platform/chromiumos-assets
+[submodule "src/platform/crostestutils"]
+	path = src/platform/crostestutils
+	url = https://chromium.googlesource.com/chromiumos/platform/crostestutils
+[submodule "src/platform/depthcharge"]
+	path = src/platform/depthcharge
+	url = https://chromium.googlesource.com/chromiumos/platform/depthcharge
+[submodule "src/platform/dev"]
+	path = src/platform/dev
+	url = https://chromium.googlesource.com/chromiumos/platform/dev-util
+[submodule "src/platform/drm-tests"]
+	path = src/platform/drm-tests
+	url = https://chromium.googlesource.com/chromiumos/platform/drm-tests
+[submodule "src/platform/ec"]
+	path = src/platform/ec
+	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "src/platform/factory-utils"]
+	path = src/platform/factory-utils
+	url = https://chromium.googlesource.com/chromiumos/platform/factory-utils
+[submodule "src/platform/factory"]
+	path = src/platform/factory
+	url = https://chromium.googlesource.com/chromiumos/platform/factory
+[submodule "src/platform/factory_installer"]
+	path = src/platform/factory_installer
+	url = https://chromium.googlesource.com/chromiumos/platform/factory_installer
+[submodule "src/platform/firmware"]
+	path = src/platform/firmware
+	url = https://chromium.googlesource.com/chromiumos/platform/firmware
+[submodule "src/platform/frecon"]
+	path = src/platform/frecon
+	url = https://chromium.googlesource.com/chromiumos/platform/frecon
+[submodule "src/platform/gestures"]
+	path = src/platform/gestures
+	url = https://chromium.googlesource.com/chromiumos/platform/gestures
+[submodule "src/platform/google-breakpad"]
+	path = src/platform/google-breakpad
+	url = https://chromium.googlesource.com/chromiumos/platform/google-breakpad
+[submodule "src/platform/initramfs"]
+	path = src/platform/initramfs
+	url = https://chromium.googlesource.com/chromiumos/platform/initramfs
+[submodule "src/platform/inputcontrol"]
+	path = src/platform/inputcontrol
+	url = https://chromium.googlesource.com/chromiumos/platform/inputcontrol
+[submodule "src/platform/jabra_vold"]
+	path = src/platform/jabra_vold
+	url = https://chromium.googlesource.com/chromiumos/platform/jabra_vold
+[submodule "src/platform/libevdev"]
+	path = src/platform/libevdev
+	url = https://chromium.googlesource.com/chromiumos/platform/libevdev
+[submodule "src/platform/memento_softwareupdate"]
+	path = src/platform/memento_softwareupdate
+	url = https://chromium.googlesource.com/chromiumos/platform/memento_softwareupdate
+[submodule "src/platform/microbenchmark"]
+	path = src/platform/microbenchmark
+	url = https://chromium.googlesource.com/chromiumos/platform/microbenchmark
+[submodule "src/platform/minigbm"]
+	path = src/platform/minigbm
+	url = https://chromium.googlesource.com/chromiumos/platform/minigbm
+[submodule "src/platform/monitor_reconfig"]
+	path = src/platform/monitor_reconfig
+	url = https://chromium.googlesource.com/chromiumos/platform/monitor_reconfig
+[submodule "src/platform/mosys"]
+	path = src/platform/mosys
+	url = https://chromium.googlesource.com/chromiumos/platform/mosys
+[submodule "src/platform/mtpd"]
+	path = src/platform/mtpd
+	url = https://chromium.googlesource.com/chromiumos/platform/mtpd
+[submodule "src/platform/mtplot"]
+	path = src/platform/mtplot
+	url = https://chromium.googlesource.com/chromiumos/platform/mtplot
+[submodule "src/platform/mttools"]
+	path = src/platform/mttools
+	url = https://chromium.googlesource.com/chromiumos/platform/mttools
+[submodule "src/platform/punybench"]
+	path = src/platform/punybench
+	url = https://chromium.googlesource.com/chromiumos/platform/punybench
+[submodule "src/platform/system_api"]
+	path = src/platform/system_api
+	url = https://chromium.googlesource.com/chromiumos/platform/system_api
+[submodule "src/platform/touch_noise_filter"]
+	path = src/platform/touch_noise_filter
+	url = https://chromium.googlesource.com/chromiumos/platform/touch_noise_filter
+[submodule "src/platform/touch_updater"]
+	path = src/platform/touch_updater
+	url = https://chromium.googlesource.com/chromiumos/platform/touch_updater
+[submodule "src/platform/touchbot"]
+	path = src/platform/touchbot
+	url = https://chromium.googlesource.com/chromiumos/platform/touchbot
+[submodule "src/platform/touchpad-tests"]
+	path = src/platform/touchpad-tests
+	url = https://chromium.googlesource.com/chromiumos/platform/touchpad-tests
+[submodule "src/platform/tpm_lite"]
+	path = src/platform/tpm_lite
+	url = https://chromium.googlesource.com/chromiumos/platform/tpm_lite
+[submodule "src/platform/trunks"]
+	path = src/platform/trunks
+	url = https://chromium.googlesource.com/chromiumos/platform/trunks
+[submodule "src/platform/uboot-env"]
+	path = src/platform/uboot-env
+	url = https://chromium.googlesource.com/chromiumos/platform/uboot-env
+[submodule "src/platform/vboot_reference"]
+	path = src/platform/vboot_reference
+	url = https://chromium.googlesource.com/chromiumos/platform/vboot_reference
+[submodule "src/platform/verity"]
+	path = src/platform/verity
+	url = https://chromium.googlesource.com/chromiumos/platform/dm-verity
+[submodule "src/platform/vpd"]
+	path = src/platform/vpd
+	url = https://chromium.googlesource.com/chromiumos/platform/vpd
+[submodule "src/platform/wireless_automation"]
+	path = src/platform/wireless_automation
+	url = https://chromium.googlesource.com/chromiumos/platform/wireless_automation
+[submodule "src/platform/workarounds"]
+	path = src/platform/workarounds
+	url = https://chromium.googlesource.com/chromiumos/platform/workarounds
+[submodule "src/platform/xf86-input-cmt"]
+	path = src/platform/xf86-input-cmt
+	url = https://chromium.googlesource.com/chromiumos/platform/xf86-input-cmt
+[submodule "src/platform/xorg-conf"]
+	path = src/platform/xorg-conf
+	url = https://chromium.googlesource.com/chromiumos/platform/xorg-conf
+[submodule "src/platform2"]
+	path = src/platform2
+	url = https://chromium.googlesource.com/chromiumos/platform2
+[submodule "src/repohooks"]
+	path = src/repohooks
+	url = https://chromium.googlesource.com/chromiumos/repohooks
+[submodule "src/scripts"]
+	path = src/scripts
+	url = https://chromium.googlesource.com/chromiumos/platform/crosutils
+[submodule "src/third_party/adhd"]
+	path = src/third_party/adhd
+	url = https://chromium.googlesource.com/chromiumos/third_party/adhd
+[submodule "src/third_party/atheros"]
+	path = src/third_party/atheros
+	url = https://chromium.googlesource.com/chromiumos/third_party/atheros
+[submodule "src/third_party/autotest/files"]
+	path = src/third_party/autotest/files
+	url = https://chromium.googlesource.com/chromiumos/third_party/autotest
+[submodule "src/third_party/binutils"]
+	path = src/third_party/binutils
+	url = https://chromium.googlesource.com/chromiumos/third_party/binutils
+[submodule "src/third_party/bootstub"]
+	path = src/third_party/bootstub
+	url = https://chromium.googlesource.com/chromiumos/third_party/bootstub
+[submodule "src/third_party/cbootimage"]
+	path = src/third_party/cbootimage
+	url = https://chromium.googlesource.com/chromiumos/third_party/cbootimage
+[submodule "src/third_party/chromiumos-overlay"]
+	path = src/third_party/chromiumos-overlay
+	url = https://chromium.googlesource.com/chromiumos/overlays/chromiumos-overlay
+[submodule "src/third_party/chrontel"]
+	path = src/third_party/chrontel
+	url = https://chromium.googlesource.com/chromiumos/third_party/chrontel
+[submodule "src/third_party/coreboot"]
+	path = src/third_party/coreboot
+	url = https://chromium.googlesource.com/chromiumos/third_party/coreboot
+[submodule "src/third_party/cypress-tools"]
+	path = src/third_party/cypress-tools
+	url = https://chromium.googlesource.com/chromiumos/third_party/cypress-tools
+[submodule "src/third_party/daisydog"]
+	path = src/third_party/daisydog
+	url = https://chromium.googlesource.com/chromiumos/third_party/daisydog
+[submodule "src/third_party/dbus-c++"]
+	path = src/third_party/dbus-c++
+	url = https://chromium.googlesource.com/chromiumos/third_party/dbus-cplusplus
+[submodule "src/third_party/dbus-spy"]
+	path = src/third_party/dbus-spy
+	url = https://chromium.googlesource.com/chromiumos/third_party/dbus-spy
+[submodule "src/third_party/dhcpcd"]
+	path = src/third_party/dhcpcd
+	url = https://chromium.googlesource.com/chromiumos/third_party/dhcpcd
+[submodule "src/third_party/eclass-overlay"]
+	path = src/third_party/eclass-overlay
+	url = https://chromium.googlesource.com/chromiumos/overlays/eclass-overlay
+[submodule "src/third_party/edk2"]
+	path = src/third_party/edk2
+	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
+[submodule "src/third_party/em100"]
+	path = src/third_party/em100
+	url = https://chromium.googlesource.com/chromiumos/third_party/em100
+[submodule "src/third_party/flashmap"]
+	path = src/third_party/flashmap
+	url = https://chromium.googlesource.com/chromiumos/third_party/flashmap
+[submodule "src/third_party/flashrom"]
+	path = src/third_party/flashrom
+	url = https://chromium.googlesource.com/chromiumos/third_party/flashrom
+[submodule "src/third_party/gcc"]
+	path = src/third_party/gcc
+	url = https://chromium.googlesource.com/chromiumos/third_party/gcc
+[submodule "src/third_party/gdmwimax"]
+	path = src/third_party/gdmwimax
+	url = https://chromium.googlesource.com/chromiumos/third_party/gdmwimax
+[submodule "src/third_party/glibc"]
+	path = src/third_party/glibc
+	url = https://chromium.googlesource.com/chromiumos/third_party/glibc
+[submodule "src/third_party/gobi3k-sdk"]
+	path = src/third_party/gobi3k-sdk
+	url = https://chromium.googlesource.com/chromiumos/third_party/gobi3k-sdk
+[submodule "src/third_party/grub2"]
+	path = src/third_party/grub2
+	url = https://chromium.googlesource.com/chromiumos/third_party/grub2
+[submodule "src/third_party/hdctools"]
+	path = src/third_party/hdctools
+	url = https://chromium.googlesource.com/chromiumos/third_party/hdctools
+[submodule "src/third_party/hwcplus-drm"]
+	path = src/third_party/hwcplus-drm
+	url = https://chromium.googlesource.com/chromiumos/third_party/hwcplus-drm
+[submodule "src/third_party/ibus-chewing/files"]
+	path = src/third_party/ibus-chewing/files
+	url = https://chromium.googlesource.com/chromiumos/third_party/ibus-chewing
+[submodule "src/third_party/ibus-xkb-layouts/files"]
+	path = src/third_party/ibus-xkb-layouts/files
+	url = https://chromium.googlesource.com/chromiumos/third_party/ibus-xkb-layouts
+[submodule "src/third_party/kernel/3.10"]
+	path = src/third_party/kernel/3.10
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel-next
+[submodule "src/third_party/kernel/3.14"]
+	path = src/third_party/kernel/3.14
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "src/third_party/kernel/3.4"]
+	path = src/third_party/kernel/3.4
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "src/third_party/kernel/3.8"]
+	path = src/third_party/kernel/3.8
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "src/third_party/khronos"]
+	path = src/third_party/khronos
+	url = https://chromium.googlesource.com/chromiumos/third_party/khronos
+[submodule "src/third_party/ktop"]
+	path = src/third_party/ktop
+	url = https://chromium.googlesource.com/chromiumos/third_party/ktop
+[submodule "src/third_party/leveldb"]
+	path = src/third_party/leveldb
+	url = https://chromium.googlesource.com/chromiumos/third_party/leveldb
+[submodule "src/third_party/libc-bench"]
+	path = src/third_party/libc-bench
+	url = https://chromium.googlesource.com/chromiumos/third_party/libc-bench
+[submodule "src/third_party/libmbim"]
+	path = src/third_party/libmbim
+	url = https://chromium.googlesource.com/chromiumos/third_party/libmbim
+[submodule "src/third_party/libqmi"]
+	path = src/third_party/libqmi
+	url = https://chromium.googlesource.com/chromiumos/third_party/libqmi
+[submodule "src/third_party/libresample"]
+	path = src/third_party/libresample
+	url = https://chromium.googlesource.com/chromiumos/third_party/libresample
+[submodule "src/third_party/libscrypt"]
+	path = src/third_party/libscrypt
+	url = https://chromium.googlesource.com/chromiumos/third_party/libscrypt
+[submodule "src/third_party/libsigrok"]
+	path = src/third_party/libsigrok
+	url = https://chromium.googlesource.com/chromiumos/third_party/libsigrok
+[submodule "src/third_party/libsigrokdecode"]
+	path = src/third_party/libsigrokdecode
+	url = https://chromium.googlesource.com/chromiumos/third_party/libsigrokdecode
+[submodule "src/third_party/linux-firmware"]
+	path = src/third_party/linux-firmware
+	url = https://chromium.googlesource.com/chromiumos/third_party/linux-firmware
+[submodule "src/third_party/ltp"]
+	path = src/third_party/ltp
+	url = https://chromium.googlesource.com/chromiumos/third_party/ltp
+[submodule "src/third_party/marvell"]
+	path = src/third_party/marvell
+	url = https://chromium.googlesource.com/chromiumos/third_party/marvell
+[submodule "src/third_party/memtest"]
+	path = src/third_party/memtest
+	url = https://chromium.googlesource.com/chromiumos/third_party/memtest
+[submodule "src/third_party/mesa"]
+	path = src/third_party/mesa
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "src/third_party/miniFakeDns"]
+	path = src/third_party/miniFakeDns
+	url = https://chromium.googlesource.com/chromiumos/third_party/minifakedns
+[submodule "src/third_party/mmc-utils"]
+	path = src/third_party/mmc-utils
+	url = https://chromium.googlesource.com/chromiumos/third_party/mmc-utils
+[submodule "src/third_party/modemmanager-next"]
+	path = src/third_party/modemmanager-next
+	url = https://chromium.googlesource.com/chromiumos/third_party/modemmanager-next
+[submodule "src/third_party/opencryptoki"]
+	path = src/third_party/opencryptoki
+	url = https://chromium.googlesource.com/chromiumos/third_party/opencryptoki
+[submodule "src/third_party/ply-image"]
+	path = src/third_party/ply-image
+	url = https://chromium.googlesource.com/chromiumos/third_party/ply-image
+[submodule "src/third_party/portage-stable"]
+	path = src/third_party/portage-stable
+	url = https://chromium.googlesource.com/chromiumos/overlays/portage-stable
+[submodule "src/third_party/rootdev"]
+	path = src/third_party/rootdev
+	url = https://chromium.googlesource.com/chromiumos/third_party/rootdev
+[submodule "src/third_party/seabios"]
+	path = src/third_party/seabios
+	url = https://chromium.googlesource.com/chromiumos/third_party/seabios
+[submodule "src/third_party/sigrok-cli"]
+	path = src/third_party/sigrok-cli
+	url = https://chromium.googlesource.com/chromiumos/third_party/libsigrok-cli
+[submodule "src/third_party/sysbios"]
+	path = src/third_party/sysbios
+	url = https://chromium.googlesource.com/chromiumos/third_party/sysbios
+[submodule "src/third_party/tegra-power-query"]
+	path = src/third_party/tegra-power-query
+	url = https://chromium.googlesource.com/chromiumos/third_party/tegra-power-query
+[submodule "src/third_party/tegrastats"]
+	path = src/third_party/tegrastats
+	url = https://chromium.googlesource.com/chromiumos/third_party/tegrastats
+[submodule "src/third_party/tlsdate"]
+	path = src/third_party/tlsdate
+	url = https://chromium.googlesource.com/chromiumos/third_party/tlsdate
+[submodule "src/third_party/tpm-emulator"]
+	path = src/third_party/tpm-emulator
+	url = https://chromium.googlesource.com/chromiumos/third_party/tpm-emulator
+[submodule "src/third_party/tpm"]
+	path = src/third_party/tpm
+	url = https://chromium.googlesource.com/chromiumos/platform/tpm
+[submodule "src/third_party/trousers"]
+	path = src/third_party/trousers
+	url = https://chromium.googlesource.com/chromiumos/third_party/trousers
+[submodule "src/third_party/u-boot/files"]
+	path = src/third_party/u-boot/files
+	url = https://chromium.googlesource.com/chromiumos/third_party/u-boot
+[submodule "src/third_party/wpa_supplicant"]
+	path = src/third_party/wpa_supplicant
+	url = https://chromium.googlesource.com/chromiumos/third_party/hostap
+[submodule "src/third_party/xf86-video-armsoc"]
+	path = src/third_party/xf86-video-armsoc
+	url = https://chromium.googlesource.com/chromiumos/third_party/xf86-video-armsoc
