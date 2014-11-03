@@ -286,6 +286,9 @@
 [submodule "src/third_party/libsigrokdecode"]
 	path = src/third_party/libsigrokdecode
 	url = https://chromium.googlesource.com/chromiumos/third_party/libsigrokdecode
+[submodule "src/third_party/libv4lplugins"]
+	path = src/third_party/libv4lplugins
+	url = https://chromium.googlesource.com/chromiumos/third_party/libv4lplugins
 [submodule "src/third_party/linux-firmware"]
 	path = src/third_party/linux-firmware
 	url = https://chromium.googlesource.com/chromiumos/third_party/linux-firmware
