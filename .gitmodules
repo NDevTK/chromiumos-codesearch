@@ -109,6 +109,9 @@
 [submodule "src/platform/system_api"]
 	path = src/platform/system_api
 	url = https://chromium.googlesource.com/chromiumos/platform/system_api
+[submodule "src/platform/touch_firmware_test"]
+	path = src/platform/touch_firmware_test
+	url = https://chromium.googlesource.com/chromiumos/platform/touch_firmware_test
 [submodule "src/platform/touch_noise_filter"]
 	path = src/platform/touch_noise_filter
 	url = https://chromium.googlesource.com/chromiumos/platform/touch_noise_filter
