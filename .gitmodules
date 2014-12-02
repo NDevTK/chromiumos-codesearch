@@ -1,6 +1,9 @@
 [submodule "chromite"]
 	path = chromite
 	url = https://chromium.googlesource.com/chromiumos/chromite
+[submodule "chromium/src/components/metrics"]
+	path = chromium/src/components/metrics
+	url = https://chromium.googlesource.com/chromium/src/components/metrics
 [submodule "chromium/src/third_party/hwcplus"]
 	path = chromium/src/third_party/hwcplus
 	url = https://chromium.googlesource.com/chromium/src/third_party/hwcplus
