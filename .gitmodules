@@ -142,6 +142,9 @@
 [submodule "src/platform/vpd"]
 	path = src/platform/vpd
 	url = https://chromium.googlesource.com/chromiumos/platform/vpd
+[submodule "src/platform/webplot"]
+	path = src/platform/webplot
+	url = https://chromium.googlesource.com/chromiumos/platform/webplot
 [submodule "src/platform/wireless_automation"]
 	path = src/platform/wireless_automation
 	url = https://chromium.googlesource.com/chromiumos/platform/wireless_automation
