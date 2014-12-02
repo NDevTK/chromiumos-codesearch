@@ -256,17 +256,17 @@
 [submodule "src/third_party/ibus-xkb-layouts/files"]
 	path = src/third_party/ibus-xkb-layouts/files
 	url = https://chromium.googlesource.com/chromiumos/third_party/ibus-xkb-layouts
-[submodule "src/third_party/kernel/3.10"]
-	path = src/third_party/kernel/3.10
-	url = https://chromium.googlesource.com/chromiumos/third_party/kernel-next
-[submodule "src/third_party/kernel/3.14"]
-	path = src/third_party/kernel/3.14
+[submodule "src/third_party/kernel/v3.10"]
+	path = src/third_party/kernel/v3.10
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
-[submodule "src/third_party/kernel/3.4"]
-	path = src/third_party/kernel/3.4
+[submodule "src/third_party/kernel/v3.14"]
+	path = src/third_party/kernel/v3.14
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
-[submodule "src/third_party/kernel/3.8"]
-	path = src/third_party/kernel/3.8
+[submodule "src/third_party/kernel/v3.4"]
+	path = src/third_party/kernel/v3.4
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "src/third_party/kernel/v3.8"]
+	path = src/third_party/kernel/v3.8
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "src/third_party/khronos"]
 	path = src/third_party/khronos
