@@ -241,9 +241,6 @@
 [submodule "src/third_party/gdmwimax"]
 	path = src/third_party/gdmwimax
 	url = https://chromium.googlesource.com/chromiumos/third_party/gdmwimax
-[submodule "src/third_party/glibc"]
-	path = src/third_party/glibc
-	url = https://chromium.googlesource.com/chromiumos/third_party/glibc
 [submodule "src/third_party/gobi3k-sdk"]
 	path = src/third_party/gobi3k-sdk
 	url = https://chromium.googlesource.com/chromiumos/third_party/gobi3k-sdk
