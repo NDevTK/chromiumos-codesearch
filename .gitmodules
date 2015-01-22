@@ -187,6 +187,9 @@
 [submodule "src/third_party/binutils"]
 	path = src/third_party/binutils
 	url = https://chromium.googlesource.com/chromiumos/third_party/binutils
+[submodule "src/third_party/bluez"]
+	path = src/third_party/bluez
+	url = https://chromium.googlesource.com/chromiumos/third_party/bluez
 [submodule "src/third_party/bootstub"]
 	path = src/third_party/bootstub
 	url = https://chromium.googlesource.com/chromiumos/third_party/bootstub
