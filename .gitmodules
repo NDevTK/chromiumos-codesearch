@@ -52,9 +52,6 @@
 [submodule "src/platform/ec"]
 	path = src/platform/ec
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
-[submodule "src/platform/factory-utils"]
-	path = src/platform/factory-utils
-	url = https://chromium.googlesource.com/chromiumos/platform/factory-utils
 [submodule "src/platform/factory"]
 	path = src/platform/factory
 	url = https://chromium.googlesource.com/chromiumos/platform/factory
