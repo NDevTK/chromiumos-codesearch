@@ -316,6 +316,9 @@
 [submodule "src/third_party/memtest"]
 	path = src/third_party/memtest
 	url = https://chromium.googlesource.com/chromiumos/third_party/memtest
+[submodule "src/third_party/mesa-img"]
+	path = src/third_party/mesa-img
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
 [submodule "src/third_party/mesa"]
 	path = src/third_party/mesa
 	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
