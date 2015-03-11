@@ -277,9 +277,6 @@
 [submodule "src/third_party/khronos"]
 	path = src/third_party/khronos
 	url = https://chromium.googlesource.com/chromiumos/third_party/khronos
-[submodule "src/third_party/leveldb"]
-	path = src/third_party/leveldb
-	url = https://chromium.googlesource.com/chromiumos/third_party/leveldb
 [submodule "src/third_party/libc-bench"]
 	path = src/third_party/libc-bench
 	url = https://chromium.googlesource.com/chromiumos/third_party/libc-bench
