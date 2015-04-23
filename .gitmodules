@@ -31,6 +31,9 @@
 [submodule "src/platform/bootcache"]
 	path = src/platform/bootcache
 	url = https://chromium.googlesource.com/chromiumos/platform/bootcache
+[submodule "src/platform/bt"]
+	path = src/platform/bt
+	url = https://android.googlesource.com/platform/system/bt
 [submodule "src/platform/btsocket"]
 	path = src/platform/btsocket
 	url = https://chromium.googlesource.com/chromiumos/platform/btsocket
@@ -40,6 +43,9 @@
 [submodule "src/platform/chromiumos-assets"]
 	path = src/platform/chromiumos-assets
 	url = https://chromium.googlesource.com/chromiumos/platform/chromiumos-assets
+[submodule "src/platform/core"]
+	path = src/platform/core
+	url = https://android.googlesource.com/platform/system/core
 [submodule "src/platform/crostestutils"]
 	path = src/platform/crostestutils
 	url = https://chromium.googlesource.com/chromiumos/platform/crostestutils
@@ -85,6 +91,9 @@
 [submodule "src/platform/libevdev"]
 	path = src/platform/libevdev
 	url = https://chromium.googlesource.com/chromiumos/platform/libevdev
+[submodule "src/platform/libhardware"]
+	path = src/platform/libhardware
+	url = https://android.googlesource.com/platform/hardware/libhardware
 [submodule "src/platform/memento_softwareupdate"]
 	path = src/platform/memento_softwareupdate
 	url = https://chromium.googlesource.com/chromiumos/platform/memento_softwareupdate
