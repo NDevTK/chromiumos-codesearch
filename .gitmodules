@@ -283,6 +283,9 @@
 [submodule "src/third_party/kernel/v3.18-experiment"]
 	path = src/third_party/kernel/v3.18-experiment
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel-next
+[submodule "src/third_party/kernel/v3.18"]
+	path = src/third_party/kernel/v3.18
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "src/third_party/kernel/v3.4"]
 	path = src/third_party/kernel/v3.4
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
