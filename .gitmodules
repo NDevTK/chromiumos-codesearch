@@ -76,6 +76,9 @@
 [submodule "src/platform/gestures"]
 	path = src/platform/gestures
 	url = https://chromium.googlesource.com/chromiumos/platform/gestures
+[submodule "src/platform/go-seccomp"]
+	path = src/platform/go-seccomp
+	url = https://chromium.googlesource.com/chromiumos/platform/go-seccomp
 [submodule "src/platform/google-breakpad"]
 	path = src/platform/google-breakpad
 	url = https://chromium.googlesource.com/chromiumos/platform/google-breakpad
