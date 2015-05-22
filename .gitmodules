@@ -385,6 +385,9 @@
 [submodule "src/third_party/tpm"]
 	path = src/third_party/tpm
 	url = https://chromium.googlesource.com/chromiumos/platform/tpm
+[submodule "src/third_party/tpm2"]
+	path = src/third_party/tpm2
+	url = https://chromium.googlesource.com/chromiumos/third_party/tpm2
 [submodule "src/third_party/trousers"]
 	path = src/third_party/trousers
 	url = https://chromium.googlesource.com/chromiumos/third_party/trousers
