@@ -352,6 +352,9 @@
 [submodule "src/third_party/modemmanager-next"]
 	path = src/third_party/modemmanager-next
 	url = https://chromium.googlesource.com/chromiumos/third_party/modemmanager-next
+[submodule "src/third_party/modp_b64"]
+	path = src/third_party/modp_b64
+	url = https://android.googlesource.com/platform/external/modp_b64
 [submodule "src/third_party/opencryptoki"]
 	path = src/third_party/opencryptoki
 	url = https://chromium.googlesource.com/chromiumos/third_party/opencryptoki
