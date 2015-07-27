@@ -13,6 +13,18 @@
 [submodule "manifest"]
 	path = manifest
 	url = https://chromium.googlesource.com/chromiumos/manifest
+[submodule "src/aosp/external/libchrome"]
+	path = src/aosp/external/libchrome
+	url = https://android.googlesource.com/platform/external/libchrome
+[submodule "src/aosp/external/libchromeos"]
+	path = src/aosp/external/libchromeos
+	url = https://android.googlesource.com/platform/external/libchromeos
+[submodule "src/aosp/system/connectivity/shill"]
+	path = src/aosp/system/connectivity/shill
+	url = https://android.googlesource.com/platform/system/connectivity/shill
+[submodule "src/aosp/system/update_engine"]
+	path = src/aosp/system/update_engine
+	url = https://android.googlesource.com/platform/system/update_engine
 [submodule "src/overlays"]
 	path = src/overlays
 	url = https://chromium.googlesource.com/chromiumos/overlays/board-overlays
