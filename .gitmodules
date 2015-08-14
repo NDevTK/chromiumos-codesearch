@@ -25,6 +25,9 @@
 [submodule "src/aosp/system/connectivity/shill"]
 	path = src/aosp/system/connectivity/shill
 	url = https://android.googlesource.com/platform/system/connectivity/shill
+[submodule "src/aosp/system/firewalld"]
+	path = src/aosp/system/firewalld
+	url = https://android.googlesource.com/platform/system/firewalld
 [submodule "src/aosp/system/update_engine"]
 	path = src/aosp/system/update_engine
 	url = https://android.googlesource.com/platform/system/update_engine
