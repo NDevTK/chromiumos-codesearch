@@ -31,6 +31,9 @@
 [submodule "src/aosp/system/update_engine"]
 	path = src/aosp/system/update_engine
 	url = https://android.googlesource.com/platform/system/update_engine
+[submodule "src/aosp/system/webservd"]
+	path = src/aosp/system/webservd
+	url = https://android.googlesource.com/platform/system/webservd
 [submodule "src/overlays"]
 	path = src/overlays
 	url = https://chromium.googlesource.com/chromiumos/overlays/board-overlays
