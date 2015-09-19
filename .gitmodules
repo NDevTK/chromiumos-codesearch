@@ -268,9 +268,6 @@
 [submodule "src/third_party/dbus-spy"]
 	path = src/third_party/dbus-spy
 	url = https://chromium.googlesource.com/chromiumos/third_party/dbus-spy
-[submodule "src/third_party/dhcpcd"]
-	path = src/third_party/dhcpcd
-	url = https://chromium.googlesource.com/chromiumos/third_party/dhcpcd
 [submodule "src/third_party/eclass-overlay"]
 	path = src/third_party/eclass-overlay
 	url = https://chromium.googlesource.com/chromiumos/overlays/eclass-overlay
