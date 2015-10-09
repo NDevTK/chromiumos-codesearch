@@ -22,6 +22,9 @@
 [submodule "src/aosp/external/libchromeos"]
 	path = src/aosp/external/libchromeos
 	url = https://android.googlesource.com/platform/external/libchromeos
+[submodule "src/aosp/external/minijail"]
+	path = src/aosp/external/minijail
+	url = https://android.googlesource.com/platform/external/minijail
 [submodule "src/aosp/system/attestation"]
 	path = src/aosp/system/attestation
 	url = https://android.googlesource.com/platform/system/attestation
