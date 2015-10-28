@@ -31,6 +31,9 @@
 [submodule "src/aosp/system/connectivity/apmanager"]
 	path = src/aosp/system/connectivity/apmanager
 	url = https://android.googlesource.com/platform/system/connectivity/apmanager
+[submodule "src/aosp/system/connectivity/dhcp_client"]
+	path = src/aosp/system/connectivity/dhcp_client
+	url = https://android.googlesource.com/platform/system/connectivity/dhcp_client
 [submodule "src/aosp/system/connectivity/shill"]
 	path = src/aosp/system/connectivity/shill
 	url = https://android.googlesource.com/platform/system/connectivity/shill
