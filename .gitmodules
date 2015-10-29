@@ -16,6 +16,9 @@
 [submodule "src/aosp/external/dbus-binding-generator"]
 	path = src/aosp/external/dbus-binding-generator
 	url = https://android.googlesource.com/platform/external/dbus-binding-generator
+[submodule "src/aosp/external/libbrillo"]
+	path = src/aosp/external/libbrillo
+	url = https://android.googlesource.com/platform/external/libbrillo
 [submodule "src/aosp/external/libchrome"]
 	path = src/aosp/external/libchrome
 	url = https://android.googlesource.com/platform/external/libchrome
