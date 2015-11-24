@@ -25,9 +25,6 @@
 [submodule "src/aosp/external/minijail"]
 	path = src/aosp/external/minijail
 	url = https://android.googlesource.com/platform/external/minijail
-[submodule "src/aosp/system/attestation"]
-	path = src/aosp/system/attestation
-	url = https://android.googlesource.com/platform/system/attestation
 [submodule "src/aosp/system/connectivity/apmanager"]
 	path = src/aosp/system/connectivity/apmanager
 	url = https://android.googlesource.com/platform/system/connectivity/apmanager
@@ -40,12 +37,9 @@
 [submodule "src/aosp/system/firewalld"]
 	path = src/aosp/system/firewalld
 	url = https://android.googlesource.com/platform/system/firewalld
-[submodule "src/aosp/system/tpm_manager"]
-	path = src/aosp/system/tpm_manager
-	url = https://android.googlesource.com/platform/system/tpm_manager
-[submodule "src/aosp/system/trunks"]
-	path = src/aosp/system/trunks
-	url = https://android.googlesource.com/platform/system/trunks
+[submodule "src/aosp/system/tpm"]
+	path = src/aosp/system/tpm
+	url = https://android.googlesource.com/platform/system/tpm
 [submodule "src/aosp/system/update_engine"]
 	path = src/aosp/system/update_engine
 	url = https://android.googlesource.com/platform/system/update_engine
