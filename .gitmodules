@@ -46,6 +46,9 @@
 [submodule "src/aosp/system/webservd"]
 	path = src/aosp/system/webservd
 	url = https://android.googlesource.com/platform/system/webservd
+[submodule "src/aosp/toolchain/binutils"]
+	path = src/aosp/toolchain/binutils
+	url = https://android.googlesource.com/toolchain/binutils
 [submodule "src/overlays"]
 	path = src/overlays
 	url = https://chromium.googlesource.com/chromiumos/overlays/board-overlays
