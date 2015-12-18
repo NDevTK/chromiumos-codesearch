@@ -61,6 +61,9 @@
 [submodule "src/platform/battery_updater"]
 	path = src/platform/battery_updater
 	url = https://chromium.googlesource.com/chromiumos/platform/battery_updater
+[submodule "src/platform/bmpblk"]
+	path = src/platform/bmpblk
+	url = https://chromium.googlesource.com/chromiumos/platform/bmpblk
 [submodule "src/platform/bootcache"]
 	path = src/platform/bootcache
 	url = https://chromium.googlesource.com/chromiumos/platform/bootcache
