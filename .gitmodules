@@ -13,6 +13,9 @@
 [submodule "manifest"]
 	path = manifest
 	url = https://chromium.googlesource.com/chromiumos/manifest
+[submodule "src/aosp/external/bsdiff"]
+	path = src/aosp/external/bsdiff
+	url = https://android.googlesource.com/platform/external/bsdiff
 [submodule "src/aosp/external/dbus-binding-generator"]
 	path = src/aosp/external/dbus-binding-generator
 	url = https://android.googlesource.com/platform/external/dbus-binding-generator
