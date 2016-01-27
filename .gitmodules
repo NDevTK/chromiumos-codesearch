@@ -244,6 +244,9 @@
 [submodule "src/third_party/bootstub"]
 	path = src/third_party/bootstub
 	url = https://chromium.googlesource.com/chromiumos/third_party/bootstub
+[submodule "src/third_party/breakpad"]
+	path = src/third_party/breakpad
+	url = https://chromium.googlesource.com/chromiumos/platform/google-breakpad
 [submodule "src/third_party/broadcom"]
 	path = src/third_party/broadcom
 	url = https://chromium.googlesource.com/chromiumos/third_party/broadcom
