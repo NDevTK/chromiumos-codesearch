@@ -118,9 +118,6 @@
 [submodule "src/platform/go-seccomp"]
 	path = src/platform/go-seccomp
 	url = https://chromium.googlesource.com/chromiumos/platform/go-seccomp
-[submodule "src/platform/google-breakpad"]
-	path = src/platform/google-breakpad
-	url = https://chromium.googlesource.com/chromiumos/platform/google-breakpad
 [submodule "src/platform/initramfs"]
 	path = src/platform/initramfs
 	url = https://chromium.googlesource.com/chromiumos/platform/initramfs
