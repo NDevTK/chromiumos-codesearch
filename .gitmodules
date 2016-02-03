@@ -13,6 +13,9 @@
 [submodule "manifest"]
 	path = manifest
 	url = https://chromium.googlesource.com/chromiumos/manifest
+[submodule "src/aosp/bootable/recovery"]
+	path = src/aosp/bootable/recovery
+	url = https://android.googlesource.com/platform/bootable/recovery
 [submodule "src/aosp/external/bsdiff"]
 	path = src/aosp/external/bsdiff
 	url = https://android.googlesource.com/platform/external/bsdiff
