@@ -250,9 +250,6 @@
 [submodule "src/third_party/broadcom"]
 	path = src/third_party/broadcom
 	url = https://chromium.googlesource.com/chromiumos/third_party/broadcom
-[submodule "src/third_party/bsdiff"]
-	path = src/third_party/bsdiff
-	url = https://chromium.googlesource.com/chromiumos/third_party/bsdiff
 [submodule "src/third_party/cbootimage"]
 	path = src/third_party/cbootimage
 	url = https://chromium.googlesource.com/chromiumos/third_party/cbootimage
