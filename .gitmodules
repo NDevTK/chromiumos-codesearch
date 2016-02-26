@@ -190,6 +190,9 @@
 [submodule "src/platform/uboot-env"]
 	path = src/platform/uboot-env
 	url = https://chromium.googlesource.com/chromiumos/platform/uboot-env
+[submodule "src/platform/vboot"]
+	path = src/platform/vboot
+	url = https://chromium.googlesource.com/chromiumos/platform/vboot
 [submodule "src/platform/vboot_reference"]
 	path = src/platform/vboot_reference
 	url = https://chromium.googlesource.com/chromiumos/platform/vboot_reference
