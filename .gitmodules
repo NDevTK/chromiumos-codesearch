@@ -7,9 +7,6 @@
 [submodule "chromium/src/third_party/libmtp"]
 	path = chromium/src/third_party/libmtp
 	url = https://chromium.googlesource.com/chromium/deps/libmtp
-[submodule "chromium/tools/depot_tools"]
-	path = chromium/tools/depot_tools
-	url = https://chromium.googlesource.com/chromium/tools/depot_tools
 [submodule "manifest"]
 	path = manifest
 	url = https://chromium.googlesource.com/chromiumos/manifest
@@ -232,9 +229,6 @@
 [submodule "src/third_party/android_mtdutils"]
 	path = src/third_party/android_mtdutils
 	url = https://chromium.googlesource.com/chromiumos/third_party/android_mtdutils
-[submodule "src/third_party/arm-trusted-firmware"]
-	path = src/third_party/arm-trusted-firmware
-	url = https://chromium.googlesource.com/chromiumos/third_party/arm-trusted-firmware
 [submodule "src/third_party/atheros"]
 	path = src/third_party/atheros
 	url = https://chromium.googlesource.com/chromiumos/third_party/atheros
