@@ -325,6 +325,9 @@
 [submodule "src/third_party/kernel/v4.4-experimental"]
 	path = src/third_party/kernel/v4.4-experimental
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel-next
+[submodule "src/third_party/kernel/v4.4"]
+	path = src/third_party/kernel/v4.4
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "src/third_party/khronos"]
 	path = src/third_party/khronos
 	url = https://chromium.googlesource.com/chromiumos/third_party/khronos
