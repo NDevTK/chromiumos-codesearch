@@ -433,6 +433,9 @@
 [submodule "src/third_party/u-boot/next"]
 	path = src/third_party/u-boot/next
 	url = https://chromium.googlesource.com/chromiumos/third_party/u-boot
+[submodule "src/third_party/whining"]
+	path = src/third_party/whining
+	url = https://chromium.googlesource.com/chromiumos/third_party/whining
 [submodule "src/third_party/wpa_supplicant"]
 	path = src/third_party/wpa_supplicant
 	url = https://chromium.googlesource.com/chromiumos/third_party/hostap
