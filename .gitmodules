@@ -259,6 +259,9 @@
 [submodule "src/third_party/coreboot"]
 	path = src/third_party/coreboot
 	url = https://chromium.googlesource.com/chromiumos/third_party/coreboot
+[submodule "src/third_party/cryptoc"]
+	path = src/third_party/cryptoc
+	url = https://chromium.googlesource.com/chromiumos/third_party/cryptoc
 [submodule "src/third_party/cypress-tools"]
 	path = src/third_party/cypress-tools
 	url = https://chromium.googlesource.com/chromiumos/third_party/cypress-tools
