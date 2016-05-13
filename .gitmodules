@@ -18,37 +18,34 @@
 	url = https://android.googlesource.com/platform/external/bsdiff
 [submodule "src/aosp/external/dbus-binding-generator"]
 	path = src/aosp/external/dbus-binding-generator
-	url = https://android.googlesource.com/platform/external/dbus-binding-generator
+	url = https://chromium.googlesource.com/aosp/platform/external/dbus-binding-generator
 [submodule "src/aosp/external/libbrillo"]
 	path = src/aosp/external/libbrillo
-	url = https://android.googlesource.com/platform/external/libbrillo
+	url = https://chromium.googlesource.com/aosp/platform/external/libbrillo
 [submodule "src/aosp/external/libchrome"]
 	path = src/aosp/external/libchrome
-	url = https://android.googlesource.com/platform/external/libchrome
+	url = https://chromium.googlesource.com/aosp/platform/external/libchrome
 [submodule "src/aosp/external/minijail"]
 	path = src/aosp/external/minijail
-	url = https://android.googlesource.com/platform/external/minijail
+	url = https://chromium.googlesource.com/aosp/platform/external/minijail
 [submodule "src/aosp/system/connectivity/apmanager"]
 	path = src/aosp/system/connectivity/apmanager
-	url = https://android.googlesource.com/platform/system/connectivity/apmanager
-[submodule "src/aosp/system/connectivity/dhcp_client"]
-	path = src/aosp/system/connectivity/dhcp_client
-	url = https://android.googlesource.com/platform/system/connectivity/dhcp_client
+	url = https://chromium.googlesource.com/aosp/platform/system/connectivity/apmanager
 [submodule "src/aosp/system/connectivity/shill"]
 	path = src/aosp/system/connectivity/shill
-	url = https://android.googlesource.com/platform/system/connectivity/shill
+	url = https://chromium.googlesource.com/aosp/platform/system/connectivity/shill
 [submodule "src/aosp/system/firewalld"]
 	path = src/aosp/system/firewalld
-	url = https://android.googlesource.com/platform/system/firewalld
+	url = https://chromium.googlesource.com/aosp/platform/system/firewalld
 [submodule "src/aosp/system/tpm"]
 	path = src/aosp/system/tpm
-	url = https://android.googlesource.com/platform/system/tpm
+	url = https://chromium.googlesource.com/aosp/platform/system/tpm
 [submodule "src/aosp/system/update_engine"]
 	path = src/aosp/system/update_engine
-	url = https://android.googlesource.com/platform/system/update_engine
+	url = https://chromium.googlesource.com/aosp/platform/system/update_engine
 [submodule "src/aosp/system/webservd"]
 	path = src/aosp/system/webservd
-	url = https://android.googlesource.com/platform/system/webservd
+	url = https://chromium.googlesource.com/aosp/platform/system/webservd
 [submodule "src/aosp/toolchain/binutils"]
 	path = src/aosp/toolchain/binutils
 	url = https://android.googlesource.com/toolchain/binutils
@@ -387,7 +384,7 @@
 	url = https://chromium.googlesource.com/chromiumos/third_party/modemmanager-next
 [submodule "src/third_party/modp_b64"]
 	path = src/third_party/modp_b64
-	url = https://android.googlesource.com/platform/external/modp_b64
+	url = https://chromium.googlesource.com/aosp/platform/external/modp_b64
 [submodule "src/third_party/opencryptoki"]
 	path = src/third_party/opencryptoki
 	url = https://chromium.googlesource.com/chromiumos/third_party/opencryptoki
