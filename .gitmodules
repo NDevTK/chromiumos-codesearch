@@ -226,6 +226,9 @@
 [submodule "src/third_party/android_mtdutils"]
 	path = src/third_party/android_mtdutils
 	url = https://chromium.googlesource.com/chromiumos/third_party/android_mtdutils
+[submodule "src/third_party/arc-mesa"]
+	path = src/third_party/arc-mesa
+	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
 [submodule "src/third_party/atheros"]
 	path = src/third_party/atheros
 	url = https://chromium.googlesource.com/chromiumos/third_party/atheros
