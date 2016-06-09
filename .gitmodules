@@ -115,6 +115,9 @@
 [submodule "src/platform/go-seccomp"]
 	path = src/platform/go-seccomp
 	url = https://chromium.googlesource.com/chromiumos/platform/go-seccomp
+[submodule "src/platform/imageloader"]
+	path = src/platform/imageloader
+	url = https://chromium.googlesource.com/chromiumos/platform/imageloader
 [submodule "src/platform/initramfs"]
 	path = src/platform/initramfs
 	url = https://chromium.googlesource.com/chromiumos/platform/initramfs
