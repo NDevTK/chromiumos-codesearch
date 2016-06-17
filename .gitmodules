@@ -49,6 +49,9 @@
 [submodule "src/aosp/toolchain/binutils"]
 	path = src/aosp/toolchain/binutils
 	url = https://android.googlesource.com/toolchain/binutils
+[submodule "src/aosp/toolchain/gcc"]
+	path = src/aosp/toolchain/gcc
+	url = https://android.googlesource.com/toolchain/gcc
 [submodule "src/overlays"]
 	path = src/overlays
 	url = https://chromium.googlesource.com/chromiumos/overlays/board-overlays
