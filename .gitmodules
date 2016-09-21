@@ -446,6 +446,10 @@
 	branch = refs/heads/master
 	path = src/third_party/khronos
 	url = https://chromium.googlesource.com/chromiumos/third_party/khronos
+[submodule "src/third_party/libapps"]
+	branch = refs/heads/master
+	path = src/third_party/libapps
+	url = https://chromium.googlesource.com/apps/libapps
 [submodule "src/third_party/libc-bench"]
 	branch = refs/heads/master
 	path = src/third_party/libc-bench
