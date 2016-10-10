@@ -130,6 +130,10 @@
 	branch = refs/heads/master
 	path = src/platform/ec
 	url = https://chromium.googlesource.com/chromiumos/platform/ec
+[submodule "src/platform/experimental"]
+	branch = refs/heads/master
+	path = src/platform/experimental
+	url = https://chromium.googlesource.com/chromiumos/platform/experimental
 [submodule "src/platform/factory"]
 	branch = refs/heads/master
 	path = src/platform/factory
