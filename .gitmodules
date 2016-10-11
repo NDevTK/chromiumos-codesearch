@@ -254,10 +254,6 @@
 	branch = refs/heads/master
 	path = src/platform/uboot-env
 	url = https://chromium.googlesource.com/chromiumos/platform/uboot-env
-[submodule "src/platform/vboot"]
-	branch = refs/heads/master
-	path = src/platform/vboot
-	url = https://chromium.googlesource.com/chromiumos/platform/vboot
 [submodule "src/platform/vboot_reference"]
 	branch = refs/heads/master
 	path = src/platform/vboot_reference
