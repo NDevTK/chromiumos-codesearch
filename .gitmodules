@@ -70,6 +70,10 @@
 	branch = refs/heads/master
 	path = src/overlays
 	url = https://chromium.googlesource.com/chromiumos/overlays/board-overlays
+[submodule "src/platform/arc-camera"]
+	branch = refs/heads/master
+	path = src/platform/arc-camera
+	url = https://chromium.googlesource.com/chromiumos/platform/arc-camera
 [submodule "src/platform/assets"]
 	branch = refs/heads/master
 	path = src/platform/assets
