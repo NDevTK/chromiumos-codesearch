@@ -37,7 +37,7 @@
 [submodule "src/aosp/external/minijail"]
 	branch = refs/heads/master
 	path = src/aosp/external/minijail
-	url = https://chromium.googlesource.com/aosp/platform/external/minijail
+	url = https://android.googlesource.com/platform/external/minijail
 [submodule "src/aosp/system/connectivity/apmanager"]
 	branch = refs/heads/master
 	path = src/aosp/system/connectivity/apmanager
