@@ -10,6 +10,10 @@
 	branch = refs/heads/master
 	path = chromium/src/third_party/libmtp
 	url = https://chromium.googlesource.com/chromium/deps/libmtp
+[submodule "infra_virtualenv"]
+	branch = refs/heads/master
+	path = infra_virtualenv
+	url = https://chromium.googlesource.com/chromiumos/infra_virtualenv
 [submodule "manifest"]
 	branch = refs/heads/master
 	path = manifest
