@@ -166,6 +166,10 @@
 	branch = refs/heads/master
 	path = src/platform/go-seccomp
 	url = https://chromium.googlesource.com/chromiumos/platform/go-seccomp
+[submodule "src/platform/graphyte"]
+	branch = refs/heads/master
+	path = src/platform/graphyte
+	url = https://chromium.googlesource.com/chromiumos/graphyte
 [submodule "src/platform/imageloader"]
 	branch = refs/heads/master
 	path = src/platform/imageloader
