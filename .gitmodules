@@ -198,10 +198,6 @@
 	branch = refs/heads/master
 	path = src/platform/memento_softwareupdate
 	url = https://chromium.googlesource.com/chromiumos/platform/memento_softwareupdate
-[submodule "src/platform/microbenchmark"]
-	branch = refs/heads/master
-	path = src/platform/microbenchmark
-	url = https://chromium.googlesource.com/chromiumos/platform/microbenchmark
 [submodule "src/platform/minigbm"]
 	branch = refs/heads/master
 	path = src/platform/minigbm
