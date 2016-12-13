@@ -254,10 +254,6 @@
 	branch = refs/heads/master
 	path = src/platform/tpm_lite
 	url = https://chromium.googlesource.com/chromiumos/platform/tpm_lite
-[submodule "src/platform/trunks"]
-	branch = refs/heads/master
-	path = src/platform/trunks
-	url = https://chromium.googlesource.com/chromiumos/platform/trunks
 [submodule "src/platform/uboot-env"]
 	branch = refs/heads/master
 	path = src/platform/uboot-env
