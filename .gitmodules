@@ -98,10 +98,6 @@
 	branch = refs/heads/master
 	path = src/platform/bootcache
 	url = https://chromium.googlesource.com/chromiumos/platform/bootcache
-[submodule "src/platform/bt"]
-	branch = refs/heads/master
-	path = src/platform/bt
-	url = https://android.googlesource.com/platform/system/bt
 [submodule "src/platform/btsocket"]
 	branch = refs/heads/master
 	path = src/platform/btsocket
@@ -190,10 +186,6 @@
 	branch = refs/heads/master
 	path = src/platform/libevdev
 	url = https://chromium.googlesource.com/chromiumos/platform/libevdev
-[submodule "src/platform/libhardware"]
-	branch = refs/heads/master
-	path = src/platform/libhardware
-	url = https://android.googlesource.com/platform/hardware/libhardware
 [submodule "src/platform/memento_softwareupdate"]
 	branch = refs/heads/master
 	path = src/platform/memento_softwareupdate
@@ -274,10 +266,6 @@
 	branch = refs/heads/master
 	path = src/platform/webplot
 	url = https://chromium.googlesource.com/chromiumos/platform/webplot
-[submodule "src/platform/wireless_automation"]
-	branch = refs/heads/master
-	path = src/platform/wireless_automation
-	url = https://chromium.googlesource.com/chromiumos/platform/wireless_automation
 [submodule "src/platform/workarounds"]
 	branch = refs/heads/master
 	path = src/platform/workarounds
