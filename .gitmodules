@@ -38,6 +38,10 @@
 	branch = refs/heads/master
 	path = src/aosp/external/libchrome
 	url = https://chromium.googlesource.com/aosp/platform/external/libchrome
+[submodule "src/aosp/external/libmojo"]
+	branch = refs/heads/master
+	path = src/aosp/external/libmojo
+	url = https://android.googlesource.com/platform/external/libmojo
 [submodule "src/aosp/external/minijail"]
 	branch = refs/heads/master
 	path = src/aosp/external/minijail
@@ -594,6 +598,10 @@
 	branch = refs/heads/master
 	path = src/third_party/xf86-video-armsoc
 	url = https://chromium.googlesource.com/chromiumos/third_party/xf86-video-armsoc
+[submodule "src/third_party/xfstests"]
+	branch = refs/heads/master
+	path = src/third_party/xfstests
+	url = https://chromium.googlesource.com/external/git.kernel.org/fs/xfs/xfstests-dev
 [submodule "src/weave/libweave"]
 	branch = refs/heads/master
 	path = src/weave/libweave
