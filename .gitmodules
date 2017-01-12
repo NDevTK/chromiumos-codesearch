@@ -10,6 +10,10 @@
 	branch = refs/heads/master
 	path = chromium/src/third_party/libmtp
 	url = https://chromium.googlesource.com/chromium/deps/libmtp
+[submodule "infra/suite_scheduler"]
+	branch = refs/heads/master
+	path = infra/suite_scheduler
+	url = https://chromium.googlesource.com/chromiumos/infra/suite_scheduler
 [submodule "infra_virtualenv"]
 	branch = refs/heads/master
 	path = infra_virtualenv
