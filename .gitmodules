@@ -222,6 +222,10 @@
 	branch = refs/heads/master
 	path = src/platform/mttools
 	url = https://chromium.googlesource.com/chromiumos/platform/mttools
+[submodule "src/platform/newblue"]
+	branch = refs/heads/master
+	path = src/platform/newblue
+	url = https://chromium.googlesource.com/chromiumos/platform/newblue
 [submodule "src/platform/punybench"]
 	branch = refs/heads/master
 	path = src/platform/punybench
@@ -566,6 +570,10 @@
 	branch = refs/heads/master
 	path = src/third_party/tlsdate
 	url = https://chromium.googlesource.com/chromiumos/third_party/tlsdate
+[submodule "src/third_party/toolchain-utils"]
+	branch = refs/heads/master
+	path = src/third_party/toolchain-utils
+	url = https://chromium.googlesource.com/chromiumos/third_party/toolchain-utils
 [submodule "src/third_party/tpm-emulator"]
 	branch = refs/heads/master
 	path = src/third_party/tpm-emulator
