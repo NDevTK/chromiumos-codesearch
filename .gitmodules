@@ -450,6 +450,10 @@
 	branch = refs/heads/master
 	path = src/third_party/khronos
 	url = https://chromium.googlesource.com/chromiumos/third_party/khronos
+[submodule "src/third_party/kvmtool"]
+	branch = refs/heads/master
+	path = src/third_party/kvmtool
+	url = https://chromium.googlesource.com/chromiumos/third_party/kvmtool
 [submodule "src/third_party/libapps"]
 	branch = refs/heads/master
 	path = src/third_party/libapps
