@@ -202,6 +202,10 @@
 	branch = refs/heads/master
 	path = src/platform/minigbm
 	url = https://chromium.googlesource.com/chromiumos/platform/minigbm
+[submodule "src/platform/moblab"]
+	branch = refs/heads/master
+	path = src/platform/moblab
+	url = https://chromium.googlesource.com/chromiumos/platform/moblab
 [submodule "src/platform/monitor_reconfig"]
 	branch = refs/heads/master
 	path = src/platform/monitor_reconfig
