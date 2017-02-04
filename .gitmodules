@@ -422,14 +422,6 @@
 	branch = refs/heads/master
 	path = src/third_party/hwcplus-drm
 	url = https://chromium.googlesource.com/chromiumos/third_party/hwcplus-drm
-[submodule "src/third_party/ibus-chewing/files"]
-	branch = refs/heads/master
-	path = src/third_party/ibus-chewing/files
-	url = https://chromium.googlesource.com/chromiumos/third_party/ibus-chewing
-[submodule "src/third_party/ibus-xkb-layouts/files"]
-	branch = refs/heads/master
-	path = src/third_party/ibus-xkb-layouts/files
-	url = https://chromium.googlesource.com/chromiumos/third_party/ibus-xkb-layouts
 [submodule "src/third_party/kernel/v3.10"]
 	branch = refs/heads/chromeos-3.10
 	path = src/third_party/kernel/v3.10
