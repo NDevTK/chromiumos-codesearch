@@ -282,10 +282,6 @@
 	branch = refs/heads/master
 	path = src/platform/webplot
 	url = https://chromium.googlesource.com/chromiumos/platform/webplot
-[submodule "src/platform/workarounds"]
-	branch = refs/heads/master
-	path = src/platform/workarounds
-	url = https://chromium.googlesource.com/chromiumos/platform/workarounds
 [submodule "src/platform/xf86-input-cmt"]
 	branch = refs/heads/master
 	path = src/platform/xf86-input-cmt
