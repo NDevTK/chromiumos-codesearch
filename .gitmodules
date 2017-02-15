@@ -318,6 +318,10 @@
 	branch = refs/heads/master
 	path = src/third_party/atheros
 	url = https://chromium.googlesource.com/chromiumos/third_party/atheros
+[submodule "src/third_party/atrusctl"]
+	branch = refs/heads/master
+	path = src/third_party/atrusctl
+	url = https://chromium.googlesource.com/chromiumos/third_party/atrusctl
 [submodule "src/third_party/autotest/files"]
 	branch = refs/heads/master
 	path = src/third_party/autotest/files
