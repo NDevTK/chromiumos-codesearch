@@ -606,10 +606,6 @@
 	branch = refs/heads/master
 	path = src/third_party/wpa_supplicant
 	url = https://chromium.googlesource.com/chromiumos/third_party/hostap
-[submodule "src/third_party/xf86-video-armsoc"]
-	branch = refs/heads/master
-	path = src/third_party/xf86-video-armsoc
-	url = https://chromium.googlesource.com/chromiumos/third_party/xf86-video-armsoc
 [submodule "src/third_party/xfstests"]
 	branch = refs/heads/master
 	path = src/third_party/xfstests
