@@ -531,11 +531,11 @@
 	path = src/third_party/modp_b64
 	url = https://chromium.googlesource.com/aosp/platform/external/modp_b64
 [submodule "src/third_party/nfs-ganesha"]
-	branch = refs/heads/V2.4-stable
+	branch = refs/heads/V2.3-stable
 	path = src/third_party/nfs-ganesha
 	url = https://chromium.googlesource.com/chromiumos/third_party/nfs-ganesha
 [submodule "src/third_party/ntirpc"]
-	branch = refs/heads/master
+	branch = refs/heads/V1.3.3-cros
 	path = src/third_party/ntirpc
 	url = https://chromium.googlesource.com/chromiumos/third_party/ntirpc
 [submodule "src/third_party/opencryptoki"]
