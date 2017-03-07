@@ -2,6 +2,10 @@
 	branch = refs/heads/master
 	path = chromite
 	url = https://chromium.googlesource.com/chromiumos/chromite
+[submodule "chromium/src/third_party/Python-Markdown"]
+	branch = refs/heads/master
+	path = chromium/src/third_party/Python-Markdown
+	url = https://chromium.googlesource.com/chromium/src/third_party/Python-Markdown
 [submodule "chromium/src/third_party/hwcplus"]
 	branch = refs/heads/master
 	path = chromium/src/third_party/hwcplus
@@ -10,6 +14,14 @@
 	branch = refs/heads/master
 	path = chromium/src/third_party/libmtp
 	url = https://chromium.googlesource.com/chromium/deps/libmtp
+[submodule "chromium/src/tools/md_browser"]
+	branch = refs/heads/master
+	path = chromium/src/tools/md_browser
+	url = https://chromium.googlesource.com/chromium/src/tools/md_browser
+[submodule "docs"]
+	branch = refs/heads/master
+	path = docs
+	url = https://chromium.googlesource.com/chromiumos/docs
 [submodule "infra/suite_scheduler"]
 	branch = refs/heads/master
 	path = infra/suite_scheduler
