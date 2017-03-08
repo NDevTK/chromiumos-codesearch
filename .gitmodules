@@ -242,6 +242,10 @@
 	branch = refs/heads/master
 	path = src/platform/newblue
 	url = https://chromium.googlesource.com/chromiumos/platform/newblue
+[submodule "src/platform/puffin"]
+	branch = refs/heads/master
+	path = src/platform/puffin
+	url = https://chromium.googlesource.com/chromiumos/platform/puffin
 [submodule "src/platform/punybench"]
 	branch = refs/heads/master
 	path = src/platform/punybench
