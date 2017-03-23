@@ -530,6 +530,10 @@
 	branch = refs/heads/master
 	path = src/third_party/mesa
 	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "src/third_party/mimo-updater"]
+	branch = refs/heads/master
+	path = src/third_party/mimo-updater
+	url = https://chromium.googlesource.com/chromiumos/third_party/mimo-updater
 [submodule "src/third_party/miniFakeDns"]
 	branch = refs/heads/master
 	path = src/third_party/miniFakeDns
