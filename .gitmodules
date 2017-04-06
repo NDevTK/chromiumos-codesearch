@@ -434,6 +434,10 @@
 	branch = refs/heads/master
 	path = src/third_party/hdctools
 	url = https://chromium.googlesource.com/chromiumos/third_party/hdctools
+[submodule "src/third_party/huddly-updater"]
+	branch = refs/heads/master
+	path = src/third_party/huddly-updater
+	url = https://chromium.googlesource.com/chromiumos/third_party/huddly-updater
 [submodule "src/third_party/hwcplus-drm"]
 	branch = refs/heads/master
 	path = src/third_party/hwcplus-drm
