@@ -394,6 +394,10 @@
 	branch = refs/heads/master
 	path = src/third_party/dbus-spy
 	url = https://chromium.googlesource.com/chromiumos/third_party/dbus-spy
+[submodule "src/third_party/displaylink-updater"]
+	branch = refs/heads/master
+	path = src/third_party/displaylink-updater
+	url = https://chromium.googlesource.com/chromiumos/third_party/displaylink-updater
 [submodule "src/third_party/eclass-overlay"]
 	branch = refs/heads/master
 	path = src/third_party/eclass-overlay
@@ -574,6 +578,10 @@
 	branch = refs/heads/master
 	path = src/third_party/portage-stable
 	url = https://chromium.googlesource.com/chromiumos/overlays/portage-stable
+[submodule "src/third_party/realtek-updater"]
+	branch = refs/heads/master
+	path = src/third_party/realtek-updater
+	url = https://chromium.googlesource.com/chromiumos/third_party/realtek-updater
 [submodule "src/third_party/rootdev"]
 	branch = refs/heads/master
 	path = src/third_party/rootdev
@@ -586,6 +594,10 @@
 	branch = refs/heads/chromeos
 	path = src/third_party/sigrok-cli
 	url = https://chromium.googlesource.com/chromiumos/third_party/libsigrok-cli
+[submodule "src/third_party/sis-updater"]
+	branch = refs/heads/master
+	path = src/third_party/sis-updater
+	url = https://chromium.googlesource.com/chromiumos/third_party/sis-updater
 [submodule "src/third_party/sysbios"]
 	branch = refs/heads/master
 	path = src/third_party/sysbios
