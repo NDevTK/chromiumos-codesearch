@@ -6,10 +6,6 @@
 	branch = refs/heads/master
 	path = chromium/src/third_party/Python-Markdown
 	url = https://chromium.googlesource.com/chromium/src/third_party/Python-Markdown
-[submodule "chromium/src/third_party/hwcplus"]
-	branch = refs/heads/master
-	path = chromium/src/third_party/hwcplus
-	url = https://chromium.googlesource.com/chromium/src/third_party/hwcplus
 [submodule "chromium/src/third_party/libmtp"]
 	branch = refs/heads/master
 	path = chromium/src/third_party/libmtp
@@ -446,10 +442,6 @@
 	branch = refs/heads/master
 	path = src/third_party/huddly-updater
 	url = https://chromium.googlesource.com/chromiumos/third_party/huddly-updater
-[submodule "src/third_party/hwcplus-drm"]
-	branch = refs/heads/master
-	path = src/third_party/hwcplus-drm
-	url = https://chromium.googlesource.com/chromiumos/third_party/hwcplus-drm
 [submodule "src/third_party/kernel/v3.10"]
 	branch = refs/heads/chromeos-3.10
 	path = src/third_party/kernel/v3.10
