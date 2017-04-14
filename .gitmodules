@@ -138,6 +138,10 @@
 	branch = refs/heads/master
 	path = src/platform/crostestutils
 	url = https://chromium.googlesource.com/chromiumos/platform/crostestutils
+[submodule "src/platform/crosvm"]
+	branch = refs/heads/master
+	path = src/platform/crosvm
+	url = https://chromium.googlesource.com/chromiumos/platform/crosvm
 [submodule "src/platform/depthcharge"]
 	branch = refs/heads/master
 	path = src/platform/depthcharge
