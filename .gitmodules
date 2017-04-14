@@ -126,10 +126,6 @@
 	branch = refs/heads/master
 	path = src/platform/chromiumos-assets
 	url = https://chromium.googlesource.com/chromiumos/platform/chromiumos-assets
-[submodule "src/platform/core"]
-	branch = refs/heads/master
-	path = src/platform/core
-	url = https://android.googlesource.com/platform/system/core
 [submodule "src/platform/crostestutils"]
 	branch = refs/heads/master
 	path = src/platform/crostestutils
