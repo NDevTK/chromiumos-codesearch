@@ -18,6 +18,10 @@
 	branch = refs/heads/master
 	path = docs
 	url = https://chromium.googlesource.com/chromiumos/docs
+[submodule "infra/distfiles_updater"]
+	branch = refs/heads/master
+	path = infra/distfiles_updater
+	url = https://chromium.googlesource.com/chromiumos/infra/distfiles_updater
 [submodule "infra/suite_scheduler"]
 	branch = refs/heads/master
 	path = infra/suite_scheduler
