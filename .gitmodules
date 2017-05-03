@@ -574,6 +574,10 @@
 	branch = refs/heads/master
 	path = src/third_party/portage-stable
 	url = https://chromium.googlesource.com/chromiumos/overlays/portage-stable
+[submodule "src/third_party/portage_tool"]
+	branch = refs/heads/chromeos-2.2.12
+	path = src/third_party/portage_tool
+	url = https://chromium.googlesource.com/chromiumos/third_party/portage_tool
 [submodule "src/third_party/realtek-updater"]
 	branch = refs/heads/master
 	path = src/third_party/realtek-updater
