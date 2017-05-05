@@ -655,6 +655,6 @@
 	path = src/third_party/xfstests
 	url = https://chromium.googlesource.com/external/git.kernel.org/fs/xfs/xfstests-dev
 [submodule "src/weave/libweave"]
-	branch = refs/heads/refactor-01-2017
+	branch = refs/heads/master
 	path = src/weave/libweave
-	url = https://weave.googlesource.com/weave/libweave
+	url = https://chromium.googlesource.com/weave/libweave
