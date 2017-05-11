@@ -343,7 +343,7 @@
 	path = src/third_party/autotest/files
 	url = https://chromium.googlesource.com/chromiumos/third_party/autotest
 [submodule "src/third_party/bluez"]
-	branch = refs/heads/chromeos-5.41
+	branch = refs/heads/chromeos-5.44
 	path = src/third_party/bluez
 	url = https://chromium.googlesource.com/chromiumos/third_party/bluez
 [submodule "src/third_party/bootstub"]
