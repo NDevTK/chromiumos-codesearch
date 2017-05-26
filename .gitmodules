@@ -54,6 +54,14 @@
 	branch = refs/heads/master
 	path = src/aosp/external/libchrome
 	url = https://chromium.googlesource.com/aosp/platform/external/libchrome
+[submodule "src/aosp/external/libcxx"]
+	branch = refs/heads/master
+	path = src/aosp/external/libcxx
+	url = https://android.googlesource.com/platform/external/libcxx
+[submodule "src/aosp/external/libcxxabi"]
+	branch = refs/heads/master
+	path = src/aosp/external/libcxxabi
+	url = https://android.googlesource.com/platform/external/libcxxabi
 [submodule "src/aosp/external/libmojo"]
 	branch = refs/heads/master
 	path = src/aosp/external/libmojo
@@ -566,10 +574,6 @@
 	branch = refs/heads/master
 	path = src/third_party/opencryptoki
 	url = https://chromium.googlesource.com/chromiumos/third_party/opencryptoki
-[submodule "src/third_party/ply-image"]
-	branch = refs/heads/master
-	path = src/third_party/ply-image
-	url = https://chromium.googlesource.com/chromiumos/third_party/ply-image
 [submodule "src/third_party/portage-stable"]
 	branch = refs/heads/master
 	path = src/third_party/portage-stable
