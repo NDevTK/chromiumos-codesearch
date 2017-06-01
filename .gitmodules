@@ -338,6 +338,10 @@
 	branch = refs/heads/arc-12.1.0-pre2
 	path = src/third_party/arc-mesa
 	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
+[submodule "src/third_party/arm-trusted-firmware"]
+	branch = refs/heads/master
+	path = src/third_party/arm-trusted-firmware
+	url = https://chromium.googlesource.com/chromiumos/third_party/arm-trusted-firmware
 [submodule "src/third_party/atheros"]
 	branch = refs/heads/master
 	path = src/third_party/atheros
