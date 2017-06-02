@@ -66,6 +66,10 @@
 	branch = refs/heads/master
 	path = src/aosp/external/libmojo
 	url = https://android.googlesource.com/platform/external/libmojo
+[submodule "src/aosp/external/libunwind_llvm"]
+	branch = refs/heads/master
+	path = src/aosp/external/libunwind_llvm
+	url = https://android.googlesource.com/platform/external/libunwind_llvm
 [submodule "src/aosp/external/minijail"]
 	branch = refs/heads/master
 	path = src/aosp/external/minijail
