@@ -86,6 +86,10 @@
 	branch = refs/heads/master
 	path = src/aosp/system/firewalld
 	url = https://chromium.googlesource.com/aosp/platform/system/firewalld
+[submodule "src/aosp/system/libsync"]
+	branch = refs/heads/master
+	path = src/aosp/system/libsync
+	url = https://chromium.googlesource.com/aosp/platform/system/core/libsync
 [submodule "src/aosp/system/tpm"]
 	branch = refs/heads/master
 	path = src/aosp/system/tpm
