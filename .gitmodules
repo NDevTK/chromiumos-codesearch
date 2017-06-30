@@ -222,10 +222,6 @@
 	branch = refs/heads/master
 	path = src/platform/libevdev
 	url = https://chromium.googlesource.com/chromiumos/platform/libevdev
-[submodule "src/platform/memento_softwareupdate"]
-	branch = refs/heads/master
-	path = src/platform/memento_softwareupdate
-	url = https://chromium.googlesource.com/chromiumos/platform/memento_softwareupdate
 [submodule "src/platform/minigbm"]
 	branch = refs/heads/master
 	path = src/platform/minigbm
