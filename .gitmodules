@@ -18,6 +18,10 @@
 	branch = refs/heads/master
 	path = docs
 	url = https://chromium.googlesource.com/chromiumos/docs
+[submodule "infra/ci_results_archiver"]
+	branch = refs/heads/master
+	path = infra/ci_results_archiver
+	url = https://chromium.googlesource.com/chromiumos/infra/ci_results_archiver
 [submodule "infra/distfiles_updater"]
 	branch = refs/heads/master
 	path = infra/distfiles_updater
