@@ -343,7 +343,7 @@
 	path = src/third_party/android_mtdutils
 	url = https://chromium.googlesource.com/chromiumos/third_party/android_mtdutils
 [submodule "src/third_party/arc-mesa"]
-	branch = refs/heads/arc-12.1.0-pre2
+	branch = refs/heads/arc-17.2.0-pre1
 	path = src/third_party/arc-mesa
 	url = https://chromium.googlesource.com/chromiumos/third_party/mesa
 [submodule "src/third_party/arm-trusted-firmware"]
@@ -534,6 +534,10 @@
 	branch = refs/heads/master
 	path = src/third_party/linux-firmware
 	url = https://chromium.googlesource.com/chromiumos/third_party/linux-firmware
+[submodule "src/third_party/logitech-updater"]
+	branch = refs/heads/master
+	path = src/third_party/logitech-updater
+	url = https://chromium.googlesource.com/chromiumos/third_party/logitech-updater
 [submodule "src/third_party/ltp"]
 	branch = refs/heads/chromeos-20150119
 	path = src/third_party/ltp
