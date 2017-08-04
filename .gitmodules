@@ -655,7 +655,7 @@
 	path = src/third_party/trousers
 	url = https://chromium.googlesource.com/chromiumos/third_party/trousers
 [submodule "src/third_party/u-boot/files"]
-	branch = refs/heads/chromeos-v2013.06
+	branch = refs/heads/chromeos-v2017.05
 	path = src/third_party/u-boot/files
 	url = https://chromium.googlesource.com/chromiumos/third_party/u-boot
 [submodule "src/third_party/u-boot/next"]
