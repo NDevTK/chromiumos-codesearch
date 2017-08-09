@@ -18,14 +18,30 @@
 	branch = refs/heads/master
 	path = docs
 	url = https://chromium.googlesource.com/chromiumos/docs
+[submodule "infra/bad_cl_detector"]
+	branch = refs/heads/master
+	path = infra/bad_cl_detector
+	url = https://chromium.googlesource.com/chromiumos/infra/bad_cl_detector
 [submodule "infra/ci_results_archiver"]
 	branch = refs/heads/master
 	path = infra/ci_results_archiver
 	url = https://chromium.googlesource.com/chromiumos/infra/ci_results_archiver
+[submodule "infra/cl_exonerator"]
+	branch = refs/heads/master
+	path = infra/cl_exonerator
+	url = https://chromium.googlesource.com/chromiumos/infra/cl_exonerator
+[submodule "infra/cl_status_viewer"]
+	branch = refs/heads/master
+	path = infra/cl_status_viewer
+	url = https://chromium.googlesource.com/chromiumos/infra/cl_status_viewer
 [submodule "infra/distfiles_updater"]
 	branch = refs/heads/master
 	path = infra/distfiles_updater
 	url = https://chromium.googlesource.com/chromiumos/infra/distfiles_updater
+[submodule "infra/lucifer"]
+	branch = refs/heads/master
+	path = infra/lucifer
+	url = https://chromium.googlesource.com/chromiumos/infra/lucifer
 [submodule "infra/suite_scheduler"]
 	branch = refs/heads/master
 	path = infra/suite_scheduler
