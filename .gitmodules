@@ -439,7 +439,7 @@
 	path = src/third_party/eclass-overlay
 	url = https://chromium.googlesource.com/chromiumos/overlays/eclass-overlay
 [submodule "src/third_party/edk2"]
-	branch = refs/heads/chromeos-2014.04
+	branch = refs/heads/chromeos-2017.08
 	path = src/third_party/edk2
 	url = https://chromium.googlesource.com/chromiumos/third_party/edk2
 [submodule "src/third_party/em100"]
