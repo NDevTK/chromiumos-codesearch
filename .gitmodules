@@ -286,6 +286,10 @@
 	branch = refs/heads/master
 	path = src/platform/system_api
 	url = https://chromium.googlesource.com/chromiumos/platform/system_api
+[submodule "src/platform/tast"]
+	branch = refs/heads/master
+	path = src/platform/tast
+	url = https://chromium.googlesource.com/chromiumos/platform/tast
 [submodule "src/platform/touch_firmware_test"]
 	branch = refs/heads/master
 	path = src/platform/touch_firmware_test
