@@ -606,10 +606,6 @@
 	branch = refs/heads/V1.3.3-cros
 	path = src/third_party/ntirpc
 	url = https://chromium.googlesource.com/chromiumos/third_party/ntirpc
-[submodule "src/third_party/opencryptoki"]
-	branch = refs/heads/master
-	path = src/third_party/opencryptoki
-	url = https://chromium.googlesource.com/chromiumos/third_party/opencryptoki
 [submodule "src/third_party/portage-stable"]
 	branch = refs/heads/master
 	path = src/third_party/portage-stable
