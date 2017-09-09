@@ -519,7 +519,7 @@
 	path = src/third_party/libc-bench
 	url = https://chromium.googlesource.com/chromiumos/third_party/libc-bench
 [submodule "src/third_party/libdrm"]
-	branch = refs/heads/chromeos-2.4.81
+	branch = refs/heads/chromeos-2.4.83
 	path = src/third_party/libdrm
 	url = https://chromium.googlesource.com/chromiumos/third_party/libdrm
 [submodule "src/third_party/libmbim"]
