@@ -122,10 +122,6 @@
 	branch = refs/heads/master
 	path = src/aosp/system/webservd
 	url = https://chromium.googlesource.com/aosp/platform/system/webservd
-[submodule "src/aosp/toolchain/binutils"]
-	branch = refs/heads/master
-	path = src/aosp/toolchain/binutils
-	url = https://android.googlesource.com/toolchain/binutils
 [submodule "src/overlays"]
 	branch = refs/heads/master
 	path = src/overlays
