@@ -498,6 +498,10 @@
 	branch = refs/heads/chromeos-3.8
 	path = src/third_party/kernel/v3.8
 	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
+[submodule "src/third_party/kernel/v4.12"]
+	branch = refs/heads/chromeos-4.12
+	path = src/third_party/kernel/v4.12
+	url = https://chromium.googlesource.com/chromiumos/third_party/kernel
 [submodule "src/third_party/kernel/v4.4"]
 	branch = refs/heads/chromeos-4.4
 	path = src/third_party/kernel/v4.4
