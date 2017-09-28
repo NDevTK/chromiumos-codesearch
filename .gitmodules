@@ -2,6 +2,10 @@
 	branch = refs/heads/master
 	path = chromite
 	url = https://chromium.googlesource.com/chromiumos/chromite
+[submodule "chromium/src/buildtools"]
+	branch = refs/heads/master
+	path = chromium/src/buildtools
+	url = https://chromium.googlesource.com/chromium/buildtools
 [submodule "chromium/src/third_party/Python-Markdown"]
 	branch = refs/heads/master
 	path = chromium/src/third_party/Python-Markdown
