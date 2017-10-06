@@ -158,6 +158,10 @@
 	branch = refs/heads/master
 	path = src/platform/btsocket
 	url = https://chromium.googlesource.com/chromiumos/platform/btsocket
+[submodule "src/platform/cfm-device-monitor"]
+	branch = refs/heads/master
+	path = src/platform/cfm-device-monitor
+	url = https://chromium.googlesource.com/chromiumos/platform/cfm-device-monitor
 [submodule "src/platform/chameleon"]
 	branch = refs/heads/master
 	path = src/platform/chameleon
