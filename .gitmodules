@@ -57,6 +57,10 @@
 	branch = refs/heads/master
 	path = infra/lucifer
 	url = ../infra/lucifer
+[submodule "infra/skylab_inventory"]
+	branch = refs/heads/master
+	path = infra/skylab_inventory
+	url = ../infra/skylab_inventory
 [submodule "infra/suite_scheduler"]
 	branch = refs/heads/master
 	path = infra/suite_scheduler
