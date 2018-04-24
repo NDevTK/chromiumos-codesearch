@@ -427,6 +427,10 @@
 	branch = refs/heads/chromeos-2016.05
 	path = src/third_party/coreboot
 	url = ../third_party/coreboot
+[submodule "src/third_party/cros-adapta"]
+	branch = refs/heads/master
+	path = src/third_party/cros-adapta
+	url = ../third_party/cros-adapta
 [submodule "src/third_party/cryptoc"]
 	branch = refs/heads/master
 	path = src/third_party/cryptoc
