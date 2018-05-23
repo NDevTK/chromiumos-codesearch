@@ -399,6 +399,10 @@
 	branch = refs/heads/master
 	path = src/third_party/autotest/files
 	url = ../third_party/autotest
+[submodule "src/third_party/aver-updater"]
+	branch = refs/heads/master
+	path = src/third_party/aver-updater
+	url = ../third_party/aver-updater
 [submodule "src/third_party/bluez"]
 	branch = refs/heads/chromeos-5.44
 	path = src/third_party/bluez
