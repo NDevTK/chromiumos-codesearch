@@ -271,10 +271,6 @@
 	branch = refs/heads/master
 	path = src/platform/moblab
 	url = ../platform/moblab
-[submodule "src/platform/monitor_reconfig"]
-	branch = refs/heads/master
-	path = src/platform/monitor_reconfig
-	url = ../platform/monitor_reconfig
 [submodule "src/platform/mosys"]
 	branch = refs/heads/master
 	path = src/platform/mosys
@@ -331,6 +327,10 @@
 	branch = refs/heads/master
 	path = src/platform/tpm_lite
 	url = ../platform/tpm_lite
+[submodule "src/platform/tremplin"]
+	branch = refs/heads/master
+	path = src/platform/tremplin
+	url = ../platform/tremplin
 [submodule "src/platform/uboot-env"]
 	branch = refs/heads/master
 	path = src/platform/uboot-env
