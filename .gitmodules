@@ -499,10 +499,6 @@
 	branch = refs/heads/master
 	path = src/third_party/gobi3k-sdk
 	url = ../third_party/gobi3k-sdk
-[submodule "src/third_party/grub2"]
-	branch = refs/heads/master
-	path = src/third_party/grub2
-	url = ../third_party/grub2
 [submodule "src/third_party/hdctools"]
 	branch = refs/heads/master
 	path = src/third_party/hdctools
