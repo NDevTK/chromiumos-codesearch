@@ -603,10 +603,6 @@
 	branch = refs/heads/master
 	path = src/third_party/marvell
 	url = ../third_party/marvell
-[submodule "src/third_party/memtest"]
-	branch = refs/heads/master
-	path = src/third_party/memtest
-	url = ../third_party/memtest
 [submodule "src/third_party/mesa-img"]
 	branch = refs/heads/mesa-img
 	path = src/third_party/mesa-img
