@@ -275,10 +275,6 @@
 	branch = refs/heads/master
 	path = src/platform/mosys
 	url = ../platform/mosys
-[submodule "src/platform/mtplot"]
-	branch = refs/heads/master
-	path = src/platform/mtplot
-	url = ../platform/mtplot
 [submodule "src/platform/mttools"]
 	branch = refs/heads/master
 	path = src/platform/mttools
@@ -671,14 +667,6 @@
 	branch = refs/heads/master
 	path = src/third_party/sysbios
 	url = ../third_party/sysbios
-[submodule "src/third_party/tegra-power-query"]
-	branch = refs/heads/master
-	path = src/third_party/tegra-power-query
-	url = ../third_party/tegra-power-query
-[submodule "src/third_party/tegrastats"]
-	branch = refs/heads/master
-	path = src/third_party/tegrastats
-	url = ../third_party/tegrastats
 [submodule "src/third_party/tlsdate"]
 	branch = refs/heads/master
 	path = src/third_party/tlsdate
