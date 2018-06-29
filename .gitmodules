@@ -347,10 +347,6 @@
 	branch = refs/heads/master
 	path = src/platform/webplot
 	url = ../platform/webplot
-[submodule "src/platform/xf86-input-cmt"]
-	branch = refs/heads/master
-	path = src/platform/xf86-input-cmt
-	url = ../platform/xf86-input-cmt
 [submodule "src/platform/xorg-conf"]
 	branch = refs/heads/master
 	path = src/platform/xorg-conf
