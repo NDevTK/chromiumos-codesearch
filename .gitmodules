@@ -559,10 +559,6 @@
 	branch = refs/heads/master
 	path = src/third_party/libqrtr
 	url = ../third_party/libqrtr
-[submodule "src/third_party/libresample"]
-	branch = refs/heads/master
-	path = src/third_party/libresample
-	url = ../third_party/libresample
 [submodule "src/third_party/libscrypt"]
 	branch = refs/heads/master
 	path = src/third_party/libscrypt
