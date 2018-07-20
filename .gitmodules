@@ -479,6 +479,10 @@
 	branch = refs/heads/chromeos-glk
 	path = src/third_party/fsp/glk/edk2
 	url = ../third_party/edk2
+[submodule "src/third_party/fwupd"]
+	branch = refs/heads/master
+	path = src/third_party/fwupd
+	url = ../third_party/fwupd
 [submodule "src/third_party/gcc"]
 	branch = refs/heads/master
 	path = src/third_party/gcc
