@@ -113,10 +113,6 @@
 	branch = refs/heads/master
 	path = src/aosp/external/puffin
 	url = https://android.googlesource.com/platform/external/puffin
-[submodule "src/aosp/system/connectivity/apmanager"]
-	branch = refs/heads/master
-	path = src/aosp/system/connectivity/apmanager
-	url = ../../aosp/platform/system/connectivity/apmanager
 [submodule "src/aosp/system/connectivity/shill"]
 	branch = refs/heads/master
 	path = src/aosp/system/connectivity/shill
@@ -478,6 +474,10 @@
 [submodule "src/third_party/fsp/glk/edk2"]
 	branch = refs/heads/chromeos-glk
 	path = src/third_party/fsp/glk/edk2
+	url = ../third_party/edk2
+[submodule "src/third_party/fsp/icl/edk2"]
+	branch = refs/heads/chromeos-icl
+	path = src/third_party/fsp/icl/edk2
 	url = ../third_party/edk2
 [submodule "src/third_party/fwupd"]
 	branch = refs/heads/master
