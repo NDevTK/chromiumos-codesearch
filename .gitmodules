@@ -427,6 +427,10 @@
 	branch = refs/heads/master
 	path = src/third_party/cryptoc
 	url = ../third_party/cryptoc
+[submodule "src/third_party/cups"]
+	branch = refs/heads/master
+	path = src/third_party/cups
+	url = ../third_party/cups
 [submodule "src/third_party/cypress-tools"]
 	branch = refs/heads/master
 	path = src/third_party/cypress-tools
