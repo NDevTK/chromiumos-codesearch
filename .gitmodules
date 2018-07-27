@@ -368,7 +368,7 @@
 	path = src/third_party/android_mtdutils
 	url = ../third_party/android_mtdutils
 [submodule "src/third_party/arc-mesa"]
-	branch = refs/heads/arc-17.3
+	branch = refs/heads/arc-18.2.0-pre1
 	path = src/third_party/arc-mesa
 	url = ../third_party/mesa
 [submodule "src/third_party/arm-trusted-firmware"]
