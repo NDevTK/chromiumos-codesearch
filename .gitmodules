@@ -527,6 +527,10 @@
 	branch = refs/heads/chromeos-3.8
 	path = src/third_party/kernel/v3.8
 	url = ../third_party/kernel
+[submodule "src/third_party/kernel/v4.14-mistral"]
+	branch = refs/heads/chromeos-4.14-mistral
+	path = src/third_party/kernel/v4.14-mistral
+	url = ../third_party/kernel
 [submodule "src/third_party/kernel/v4.14"]
 	branch = refs/heads/chromeos-4.14
 	path = src/third_party/kernel/v4.14
