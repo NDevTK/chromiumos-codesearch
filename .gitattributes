@@ -1,131 +1,148 @@
-/chromite minilayout labtools sysmon buildtools chromeos-admin devserver firmware
-/chromium/src/buildtools minilayout labtools buildtools
-/chromium/src/third_party/Python-Markdown
 /chromium/src/third_party/libmtp
-/chromium/src/tools/md_browser
-/chromium/tools/depot_tools minilayout labtools buildtools firmware
-/docs
-/infra/bad_cl_detector
-/infra/ci_results_archiver chromeos-admin
-/infra/cl_exonerator
-/infra/cl_status_viewer
-/infra/distfiles_updater
-/infra/dummies/general-sandbox
-/infra/dummies/merge-sandbox
-/infra/lucifer
-/infra/skylab_inventory labtools chromeos-admin
-/infra/suite_scheduler
-/infra/test_analyzer
-/infra_virtualenv minilayout labtools sysmon buildtools chromeos-admin devserver firmware
-/manifest
-/src/aosp/external/bsdiff
-/src/aosp/external/libbrillo
-/src/aosp/external/libchrome
-/src/aosp/external/libcxx
 /src/aosp/external/libcxxabi
-/src/aosp/external/libmojo
-/src/aosp/external/libunwind_llvm
-/src/aosp/external/minijail
-/src/aosp/external/puffin
-/src/aosp/system/connectivity/shill
-/src/aosp/system/libsync
-/src/aosp/system/update_engine devserver
-/src/aosp/toolchain/binutils
-/src/aosp/toolchain/gcc
-/src/overlays minilayout firmware
-/src/platform/arc-camera
-/src/platform/assets
-/src/platform/audiotest
-/src/platform/battery_updater
-/src/platform/bisect-kit
-/src/platform/bmpblk
-/src/platform/bootcache
-/src/platform/btsocket
-/src/platform/cfm-device-monitor
-/src/platform/chameleon
-/src/platform/chromiumos-assets
-/src/platform/cobble
-/src/platform/crostestutils minilayout buildtools firmware
-/src/platform/crosvm
-/src/platform/depthcharge firmware
-/src/platform/dev minilayout buildtools devserver firmware
-/src/platform/drm-tests
-/src/platform/ec firmware
-/src/platform/experimental
-/src/platform/factory
-/src/platform/factory_installer
-/src/platform/firmware firmware
-/src/platform/frecon
-/src/platform/gestures
-/src/platform/go-seccomp
-/src/platform/graphyte
-/src/platform/initramfs
-/src/platform/inputcontrol
-/src/platform/jabra_vold
-/src/platform/libevdev
+/src/third_party/kvmtool
+/src/third_party/libv4lplugins
 /src/platform/microbenchmarks
-/src/platform/minigbm
-/src/platform/moblab
-/src/platform/mosys
-/src/platform/mttools
-/src/platform/newblue
-/src/platform/punybench
-/src/platform/system_api
-/src/platform/tast-tests
+/src/third_party/libscrypt
+/src/third_party/libsigrokdecode
 /src/platform/tast
-/src/platform/touch_firmware_test firmware
-/src/platform/touch_noise_filter
-/src/platform/touch_updater
-/src/platform/touchbot
-/src/platform/touchpad-tests
-/src/platform/tpm_lite
-/src/platform/tremplin
-/src/platform/uboot-env
-/src/platform/vboot_reference buildtools firmware
-/src/platform/verity
-/src/platform/vpd
-/src/platform/webplot
-/src/platform/xorg-conf
-/src/platform2
-/src/repohooks minilayout labtools buildtools firmware
-/src/scripts minilayout labtools buildtools firmware
-/src/third_party/adhd
 /src/third_party/android_mtdutils
-/src/third_party/arc-mesa
-/src/third_party/arm-trusted-firmware
-/src/third_party/atheros
-/src/third_party/atrusctl
-/src/third_party/autotest/files labtools buildtools devserver
-/src/third_party/aver-updater
+/src/platform/cfm-device-monitor
+/infra/bad_cl_detector
+/src/platform/webplot
+/src/aosp/external/libmojo
+/infra/suite_scheduler
 /src/third_party/bluez
-/src/third_party/bootstub firmware
-/src/third_party/breakpad
-/src/third_party/broadcom
-/src/third_party/cbootimage firmware
-/src/third_party/chromiumos-overlay minilayout labtools firmware
-/src/third_party/coreboot firmware
-/src/third_party/cros-adapta
-/src/third_party/cryptoc
-/src/third_party/cups
 /src/third_party/cypress-tools
-/src/third_party/daisydog
-/src/third_party/dbus-c++
-/src/third_party/dbus-spy
-/src/third_party/displaylink-updater
-/src/third_party/eclass-overlay minilayout labtools firmware
-/src/third_party/edk2 firmware
-/src/third_party/em100 firmware
+/src/third_party/sysbios firmware
+/src/third_party/cups
+/src/third_party/realtek-updater
+/src/platform/btsocket
+/src/third_party/cryptoc
+/src/platform/touch_updater
+/src/third_party/tlsdate
+/src/aosp/toolchain/gcc
+/src/aosp/external/minijail
+/src/platform/jabra_vold
+/src/third_party/gdmwimax
+/src/third_party/libc-bench
 /src/third_party/flashmap firmware
-/src/third_party/flashrom firmware
+/src/third_party/fwupd
+/infra/dummies/general-sandbox
+/src/platform/assets
+/src/third_party/atrusctl
+/src/third_party/huddly-updater
+/src/third_party/edk2 firmware
 /src/third_party/fsp/cnl/edk2 firmware
 /src/third_party/fsp/glk/edk2 firmware
 /src/third_party/fsp/icl/edk2 firmware
-/src/third_party/fwupd
-/src/third_party/gcc
-/src/third_party/gdmwimax
+/src/third_party/tpm firmware
+/src/third_party/aver-updater
+/infra/ci_results_archiver chromeos-admin
+/src/platform/mosys
+/src/third_party/webrtc-apm
+/src/platform/xorg-conf
+/src/third_party/seabios firmware
+/src/platform/touch_firmware_test firmware
+/src/platform/verity
+/src/third_party/tpm2 firmware
 /src/third_party/gobi3k-sdk
+/chromium/src/buildtools minilayout labtools buildtools
+/src/third_party/libqmi
+/src/third_party/em100 firmware
+/src/third_party/cros-adapta
+/src/platform/chromiumos-assets
+/src/third_party/libqrtr
+/src/third_party/sigrok-cli
+/src/third_party/arc-mesa
+/src/third_party/mesa-img
+/src/third_party/mesa
+/src/third_party/cbootimage firmware
+/src/third_party/displaylink-updater
 /src/third_party/hdctools labtools
-/src/third_party/huddly-updater
+/src/platform/punybench
+/src/third_party/xfstests
+/src/third_party/dbus-spy
+/src/third_party/coreboot firmware
+/src/aosp/external/libbrillo
+/src/platform/chameleon
+/src/overlays minilayout firmware
+/src/third_party/atheros
+/src/aosp/system/libsync
+/src/third_party/khronos
+/src/third_party/libdrm
+/src/platform/uboot-env
+/src/platform/moblab
+/src/third_party/linux-firmware
+/infra/cl_status_viewer
+/src/platform/gestures
+/src/platform/dev minilayout buildtools devserver firmware
+/src/weave/libweave
+/infra/lucifer
+/src/platform/vboot_reference buildtools firmware
+/chromium/tools/depot_tools minilayout labtools buildtools firmware
+/src/platform/factory_installer
+/src/third_party/ltp
+/src/platform/firmware firmware
+/src/platform/minigbm
+/src/third_party/breakpad
+/src/third_party/modemmanager-next
+/src/third_party/rootdev
+/src/third_party/arm-trusted-firmware
+/src/third_party/modp_b64
+/src/aosp/system/update_engine devserver
+/src/platform/crosvm
+/src/platform2
+/src/third_party/marvell
+/src/third_party/wpa_supplicant-2.6
+/src/third_party/wpa_supplicant
+/src/third_party/mimo-updater
+/src/third_party/libmbim
+/src/platform/tast-tests
+/src/third_party/daisydog
+/src/third_party/nfs-ganesha
+/src/scripts minilayout labtools buildtools firmware
+/src/third_party/logitech-updater
+/src/platform/bisect-kit
+/src/third_party/broadcom
+/src/platform/crostestutils minilayout buildtools firmware
+/src/third_party/portage-stable minilayout labtools firmware
+/src/platform/touchbot
+/src/third_party/gcc
+/src/aosp/external/bsdiff
+/src/third_party/mmc-utils
+/infra/distfiles_updater
+/infra_virtualenv minilayout labtools sysmon buildtools chromeos-admin devserver firmware
+/src/aosp/external/libchrome
+/src/aosp/external/libunwind_llvm
+/src/third_party/libapps
+/infra/skylab_inventory labtools chromeos-admin
+/src/platform/tremplin
+/src/platform/vpd
+/src/third_party/chromiumos-overlay minilayout labtools firmware
+/src/platform/touch_noise_filter
+/src/platform/libevdev
+/src/platform/inputcontrol
+/src/platform/bootcache
+/src/platform/graphyte
+/src/platform/touchpad-tests
+/src/third_party/tpm-emulator
+/src/platform/mttools
+/chromite minilayout labtools sysmon buildtools chromeos-admin devserver firmware
+/src/platform/cobble
+/src/third_party/flashrom firmware
+/src/third_party/whining
+/src/aosp/external/puffin
+/src/third_party/ntirpc
+/src/platform/initramfs
+/src/third_party/autotest/files labtools buildtools devserver
+/src/platform/ec firmware
+/src/third_party/eclass-overlay minilayout labtools firmware
+/manifest
+/src/platform/tpm_lite
+/infra/cl_exonerator
+/src/platform/audiotest
+/src/third_party/adhd
 /src/third_party/kernel/experimental
 /src/third_party/kernel/v3.10
 /src/third_party/kernel/v3.14
@@ -134,49 +151,32 @@
 /src/third_party/kernel/v4.14-mistral
 /src/third_party/kernel/v4.14
 /src/third_party/kernel/v4.4
-/src/third_party/khronos
-/src/third_party/kvmtool
-/src/third_party/libapps
-/src/third_party/libc-bench
-/src/third_party/libdrm
-/src/third_party/libmbim
-/src/third_party/libqmi
-/src/third_party/libqrtr
-/src/third_party/libscrypt
+/src/third_party/dbus-c++
 /src/third_party/libsigrok
-/src/third_party/libsigrokdecode
-/src/third_party/libv4lplugins
-/src/third_party/linux-firmware
-/src/third_party/logitech-updater
-/src/third_party/ltp
-/src/third_party/marvell
-/src/third_party/mesa-img
-/src/third_party/mesa
-/src/third_party/mimo-updater
-/src/third_party/mmc-utils
-/src/third_party/modemmanager-next
-/src/third_party/modp_b64
-/src/third_party/nfs-ganesha
-/src/third_party/ntirpc
-/src/third_party/portage-stable minilayout labtools firmware
-/src/third_party/portage_tool
-/src/third_party/realtek-updater
-/src/third_party/rootdev
-/src/third_party/seabios firmware
-/src/third_party/sigrok-cli
-/src/third_party/sis-updater
-/src/third_party/sound-open-firmware
-/src/third_party/sysbios firmware
-/src/third_party/tlsdate
+/src/aosp/system/connectivity/shill
+/src/platform/bmpblk
+/src/platform/go-seccomp
 /src/third_party/toolchain-utils
-/src/third_party/tpm-emulator
-/src/third_party/tpm firmware
-/src/third_party/tpm2 firmware
+/docs
+/src/platform/depthcharge firmware
 /src/third_party/trousers
+/src/third_party/bootstub firmware
+/src/platform/frecon
 /src/third_party/u-boot/files
-/src/third_party/webrtc-apm
-/src/third_party/whining
-/src/third_party/wpa_supplicant-2.6
-/src/third_party/wpa_supplicant
-/src/third_party/xfstests
-/src/weave/libweave
+/chromium/src/tools/md_browser
+/src/repohooks minilayout labtools buildtools firmware
+/src/platform/battery_updater
+/src/platform/experimental
+/src/platform/factory
+/src/platform/system_api
+/src/third_party/portage_tool
+/infra/dummies/merge-sandbox
+/src/platform/newblue
+/infra/test_analyzer
+/src/platform/drm-tests
+/src/third_party/sound-open-firmware
+/chromium/src/third_party/Python-Markdown
+/src/aosp/toolchain/binutils
+/src/platform/arc-camera
+/src/third_party/sis-updater
+/src/aosp/external/libcxx
