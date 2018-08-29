@@ -1,7 +1,3 @@
-[submodule "aosp/platform/external/libbrillo"]
-	branch = refs/heads/master
-	path = src/aosp/external/libbrillo
-	url = ../../aosp/platform/external/libbrillo
 [submodule "aosp/platform/external/libchrome"]
 	branch = refs/heads/master
 	path = src/aosp/external/libchrome
