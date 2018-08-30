@@ -85,6 +85,10 @@
 	branch = refs/heads/master
 	path = infra/dummies/merge-sandbox
 	url = ../infra/dummies/merge-sandbox
+[submodule "chromiumos/infra/logstock"]
+	branch = refs/heads/master
+	path = infra/logstock
+	url = ../infra/logstock
 [submodule "chromiumos/infra/lucifer"]
 	branch = refs/heads/master
 	path = infra/lucifer

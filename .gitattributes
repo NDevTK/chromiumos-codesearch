@@ -20,6 +20,7 @@
 /infra/distfiles_updater
 /infra/dummies/general-sandbox
 /infra/dummies/merge-sandbox
+/infra/logstock
 /infra/lucifer
 /infra/skylab_inventory labtools chromeos-admin
 /infra/suite_scheduler
