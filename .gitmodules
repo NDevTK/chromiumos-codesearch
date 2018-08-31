@@ -301,10 +301,6 @@
 	branch = refs/heads/master
 	path = src/platform/touch_firmware_test
 	url = ../platform/touch_firmware_test
-[submodule "chromiumos/platform/touch_noise_filter"]
-	branch = refs/heads/master
-	path = src/platform/touch_noise_filter
-	url = ../platform/touch_noise_filter
 [submodule "chromiumos/platform/touch_updater"]
 	branch = refs/heads/master
 	path = src/platform/touch_updater
