@@ -6,10 +6,6 @@
 	branch = refs/heads/master
 	path = src/third_party/modp_b64
 	url = ../../aosp/platform/external/modp_b64
-[submodule "aosp/platform/system/connectivity/shill"]
-	branch = refs/heads/master
-	path = src/aosp/system/connectivity/shill
-	url = ../../aosp/platform/system/connectivity/shill
 [submodule "aosp/platform/system/core/libsync"]
 	branch = refs/heads/master
 	path = src/aosp/system/libsync
