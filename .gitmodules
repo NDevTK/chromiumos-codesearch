@@ -534,7 +534,7 @@
 	path = src/third_party/libc-bench
 	url = ../third_party/libc-bench
 [submodule "chromiumos/third_party/libdrm"]
-	branch = refs/heads/chromeos-2.4.92
+	branch = refs/heads/master
 	path = src/third_party/libdrm
 	url = ../third_party/libdrm
 [submodule "chromiumos/third_party/libmbim"]
