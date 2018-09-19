@@ -406,7 +406,7 @@
 	path = src/third_party/cryptoc
 	url = ../third_party/cryptoc
 [submodule "chromiumos/third_party/cups"]
-	branch = refs/heads/master
+	branch = refs/heads/cups-2-2-8
 	path = src/third_party/cups
 	url = ../third_party/cups
 [submodule "chromiumos/third_party/cypress-tools"]
