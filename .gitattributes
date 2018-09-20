@@ -122,6 +122,7 @@
 /src/third_party/wpa_supplicant
 /src/third_party/huddly-updater
 /src/third_party/kernel/experimental
+/src/third_party/kernel/next
 /src/third_party/kernel/v3.10
 /src/third_party/kernel/v3.14
 /src/third_party/kernel/v3.18
