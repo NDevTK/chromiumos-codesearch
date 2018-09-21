@@ -461,10 +461,6 @@
 	branch = refs/heads/fwupd-1.0.6
 	path = src/third_party/fwupd
 	url = ../third_party/fwupd
-[submodule "chromiumos/third_party/gcc"]
-	branch = refs/heads/master
-	path = src/third_party/gcc
-	url = ../third_party/gcc
 [submodule "chromiumos/third_party/gdmwimax"]
 	branch = refs/heads/master
 	path = src/third_party/gdmwimax
