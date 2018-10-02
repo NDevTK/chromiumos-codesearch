@@ -69,7 +69,6 @@
 /src/platform/mttools
 /src/platform/newblue
 /src/platform/punybench
-/src/platform/system_api
 /src/platform/tast
 /src/platform/tast-tests
 /src/platform/touch_firmware_test firmware

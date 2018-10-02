@@ -281,10 +281,6 @@
 	branch = refs/heads/master
 	path = src/platform/punybench
 	url = ../platform/punybench
-[submodule "chromiumos/platform/system_api"]
-	branch = refs/heads/master
-	path = src/platform/system_api
-	url = ../platform/system_api
 [submodule "chromiumos/platform/tast"]
 	branch = refs/heads/master
 	path = src/platform/tast
