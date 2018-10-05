@@ -662,7 +662,7 @@
 	path = src/third_party/trousers
 	url = ../third_party/trousers
 [submodule "chromiumos/third_party/u-boot"]
-	branch = refs/heads/chromeos-v2017.05
+	branch = refs/heads/chromeos-v2018.09
 	path = src/third_party/u-boot/files
 	url = ../third_party/u-boot
 [submodule "chromiumos/third_party/webrtc-apm"]
