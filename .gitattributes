@@ -145,6 +145,7 @@
 /src/third_party/ltp
 /src/third_party/marvell
 /src/third_party/arc-mesa
+/src/third_party/mesa-freedreno
 /src/third_party/mesa-img
 /src/third_party/mesa
 /src/third_party/mimo-updater
