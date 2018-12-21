@@ -618,7 +618,7 @@
 	path = src/third_party/ntirpc
 	url = ../third_party/ntirpc
 [submodule "chromiumos/third_party/portage_tool"]
-	branch = refs/heads/chromeos-2.2.28
+	branch = refs/heads/chromeos-2.3.49
 	path = src/third_party/portage_tool
 	url = ../third_party/portage_tool
 [submodule "chromiumos/third_party/realtek-updater"]
