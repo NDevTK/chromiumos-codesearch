@@ -717,6 +717,10 @@
 	branch = refs/heads/master
 	path = src/aosp/external/puffin
 	url = https://android.googlesource.com/platform/external/puffin
+[submodule "platform/system/keymaster"]
+	branch = refs/heads/master
+	path = src/aosp/system/keymaster
+	url = https://android.googlesource.com/platform/system/keymaster
 [submodule "toolchain/binutils"]
 	path = src/aosp/toolchain/binutils
 	url = https://android.googlesource.com/toolchain/binutils
