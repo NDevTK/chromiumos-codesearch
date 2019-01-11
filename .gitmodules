@@ -454,7 +454,7 @@
 	path = src/third_party/flashrom
 	url = ../third_party/flashrom
 [submodule "chromiumos/third_party/fwupd"]
-	branch = refs/heads/fwupd-1.0.6
+	branch = refs/heads/fwupd-1.2.3
 	path = src/third_party/fwupd
 	url = ../third_party/fwupd
 [submodule "chromiumos/third_party/gdmwimax"]
