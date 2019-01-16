@@ -481,10 +481,6 @@
 	branch = refs/heads/master
 	path = src/third_party/huddly-updater
 	url = ../third_party/huddly-updater
-[submodule "chromiumos/third_party/kernel/src/third_party/kernel/experimental"]
-	branch = refs/heads/next/chromeos-experimental
-	path = src/third_party/kernel/experimental
-	url = ../third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v3.10"]
 	branch = refs/heads/chromeos-3.10
 	path = src/third_party/kernel/v3.10
