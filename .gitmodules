@@ -582,7 +582,7 @@
 	path = src/third_party/arc-mesa
 	url = ../third_party/mesa
 [submodule "chromiumos/third_party/mesa/src/third_party/mesa-freedreno"]
-	branch = refs/heads/master
+	branch = refs/heads/chromeos-freedreno
 	path = src/third_party/mesa-freedreno
 	url = ../third_party/mesa
 [submodule "chromiumos/third_party/mesa/src/third_party/mesa-img"]
