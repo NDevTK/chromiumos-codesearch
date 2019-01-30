@@ -167,6 +167,7 @@
 /src/third_party/tpm2 firmware
 /src/third_party/trousers
 /src/third_party/u-boot/files
+/src/third_party/virglrenderer
 /src/third_party/virtual-usb-printer
 /src/third_party/webrtc-apm
 /src/third_party/whining

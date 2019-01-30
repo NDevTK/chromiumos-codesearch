@@ -673,6 +673,10 @@
 	branch = refs/heads/chromeos-v2018.09
 	path = src/third_party/u-boot/files
 	url = ../third_party/u-boot
+[submodule "chromiumos/third_party/virglrenderer"]
+	branch = refs/heads/master
+	path = src/third_party/virglrenderer
+	url = ../third_party/virglrenderer
 [submodule "chromiumos/third_party/virtual-usb-printer"]
 	branch = refs/heads/master
 	path = src/third_party/virtual-usb-printer
