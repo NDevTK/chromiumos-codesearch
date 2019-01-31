@@ -30,7 +30,6 @@
 /src/third_party/chromiumos-overlay minilayout labtools firmware
 /src/third_party/eclass-overlay minilayout labtools firmware
 /src/third_party/portage-stable minilayout labtools firmware
-/src/platform/arc-camera
 /src/platform/assets
 /src/platform/audiotest
 /src/platform/battery_updater

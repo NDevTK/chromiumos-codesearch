@@ -125,10 +125,6 @@
 	branch = refs/heads/master
 	path = src/third_party/portage-stable
 	url = ../overlays/portage-stable
-[submodule "chromiumos/platform/arc-camera"]
-	branch = refs/heads/master
-	path = src/platform/arc-camera
-	url = ../platform/arc-camera
 [submodule "chromiumos/platform/assets"]
 	branch = refs/heads/master
 	path = src/platform/assets
