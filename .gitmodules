@@ -440,6 +440,10 @@
 	branch = refs/heads/master
 	path = src/third_party/em100
 	url = ../third_party/em100
+[submodule "chromiumos/third_party/fastrpc"]
+	branch = refs/heads/master
+	path = src/third_party/fastrpc
+	url = ../third_party/fastrpc
 [submodule "chromiumos/third_party/flashmap"]
 	branch = refs/heads/master
 	path = src/third_party/flashmap
