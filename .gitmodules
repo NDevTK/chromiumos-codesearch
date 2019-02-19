@@ -704,10 +704,6 @@
 	branch = refs/heads/master
 	path = src/aosp/external/libcxxabi
 	url = https://android.googlesource.com/platform/external/libcxxabi
-[submodule "platform/external/libmojo"]
-	branch = refs/heads/master
-	path = src/aosp/external/libmojo
-	url = https://android.googlesource.com/platform/external/libmojo
 [submodule "platform/external/libunwind_llvm"]
 	branch = refs/heads/master
 	path = src/aosp/external/libunwind_llvm
