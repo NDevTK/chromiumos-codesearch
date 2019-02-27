@@ -400,10 +400,6 @@
 	branch = refs/heads/cups-2-2-8
 	path = src/third_party/cups
 	url = ../third_party/cups
-[submodule "chromiumos/third_party/cypress-tools"]
-	branch = refs/heads/master
-	path = src/third_party/cypress-tools
-	url = ../third_party/cypress-tools
 [submodule "chromiumos/third_party/daisydog"]
 	branch = refs/heads/master
 	path = src/third_party/daisydog
