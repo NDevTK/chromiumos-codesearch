@@ -25,6 +25,10 @@
 	branch = refs/heads/master
 	path = chromium/src/third_party/libmtp
 	url = ../../chromium/deps/libmtp
+[submodule "chromium/src/buildtools"]
+	branch = refs/heads/master
+	path = src/chromium/src/buildtools
+	url = ../../chromium/src/buildtools
 [submodule "chromium/src/third_party/Python-Markdown"]
 	branch = refs/heads/master
 	path = chromium/src/third_party/Python-Markdown
