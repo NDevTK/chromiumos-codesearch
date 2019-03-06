@@ -3,7 +3,6 @@
 /src/aosp/system/libsync
 /src/aosp/system/update_engine devserver
 /src/third_party/libapps
-/chromium/src/buildtools minilayout labtools buildtools
 /chromium/src/third_party/libmtp
 /src/chromium/src/buildtools minilayout labtools buildtools
 /chromium/src/third_party/Python-Markdown
