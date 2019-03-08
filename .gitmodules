@@ -28,11 +28,11 @@
 	url = ../../chromium/src/buildtools
 [submodule "chromium/src/third_party/Python-Markdown"]
 	branch = refs/heads/master
-	path = chromium/src/third_party/Python-Markdown
+	path = src/chromium/src/third_party/Python-Markdown
 	url = ../../chromium/src/third_party/Python-Markdown
 [submodule "chromium/src/tools/md_browser"]
 	branch = refs/heads/master
-	path = chromium/src/tools/md_browser
+	path = src/chromium/src/tools/md_browser
 	url = ../../chromium/src/tools/md_browser
 [submodule "chromium/tools/depot_tools"]
 	path = chromium/tools/depot_tools
