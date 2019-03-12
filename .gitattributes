@@ -104,6 +104,7 @@
 /src/third_party/dbus-spy
 /src/third_party/displaylink-updater
 /src/third_party/edk2 firmware
+/src/third_party/fsp/cml/edk2 firmware
 /src/third_party/fsp/cnl/edk2 firmware
 /src/third_party/fsp/glk/edk2 firmware
 /src/third_party/fsp/icl/edk2 firmware
