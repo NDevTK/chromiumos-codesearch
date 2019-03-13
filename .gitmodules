@@ -421,9 +421,9 @@
 	branch = refs/heads/chromeos-2017.08
 	path = src/third_party/edk2
 	url = ../third_party/edk2
-[submodule "chromiumos/third_party/edk2/src/third_party/fsp/cml/edk2"]
+[submodule "chromiumos/third_party/edk2/src/third_party/fsp/cml/edk2/branch1"]
 	branch = refs/heads/chromeos-cml-branch1
-	path = src/third_party/fsp/cml/edk2
+	path = src/third_party/fsp/cml/edk2/branch1
 	url = ../third_party/edk2
 [submodule "chromiumos/third_party/edk2/src/third_party/fsp/cnl/edk2"]
 	branch = refs/heads/chromeos-cnl
