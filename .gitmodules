@@ -225,6 +225,10 @@
 	branch = refs/heads/master
 	path = src/platform/gestures
 	url = ../platform/gestures
+[submodule "chromiumos/platform/glbench"]
+	branch = refs/heads/master
+	path = src/platform/glbench
+	url = ../platform/glbench
 [submodule "chromiumos/platform/go-seccomp"]
 	branch = refs/heads/master
 	path = src/platform/go-seccomp

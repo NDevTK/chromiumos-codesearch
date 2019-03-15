@@ -55,6 +55,7 @@
 /src/platform/firmware firmware
 /src/platform/frecon
 /src/platform/gestures
+/src/platform/glbench
 /src/platform/go-seccomp
 /src/third_party/breakpad
 /src/platform/initramfs
