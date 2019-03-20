@@ -80,6 +80,7 @@
 /src/platform/tremplin
 /src/platform/uboot-env
 /src/platform/vboot_reference buildtools firmware
+/src/platform/vkbench
 /src/platform/vpd
 /src/platform/webplot
 /src/platform/xorg-conf

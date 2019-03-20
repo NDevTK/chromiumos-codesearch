@@ -325,6 +325,10 @@
 	branch = refs/heads/master
 	path = src/platform/vboot_reference
 	url = ../platform/vboot_reference
+[submodule "chromiumos/platform/vkbench"]
+	branch = refs/heads/master
+	path = src/platform/vkbench
+	url = ../platform/vkbench
 [submodule "chromiumos/platform/vpd"]
 	branch = refs/heads/master
 	path = src/platform/vpd
