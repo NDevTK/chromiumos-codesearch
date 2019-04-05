@@ -89,6 +89,10 @@
 	branch = refs/heads/master
 	path = infra/lucifer
 	url = ../infra/lucifer
+[submodule "chromiumos/infra/recipes"]
+	branch = refs/heads/master
+	path = infra/recipes
+	url = ../infra/recipes
 [submodule "chromiumos/infra/skylab_inventory"]
 	branch = refs/heads/master
 	path = infra/skylab_inventory

@@ -21,6 +21,7 @@
 /infra/dummies/merge-sandbox
 /infra/logstock
 /infra/lucifer
+/infra/recipes chromeos-admin
 /infra/skylab_inventory labtools chromeos-admin
 /infra/suite_scheduler
 /infra/test_analyzer
