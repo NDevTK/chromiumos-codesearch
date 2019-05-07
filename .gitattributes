@@ -135,6 +135,7 @@
 /src/third_party/kvmtool
 /src/third_party/libc-bench
 /src/third_party/libdrm
+/src/third_party/libiio
 /src/third_party/libmbim
 /src/third_party/libqmi
 /src/third_party/libqrtr

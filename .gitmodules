@@ -545,6 +545,10 @@
 	branch = refs/heads/master
 	path = src/third_party/libdrm
 	url = ../third_party/libdrm
+[submodule "chromiumos/third_party/libiio"]
+	branch = refs/heads/master
+	path = src/third_party/libiio
+	url = ../third_party/libiio
 [submodule "chromiumos/third_party/libmbim"]
 	branch = refs/heads/master
 	path = src/third_party/libmbim
