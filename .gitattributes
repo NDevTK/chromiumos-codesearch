@@ -116,8 +116,6 @@
 /src/third_party/flashmap firmware
 /src/third_party/flashrom firmware
 /src/third_party/fwupd
-/src/third_party/gdmwimax
-/src/third_party/gobi3k-sdk
 /src/third_party/hdctools labtools
 /src/third_party/wpa_supplicant-2.6
 /src/third_party/wpa_supplicant
