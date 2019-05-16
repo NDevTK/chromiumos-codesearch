@@ -593,6 +593,10 @@
 	branch = refs/heads/arc-18.2.0-pre1
 	path = src/third_party/arc-mesa
 	url = ../third_party/mesa
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa-debian"]
+	branch = refs/heads/debian
+	path = src/third_party/mesa-debian
+	url = ../third_party/mesa
 [submodule "chromiumos/third_party/mesa/src/third_party/mesa-freedreno"]
 	branch = refs/heads/chromeos-freedreno
 	path = src/third_party/mesa-freedreno
