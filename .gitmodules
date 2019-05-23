@@ -358,7 +358,7 @@
 	path = src/third_party/adhd
 	url = ../third_party/adhd
 [submodule "chromiumos/third_party/android_mtdutils"]
-	branch = chromeos
+	branch = refs/heads/chromeos
 	path = src/third_party/android_mtdutils
 	url = ../third_party/android_mtdutils
 [submodule "chromiumos/third_party/arm-trusted-firmware"]
