@@ -118,6 +118,7 @@
 /src/third_party/fwupd
 /src/third_party/hdctools labtools
 /src/third_party/wpa_supplicant-2.6
+/src/third_party/wpa_supplicant-2.8
 /src/third_party/wpa_supplicant
 /src/third_party/huddly-updater
 /src/third_party/kernel/v3.10
