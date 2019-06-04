@@ -425,10 +425,6 @@
 	branch = refs/heads/master
 	path = src/third_party/dbus-spy
 	url = ../third_party/dbus-spy
-[submodule "chromiumos/third_party/displaylink-updater"]
-	branch = refs/heads/master
-	path = src/third_party/displaylink-updater
-	url = ../third_party/displaylink-updater
 [submodule "chromiumos/third_party/edk2/src/third_party/edk2"]
 	branch = refs/heads/chromeos-2017.08
 	path = src/third_party/edk2
