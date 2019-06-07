@@ -525,10 +525,6 @@
 	branch = refs/heads/master
 	path = src/third_party/khronos
 	url = ../third_party/khronos
-[submodule "chromiumos/third_party/kvmtool"]
-	branch = refs/heads/master
-	path = src/third_party/kvmtool
-	url = ../third_party/kvmtool
 [submodule "chromiumos/third_party/libc-bench"]
 	branch = refs/heads/master
 	path = src/third_party/libc-bench
