@@ -160,7 +160,6 @@
 /src/third_party/seabios firmware
 /src/third_party/sis-updater
 /src/third_party/sound-open-firmware
-/src/third_party/sound-open-firmware-tools
 /src/third_party/sysbios firmware
 /src/third_party/tlsdate
 /src/third_party/toolchain-utils
