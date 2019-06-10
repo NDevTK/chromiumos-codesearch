@@ -421,10 +421,6 @@
 	branch = refs/heads/master
 	path = src/third_party/dbus-c++
 	url = ../third_party/dbus-cplusplus
-[submodule "chromiumos/third_party/dbus-spy"]
-	branch = refs/heads/master
-	path = src/third_party/dbus-spy
-	url = ../third_party/dbus-spy
 [submodule "chromiumos/third_party/edk2/src/third_party/edk2"]
 	branch = refs/heads/chromeos-2017.08
 	path = src/third_party/edk2
