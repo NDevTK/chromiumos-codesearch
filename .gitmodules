@@ -529,6 +529,10 @@
 	branch = refs/heads/master
 	path = src/third_party/libc-bench
 	url = ../third_party/libc-bench
+[submodule "chromiumos/third_party/libcamera"]
+	branch = refs/heads/master
+	path = src/third_party/libcamera
+	url = ../third_party/libcamera
 [submodule "chromiumos/third_party/libdrm"]
 	branch = refs/heads/master
 	path = src/third_party/libdrm
