@@ -130,7 +130,6 @@
 /src/third_party/kernel/v4.4
 /src/third_party/khronos
 /src/third_party/kvmtool
-/src/third_party/libc-bench
 /src/third_party/libcamera
 /src/third_party/libdrm
 /src/third_party/libiio
