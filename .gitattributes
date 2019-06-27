@@ -19,6 +19,7 @@
 /infra/distfiles_updater
 /infra/dummies/general-sandbox
 /infra/dummies/merge-sandbox
+/infra/go chromeos-admin
 /infra/logstock
 /infra/lucifer
 /infra/recipes chromeos-admin
