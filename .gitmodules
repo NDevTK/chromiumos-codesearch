@@ -53,10 +53,6 @@
 	branch = refs/heads/master
 	path = src/platform/graphyte
 	url = ../graphyte
-[submodule "chromiumos/infra/bad_cl_detector"]
-	branch = refs/heads/master
-	path = infra/bad_cl_detector
-	url = ../infra/bad_cl_detector
 [submodule "chromiumos/infra/ci_results_archiver"]
 	branch = refs/heads/master
 	path = infra/ci_results_archiver

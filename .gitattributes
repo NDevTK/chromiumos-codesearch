@@ -12,7 +12,6 @@
 /src/platform/container-guest-tools
 /docs
 /src/platform/graphyte
-/infra/bad_cl_detector
 /infra/ci_results_archiver chromeos-admin
 /infra/cl_exonerator
 /infra/cl_status_viewer
