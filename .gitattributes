@@ -88,7 +88,6 @@
 /src/platform2
 /src/repohooks minilayout labtools buildtools firmware
 /src/third_party/adhd
-/src/third_party/android_mtdutils
 /src/third_party/arm-trusted-firmware
 /src/third_party/atheros
 /src/third_party/atrusctl
