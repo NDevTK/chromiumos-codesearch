@@ -645,10 +645,6 @@
 	branch = refs/heads/master
 	path = src/third_party/toolchain-utils
 	url = ../third_party/toolchain-utils
-[submodule "chromiumos/third_party/tpm-emulator"]
-	branch = refs/heads/master
-	path = src/third_party/tpm-emulator
-	url = ../third_party/tpm-emulator
 [submodule "chromiumos/third_party/tpm2"]
 	branch = refs/heads/master
 	path = src/third_party/tpm2
