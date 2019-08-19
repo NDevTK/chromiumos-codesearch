@@ -155,6 +155,7 @@
 /src/third_party/portage_tool
 /src/third_party/rootdev
 /src/third_party/seabios firmware
+/src/third_party/shellcheck
 /src/third_party/sis-updater
 /src/third_party/sound-open-firmware
 /src/third_party/sysbios firmware

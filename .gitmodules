@@ -625,6 +625,10 @@
 	branch = refs/heads/chromeos-2014.11.03
 	path = src/third_party/seabios
 	url = ../third_party/seabios
+[submodule "chromiumos/third_party/shellcheck"]
+	branch = refs/heads/chromeos-0.7
+	path = src/third_party/shellcheck
+	url = ../third_party/shellcheck
 [submodule "chromiumos/third_party/sis-updater"]
 	branch = refs/heads/master
 	path = src/third_party/sis-updater
