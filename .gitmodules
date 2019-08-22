@@ -20,7 +20,7 @@
 	url = ../../apps/libapps
 [submodule "chromium/deps/libmtp"]
 	branch = refs/heads/master
-	path = chromium/src/third_party/libmtp
+	path = src/chromium/src/third_party/libmtp
 	url = ../../chromium/deps/libmtp
 [submodule "chromium/src/buildtools"]
 	branch = refs/heads/master
