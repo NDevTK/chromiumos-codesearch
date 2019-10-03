@@ -18,10 +18,6 @@
 	branch = refs/heads/master
 	path = src/third_party/libapps
 	url = ../../apps/libapps
-[submodule "chromium/deps/libmtp"]
-	branch = refs/heads/master
-	path = src/chromium/src/third_party/libmtp
-	url = ../../chromium/deps/libmtp
 [submodule "chromium/src/buildtools"]
 	branch = refs/heads/master
 	path = src/chromium/src/buildtools
