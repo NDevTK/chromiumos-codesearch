@@ -30,8 +30,11 @@
 	branch = refs/heads/master
 	path = src/chromium/src/tools/md_browser
 	url = ../../chromium/src/tools/md_browser
-[submodule "chromium/tools/depot_tools"]
+[submodule "chromium/tools/depot_tools/chromium/tools/depot_tools"]
 	path = chromium/tools/depot_tools
+	url = ../../chromium/tools/depot_tools
+[submodule "chromium/tools/depot_tools/src/chromium/depot_tools"]
+	path = src/chromium/depot_tools
 	url = ../../chromium/tools/depot_tools
 [submodule "chromiumos/chromite"]
 	branch = refs/heads/master

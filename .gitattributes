@@ -7,6 +7,7 @@
 /src/chromium/src/third_party/Python-Markdown
 /src/chromium/src/tools/md_browser
 /chromium/tools/depot_tools minilayout labtools buildtools firmware
+/src/chromium/depot_tools minilayout labtools buildtools firmware
 /chromite minilayout labtools sysmon buildtools chromeos-admin devserver firmware
 /src/platform/container-guest-tools
 /docs
