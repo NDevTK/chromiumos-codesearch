@@ -1,7 +1,7 @@
 /src/aosp/external/libchrome
 /src/third_party/modp_b64
 /src/aosp/system/libsync
-/src/aosp/system/update_engine devserver
+/src/aosp/system/update_engine
 /src/third_party/libapps
 /src/chromium/src/buildtools minilayout labtools buildtools
 /src/chromium/src/third_party/Python-Markdown
