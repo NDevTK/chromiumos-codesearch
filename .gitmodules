@@ -585,6 +585,10 @@
 	branch = refs/heads/mesa-img
 	path = src/third_party/mesa-img
 	url = ../third_party/mesa
+[submodule "chromiumos/third_party/mesa/src/third_party/mesa-iris"]
+	branch = refs/heads/chromeos-iris
+	path = src/third_party/mesa-iris
+	url = ../third_party/mesa
 [submodule "chromiumos/third_party/mesa/src/third_party/mesa"]
 	branch = refs/heads/master
 	path = src/third_party/mesa
