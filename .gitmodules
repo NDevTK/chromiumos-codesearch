@@ -201,9 +201,25 @@
 	branch = refs/heads/master
 	path = src/platform/drm-tests
 	url = ../platform/drm-tests
-[submodule "chromiumos/platform/ec"]
+[submodule "chromiumos/platform/ec/src/platform/ec"]
 	branch = refs/heads/master
 	path = src/platform/ec
+	url = ../platform/ec
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-bloonchipper"]
+	branch = refs/heads/firmware-fpmcu-bloonchipper-release
+	path = src/platform/release-firmware/fpmcu-bloonchipper
+	url = ../platform/ec
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-dartmonkey"]
+	branch = refs/heads/firmware-fpmcu-dartmonkey-release
+	path = src/platform/release-firmware/fpmcu-dartmonkey
+	url = ../platform/ec
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-nami"]
+	branch = refs/heads/firmware-nocturne-10984.B
+	path = src/platform/release-firmware/fpmcu-nami
+	url = ../platform/ec
+[submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-nocturne"]
+	branch = refs/heads/firmware-nocturne-10984.B
+	path = src/platform/release-firmware/fpmcu-nocturne
 	url = ../platform/ec
 [submodule "chromiumos/platform/experimental"]
 	branch = refs/heads/master

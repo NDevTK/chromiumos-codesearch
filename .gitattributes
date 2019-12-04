@@ -50,6 +50,10 @@
 /src/platform/verity
 /src/platform/drm-tests
 /src/platform/ec firmware
+/src/platform/release-firmware/fpmcu-bloonchipper firmware
+/src/platform/release-firmware/fpmcu-dartmonkey firmware
+/src/platform/release-firmware/fpmcu-nami firmware
+/src/platform/release-firmware/fpmcu-nocturne firmware
 /src/platform/experimental
 /src/platform/factory
 /src/platform/factory_installer
