@@ -158,6 +158,7 @@
 /src/third_party/mmc-utils
 /src/third_party/modemmanager-next
 /src/third_party/nfs-ganesha
+/src/third_party/novatek-tcon-fw-update-tool
 /src/third_party/ntirpc
 /src/third_party/portage_tool
 /src/third_party/rootdev

@@ -637,6 +637,10 @@
 	branch = refs/heads/V2.3-stable
 	path = src/third_party/nfs-ganesha
 	url = ../third_party/nfs-ganesha
+[submodule "chromiumos/third_party/novatek-tcon-fw-update-tool"]
+	branch = refs/heads/master
+	path = src/third_party/novatek-tcon-fw-update-tool
+	url = ../third_party/novatek-tcon-fw-update-tool
 [submodule "chromiumos/third_party/ntirpc"]
 	branch = refs/heads/V1.3.3-cros
 	path = src/third_party/ntirpc
