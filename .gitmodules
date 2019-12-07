@@ -369,6 +369,10 @@
 	branch = refs/heads/master
 	path = src/third_party/adhd
 	url = ../third_party/adhd
+[submodule "chromiumos/third_party/apitrace"]
+	branch = refs/heads/master
+	path = src/third_party/apitrace
+	url = ../third_party/apitrace
 [submodule "chromiumos/third_party/arm-trusted-firmware"]
 	branch = refs/heads/master
 	path = src/third_party/arm-trusted-firmware
