@@ -397,10 +397,6 @@
 	branch = refs/heads/master
 	path = src/third_party/bootstub
 	url = ../third_party/bootstub
-[submodule "chromiumos/third_party/broadcom"]
-	branch = refs/heads/master
-	path = src/third_party/broadcom
-	url = ../third_party/broadcom
 [submodule "chromiumos/third_party/cbootimage"]
 	branch = refs/heads/master
 	path = src/third_party/cbootimage
