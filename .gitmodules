@@ -201,6 +201,10 @@
 	branch = refs/heads/master
 	path = src/platform/drm-tests
 	url = ../platform/drm-tests
+[submodule "chromiumos/platform/ec/src/platform/cr50"]
+	branch = refs/heads/cr50_stab
+	path = src/platform/cr50
+	url = ../platform/ec
 [submodule "chromiumos/platform/ec/src/platform/ec"]
 	branch = refs/heads/master
 	path = src/platform/ec

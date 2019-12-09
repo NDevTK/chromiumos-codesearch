@@ -49,6 +49,7 @@
 /src/platform/dev minilayout buildtools devserver firmware
 /src/platform/verity
 /src/platform/drm-tests
+/src/platform/cr50 firmware
 /src/platform/ec firmware
 /src/platform/release-firmware/fpmcu-bloonchipper firmware
 /src/platform/release-firmware/fpmcu-dartmonkey firmware
