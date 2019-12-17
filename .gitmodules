@@ -409,7 +409,11 @@
 	branch = refs/heads/master
 	path = src/third_party/cbootimage
 	url = ../third_party/cbootimage
-[submodule "chromiumos/third_party/coreboot"]
+[submodule "chromiumos/third_party/coreboot/src/third_party/coreboot-zork"]
+	branch = refs/heads/trembyle-bringup
+	path = src/third_party/coreboot-zork
+	url = ../third_party/coreboot
+[submodule "chromiumos/third_party/coreboot/src/third_party/coreboot"]
 	branch = refs/heads/chromeos-2016.05
 	path = src/third_party/coreboot
 	url = ../third_party/coreboot
