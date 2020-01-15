@@ -37,6 +37,10 @@
 	branch = refs/heads/master
 	path = chromite
 	url = ../chromite
+[submodule "chromiumos/config"]
+	branch = refs/heads/master
+	path = src/config
+	url = ../config
 [submodule "chromiumos/containers/cros-container-guest-tools"]
 	branch = refs/heads/master
 	path = src/platform/container-guest-tools
