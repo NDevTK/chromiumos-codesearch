@@ -7,10 +7,10 @@
 /src/chromium/src/third_party/Python-Markdown
 /src/chromium/src/tools/md_browser
 /src/chromium/depot_tools minilayout labtools buildtools firmware
-/chromite minilayout labtools sysmon buildtools chromeos-admin devserver firmware
+/chromite minilayout crosvm labtools sysmon buildtools chromeos-admin devserver firmware
 /src/config
 /src/platform/container-guest-tools
-/docs
+/docs crosvm
 /src/platform/graphyte
 /src/platform/empty-project
 /infra/ci_results_archiver chromeos-admin
@@ -45,7 +45,7 @@
 /src/platform/cobble
 /src/platform/crostestutils minilayout buildtools firmware
 /src/scripts minilayout labtools buildtools firmware
-/src/platform/crosvm
+/src/platform/crosvm crosvm
 /src/platform/depthcharge firmware
 /src/platform/dev minilayout buildtools devserver firmware
 /src/platform/verity
@@ -91,8 +91,8 @@
 /src/platform/webplot
 /src/platform/xorg-conf
 /src/platform2
-/src/repohooks minilayout labtools buildtools firmware
-/src/third_party/adhd
+/src/repohooks minilayout crosvm labtools buildtools firmware
+/src/third_party/adhd crosvm
 /src/third_party/apitrace
 /src/third_party/arm-trusted-firmware
 /src/third_party/atheros
@@ -183,7 +183,7 @@
 /src/aosp/external/libcxx
 /src/aosp/external/libcxxabi
 /src/aosp/external/libunwind_llvm
-/src/aosp/external/minijail
+/src/aosp/external/minijail crosvm
 /src/aosp/external/puffin
 /src/aosp/system/keymaster
 /src/aosp/toolchain/binutils
