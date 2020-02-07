@@ -222,11 +222,11 @@
 	path = src/platform/release-firmware/fpmcu-dartmonkey
 	url = ../platform/ec
 [submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-nami"]
-	branch = refs/heads/firmware-nocturne-10984.B
+	branch = refs/heads/firmware-fpmcu-dartmonkey-release
 	path = src/platform/release-firmware/fpmcu-nami
 	url = ../platform/ec
 [submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-nocturne"]
-	branch = refs/heads/firmware-nocturne-10984.B
+	branch = refs/heads/firmware-fpmcu-dartmonkey-release
 	path = src/platform/release-firmware/fpmcu-nocturne
 	url = ../platform/ec
 [submodule "chromiumos/platform/experimental"]
