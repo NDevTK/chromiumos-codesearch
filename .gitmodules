@@ -265,6 +265,10 @@
 	branch = refs/heads/master
 	path = src/third_party/breakpad
 	url = ../platform/google-breakpad
+[submodule "chromiumos/platform/graphics"]
+	branch = refs/heads/master
+	path = src/platform/graphics
+	url = ../platform/graphics
 [submodule "chromiumos/platform/initramfs"]
 	branch = refs/heads/master
 	path = src/platform/initramfs

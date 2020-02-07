@@ -65,6 +65,7 @@
 /src/platform/glbench
 /src/platform/go-seccomp
 /src/third_party/breakpad
+/src/platform/graphics
 /src/platform/initramfs
 /src/platform/inputcontrol
 /src/platform/jabra_vold
