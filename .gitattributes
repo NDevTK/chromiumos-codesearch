@@ -16,7 +16,6 @@
 /infra/ci_results_archiver chromeos-admin
 /infra/cl_exonerator
 /infra/cl_status_viewer
-/infra/distfiles_updater
 /infra/dummies/general-sandbox
 /infra/dummies/merge-sandbox
 /infra/go chromeos-admin

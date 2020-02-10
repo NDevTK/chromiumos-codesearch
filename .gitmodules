@@ -69,10 +69,6 @@
 	branch = refs/heads/master
 	path = infra/cl_status_viewer
 	url = ../infra/cl_status_viewer
-[submodule "chromiumos/infra/distfiles_updater"]
-	branch = refs/heads/master
-	path = infra/distfiles_updater
-	url = ../infra/distfiles_updater
 [submodule "chromiumos/infra/dummies/general-sandbox"]
 	branch = refs/heads/master
 	path = infra/dummies/general-sandbox
