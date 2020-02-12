@@ -593,6 +593,10 @@
 	branch = refs/heads/chromeos
 	path = src/third_party/libsigrokdecode
 	url = ../third_party/libsigrokdecode
+[submodule "chromiumos/third_party/libtextclassifier"]
+	branch = refs/heads/master
+	path = src/third_party/libtextclassifier
+	url = ../third_party/libtextclassifier
 [submodule "chromiumos/third_party/libv4lplugins"]
 	branch = refs/heads/master
 	path = src/third_party/libv4lplugins

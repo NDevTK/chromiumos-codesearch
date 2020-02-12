@@ -147,6 +147,7 @@
 /src/third_party/libsigrok
 /src/third_party/sigrok-cli
 /src/third_party/libsigrokdecode
+/src/third_party/libtextclassifier
 /src/third_party/libv4lplugins
 /src/third_party/linux-firmware
 /src/third_party/logitech-updater
