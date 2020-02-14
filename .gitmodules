@@ -157,6 +157,10 @@
 	branch = refs/heads/master
 	path = src/platform/btsocket
 	url = ../platform/btsocket
+[submodule "chromiumos/platform/cbor"]
+	branch = refs/heads/master
+	path = src/platform/cbor
+	url = ../platform/cbor
 [submodule "chromiumos/platform/cfm-device-monitor"]
 	branch = refs/heads/master
 	path = src/platform/cfm-device-monitor

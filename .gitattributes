@@ -38,6 +38,7 @@
 /src/platform/bmpblk
 /src/platform/bootcache
 /src/platform/btsocket
+/src/platform/cbor
 /src/platform/cfm-device-monitor
 /src/platform/chameleon
 /src/platform/chromiumos-assets
