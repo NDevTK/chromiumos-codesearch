@@ -72,7 +72,6 @@
 /src/platform/libevdev
 /src/platform/microbenchmarks
 /src/platform/minigbm
-/src/platform/moblab
 /src/platform/mosys
 /src/platform/mttools
 /src/platform/newblue
