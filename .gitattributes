@@ -91,7 +91,7 @@
 /src/platform/webplot
 /src/platform/xorg-conf
 /src/platform2
-/src/repohooks minilayout crosvm labtools buildtools moblab firmware
+/src/repohooks minilayout crosvm labtools buildtools firmware
 /src/third_party/adhd crosvm
 /src/third_party/apitrace
 /src/third_party/arm-trusted-firmware
