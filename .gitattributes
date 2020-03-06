@@ -99,6 +99,7 @@
 /src/third_party/atrusctl
 /src/third_party/autotest/files labtools buildtools devserver
 /src/third_party/aver-updater
+/src/third_party/bluez-next
 /src/third_party/bluez
 /src/third_party/bootstub firmware
 /src/third_party/cbootimage firmware

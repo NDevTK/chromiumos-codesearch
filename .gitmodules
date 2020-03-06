@@ -401,7 +401,11 @@
 	branch = refs/heads/master
 	path = src/third_party/aver-updater
 	url = ../third_party/aver-updater
-[submodule "chromiumos/third_party/bluez"]
+[submodule "chromiumos/third_party/bluez/src/third_party/bluez-next"]
+	branch = refs/heads/chromeos-5.53
+	path = src/third_party/bluez-next
+	url = ../third_party/bluez
+[submodule "chromiumos/third_party/bluez/src/third_party/bluez"]
 	branch = refs/heads/chromeos-5.44
 	path = src/third_party/bluez
 	url = ../third_party/bluez
