@@ -285,6 +285,10 @@
 	branch = refs/heads/master
 	path = src/platform/libevdev
 	url = ../platform/libevdev
+[submodule "chromiumos/platform/lithium"]
+	branch = refs/heads/master
+	path = src/platform/lithium
+	url = ../platform/lithium
 [submodule "chromiumos/platform/microbenchmarks"]
 	branch = refs/heads/master
 	path = src/platform/microbenchmarks
