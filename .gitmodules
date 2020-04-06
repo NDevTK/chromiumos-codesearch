@@ -669,6 +669,10 @@
 	branch = refs/heads/master
 	path = src/third_party/novatek-tcon-fw-update-tool
 	url = ../third_party/novatek-tcon-fw-update-tool
+[submodule "chromiumos/third_party/poly-updater"]
+	branch = refs/heads/master
+	path = src/third_party/poly-updater
+	url = ../third_party/poly-updater
 [submodule "chromiumos/third_party/portage_tool"]
 	branch = refs/heads/chromeos-2.3.75
 	path = src/third_party/portage_tool
