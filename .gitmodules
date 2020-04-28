@@ -749,18 +749,6 @@
 	branch = refs/heads/master
 	path = src/aosp/external/bsdiff
 	url = https://android.googlesource.com/platform/external/bsdiff
-[submodule "platform/external/libcxx"]
-	branch = refs/heads/master
-	path = src/aosp/external/libcxx
-	url = https://android.googlesource.com/platform/external/libcxx
-[submodule "platform/external/libcxxabi"]
-	branch = refs/heads/master
-	path = src/aosp/external/libcxxabi
-	url = https://android.googlesource.com/platform/external/libcxxabi
-[submodule "platform/external/libunwind_llvm"]
-	branch = refs/heads/master
-	path = src/aosp/external/libunwind_llvm
-	url = https://android.googlesource.com/platform/external/libunwind_llvm
 [submodule "platform/external/minijail"]
 	branch = refs/heads/master
 	path = src/aosp/external/minijail
