@@ -737,6 +737,10 @@
 	branch = refs/heads/master
 	path = src/third_party/webrtc-apm
 	url = ../third_party/webrtc-apm
+[submodule "chromiumos/third_party/whining"]
+	branch = refs/heads/master
+	path = src/third_party/whining
+	url = ../third_party/whining
 [submodule "external/git.kernel.org/fs/xfs/xfstests-dev"]
 	branch = refs/heads/master
 	path = src/third_party/xfstests
