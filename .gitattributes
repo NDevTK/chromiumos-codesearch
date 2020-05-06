@@ -176,7 +176,7 @@
 /src/third_party/sound-open-firmware
 /src/third_party/sysbios firmware
 /src/third_party/tlsdate
-/src/third_party/toolchain-utils
+/src/third_party/toolchain-utils minilayout
 /src/third_party/tpm2 firmware
 /src/third_party/trousers
 /src/third_party/u-boot/files
