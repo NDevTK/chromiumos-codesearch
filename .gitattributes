@@ -1,5 +1,6 @@
 /src/aosp/external/libchrome
 /src/third_party/modp_b64
+/src/aosp/frameworks/ml
 /src/aosp/system/libsync
 /src/aosp/system/update_engine
 /src/third_party/libapps
