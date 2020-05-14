@@ -22,6 +22,10 @@
 	branch = refs/heads/master
 	path = src/aosp/system/libsync
 	url = ../../aosp/platform/system/core/libsync
+[submodule "aosp/platform/system/core/libutils"]
+	branch = refs/heads/master
+	path = src/aosp/system/core/libutils
+	url = ../../aosp/platform/system/core/libutils
 [submodule "aosp/platform/system/libhidl/"]
 	branch = refs/heads/master
 	path = src/aosp/system/libhidl
