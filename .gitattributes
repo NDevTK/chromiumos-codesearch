@@ -1,6 +1,7 @@
 /src/aosp/external/libchrome
 /src/third_party/modp_b64
 /src/aosp/frameworks/ml
+/src/aosp/system/core/base
 /src/aosp/system/core/libcutils
 /src/aosp/system/libsync
 /src/aosp/system/libhidl
