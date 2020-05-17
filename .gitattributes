@@ -17,7 +17,7 @@
 /src/platform/container-guest-tools
 /docs crosvm
 /src/platform/graphyte
-/src/platform/empty-project
+/src/platform/empty-project minilayout
 /infra/ci_results_archiver chromeos-admin
 /infra/cl_exonerator
 /infra/cl_status_viewer
