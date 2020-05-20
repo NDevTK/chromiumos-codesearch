@@ -98,7 +98,7 @@
 /src/platform/vpd
 /src/platform/webplot
 /src/platform/xorg-conf
-/src/platform2
+/src/platform2 crosvm
 /src/repohooks minilayout crosvm labtools buildtools firmware
 /src/third_party/adhd crosvm
 /src/third_party/apitrace
