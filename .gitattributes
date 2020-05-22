@@ -3,6 +3,7 @@
 /src/aosp/frameworks/ml
 /src/aosp/system/core/base
 /src/aosp/system/core/libcutils
+/src/aosp/system/core/liblog
 /src/aosp/system/libsync
 /src/aosp/system/core/libutils
 /src/aosp/system/libhidl

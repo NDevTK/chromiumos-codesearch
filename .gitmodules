@@ -18,6 +18,10 @@
 	branch = refs/heads/master
 	path = src/aosp/system/core/libcutils
 	url = ../../aosp/platform/system/core/libcutils
+[submodule "aosp/platform/system/core/liblog"]
+	branch = refs/heads/master
+	path = src/aosp/system/core/liblog
+	url = ../../aosp/platform/system/core/liblog
 [submodule "aosp/platform/system/core/libsync"]
 	branch = refs/heads/master
 	path = src/aosp/system/libsync
