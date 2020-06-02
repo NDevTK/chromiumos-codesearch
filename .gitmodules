@@ -397,6 +397,10 @@
 	branch = refs/heads/master
 	path = src/platform/xorg-conf
 	url = ../platform/xorg-conf
+[submodule "chromiumos/platform/zephyr-chrome"]
+	branch = refs/heads/master
+	path = src/platform/zephyr-chrome
+	url = ../platform/zephyr-chrome
 [submodule "chromiumos/platform2"]
 	branch = refs/heads/master
 	path = src/platform2
@@ -769,6 +773,10 @@
 	branch = refs/heads/master
 	path = src/third_party/webrtc-apm
 	url = ../third_party/webrtc-apm
+[submodule "chromiumos/third_party/zephyr"]
+	branch = refs/heads/chromeos-v2.2
+	path = src/third_party/zephyr/main/v2.2
+	url = ../third_party/zephyr
 [submodule "external/git.kernel.org/fs/xfs/xfstests-dev"]
 	branch = refs/heads/master
 	path = src/third_party/xfstests

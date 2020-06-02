@@ -98,6 +98,7 @@
 /src/platform/vpd
 /src/platform/webplot
 /src/platform/xorg-conf
+/src/platform/zephyr-chrome firmware zephyr
 /src/platform2 crosvm
 /src/repohooks minilayout crosvm labtools buildtools firmware
 /src/third_party/adhd crosvm
@@ -191,6 +192,7 @@
 /src/third_party/virglrenderer
 /src/third_party/virtual-usb-printer
 /src/third_party/webrtc-apm
+/src/third_party/zephyr/main/v2.2 firmware zephyr
 /src/third_party/xfstests
 /src/aosp/external/bsdiff
 /src/aosp/external/minijail crosvm
