@@ -85,14 +85,6 @@
 	branch = refs/heads/master
 	path = infra/ci_results_archiver
 	url = ../infra/ci_results_archiver
-[submodule "chromiumos/infra/cl_exonerator"]
-	branch = refs/heads/master
-	path = infra/cl_exonerator
-	url = ../infra/cl_exonerator
-[submodule "chromiumos/infra/cl_status_viewer"]
-	branch = refs/heads/master
-	path = infra/cl_status_viewer
-	url = ../infra/cl_status_viewer
 [submodule "chromiumos/infra/dummies/general-sandbox"]
 	branch = refs/heads/master
 	path = infra/dummies/general-sandbox
