@@ -541,6 +541,10 @@
 	branch = refs/heads/master
 	path = src/third_party/huddly-updater
 	url = ../third_party/huddly-updater
+[submodule "chromiumos/third_party/igt-gpu-tools"]
+	branch = refs/heads/master
+	path = src/third_party/igt-gpu-tools
+	url = ../third_party/igt-gpu-tools
 [submodule "chromiumos/third_party/intel-wifi-fw-dump"]
 	branch = refs/heads/master
 	path = src/third_party/intel-wifi-fw-dump
