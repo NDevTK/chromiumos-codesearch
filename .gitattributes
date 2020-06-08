@@ -88,7 +88,6 @@
 /src/platform/tast-tests
 /src/platform/touch_firmware_test firmware
 /src/platform/touch_updater
-/src/platform/touchbot
 /src/platform/touchpad-tests
 /src/third_party/tpm firmware
 /src/platform/tpm_lite

@@ -357,10 +357,6 @@
 	branch = refs/heads/master
 	path = src/platform/touch_updater
 	url = ../platform/touch_updater
-[submodule "chromiumos/platform/touchbot"]
-	branch = refs/heads/master
-	path = src/platform/touchbot
-	url = ../platform/touchbot
 [submodule "chromiumos/platform/touchpad-tests"]
 	branch = refs/heads/master
 	path = src/platform/touchpad-tests
