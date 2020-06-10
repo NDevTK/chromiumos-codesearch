@@ -179,6 +179,7 @@
 /src/third_party/novatek-tcon-fw-update-tool
 /src/third_party/poly-updater
 /src/third_party/portage_tool
+/src/third_party/qemu
 /src/third_party/rootdev
 /src/third_party/seabios firmware
 /src/third_party/shellcheck
