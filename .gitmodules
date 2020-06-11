@@ -525,13 +525,13 @@
 	branch = refs/heads/master
 	path = src/third_party/hdctools
 	url = ../third_party/hdctools
-[submodule "chromiumos/third_party/hostap/src/third_party/wpa_supplicant-2.6"]
-	branch = refs/heads/wpa_supplicant-2.6
-	path = src/third_party/wpa_supplicant-2.6
-	url = ../third_party/hostap
 [submodule "chromiumos/third_party/hostap/src/third_party/wpa_supplicant-2.8"]
 	branch = refs/heads/wpa_supplicant-2.8
 	path = src/third_party/wpa_supplicant-2.8
+	url = ../third_party/hostap
+[submodule "chromiumos/third_party/hostap/src/third_party/wpa_supplicant-2.9"]
+	branch = refs/heads/wpa_supplicant-2.9
+	path = src/third_party/wpa_supplicant-2.9
 	url = ../third_party/hostap
 [submodule "chromiumos/third_party/hostap/src/third_party/wpa_supplicant"]
 	branch = refs/heads/master
