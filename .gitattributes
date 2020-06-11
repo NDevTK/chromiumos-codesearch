@@ -8,6 +8,7 @@
 /src/aosp/system/core/liblog
 /src/aosp/system/libsync
 /src/aosp/system/core/libutils
+/src/aosp/system/libfmq
 /src/aosp/system/libhidl
 /src/aosp/system/update_engine
 /src/third_party/libapps

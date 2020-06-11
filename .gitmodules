@@ -38,6 +38,10 @@
 	branch = refs/heads/master
 	path = src/aosp/system/core/libutils
 	url = ../../aosp/platform/system/core/libutils
+[submodule "aosp/platform/system/libfmq"]
+	branch = refs/heads/master
+	path = src/aosp/system/libfmq
+	url = ../../aosp/platform/system/libfmq
 [submodule "aosp/platform/system/libhidl/"]
 	branch = refs/heads/master
 	path = src/aosp/system/libhidl
