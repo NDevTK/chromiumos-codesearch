@@ -10,6 +10,10 @@
 	branch = refs/heads/master
 	path = src/aosp/frameworks/ml
 	url = ../../aosp/platform/frameworks/ml
+[submodule "aosp/platform/frameworks/native"]
+	branch = refs/heads/master
+	path = src/aosp/frameworks/native
+	url = ../../aosp/platform/frameworks/native
 [submodule "aosp/platform/system/core/base"]
 	branch = refs/heads/master
 	path = src/aosp/system/core/base
