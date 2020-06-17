@@ -2,6 +2,10 @@
 	branch = refs/heads/master
 	path = src/aosp/external/libchrome
 	url = ../../aosp/platform/external/libchrome
+[submodule "aosp/platform/external/libutf"]
+	branch = refs/heads/master
+	path = src/aosp/external/libutf
+	url = ../../aosp/platform/external/libutf
 [submodule "aosp/platform/external/modp_b64"]
 	branch = refs/heads/master
 	path = src/third_party/modp_b64
