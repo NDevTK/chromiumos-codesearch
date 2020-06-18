@@ -621,6 +621,10 @@
 	branch = refs/heads/master
 	path = src/third_party/khronos
 	url = ../third_party/khronos
+[submodule "chromiumos/third_party/lexmark-fax-pnh"]
+	branch = refs/heads/master
+	path = src/third_party/lexmark-fax-pnh
+	url = ../third_party/lexmark-fax-pnh
 [submodule "chromiumos/third_party/libcamera"]
 	branch = refs/heads/master
 	path = src/third_party/libcamera
