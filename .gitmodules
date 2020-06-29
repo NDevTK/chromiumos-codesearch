@@ -449,13 +449,17 @@
 	branch = refs/heads/master
 	path = src/third_party/aver-updater
 	url = ../third_party/aver-updater
-[submodule "chromiumos/third_party/bluez/src/third_party/bluez-next"]
-	branch = refs/heads/chromeos-5.54
-	path = src/third_party/bluez-next
-	url = ../third_party/bluez
-[submodule "chromiumos/third_party/bluez/src/third_party/bluez"]
+[submodule "chromiumos/third_party/bluez/src/third_party/bluez/current"]
 	branch = refs/heads/chromeos-5.44
-	path = src/third_party/bluez
+	path = src/third_party/bluez/current
+	url = ../third_party/bluez
+[submodule "chromiumos/third_party/bluez/src/third_party/bluez/next"]
+	branch = refs/heads/chromeos-5.54
+	path = src/third_party/bluez/next
+	url = ../third_party/bluez
+[submodule "chromiumos/third_party/bluez/src/third_party/bluez/upstream"]
+	branch = refs/heads/upstream/master
+	path = src/third_party/bluez/upstream
 	url = ../third_party/bluez
 [submodule "chromiumos/third_party/bootstub"]
 	branch = refs/heads/master
