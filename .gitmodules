@@ -349,10 +349,6 @@
 	branch = refs/heads/master
 	path = src/platform/mttools
 	url = ../platform/mttools
-[submodule "chromiumos/platform/newblue"]
-	branch = refs/heads/master
-	path = src/platform/newblue
-	url = ../platform/newblue
 [submodule "chromiumos/platform/tast"]
 	branch = refs/heads/master
 	path = src/platform/tast

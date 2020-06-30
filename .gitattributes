@@ -86,7 +86,6 @@
 /src/platform/moblab moblab
 /src/platform/mosys
 /src/platform/mttools
-/src/platform/newblue
 /src/platform/tast
 /src/platform/tast-tests
 /src/platform/touch_firmware_test firmware
