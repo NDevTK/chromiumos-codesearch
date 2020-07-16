@@ -94,7 +94,6 @@
 	path = src/platform/graphyte
 	url = ../graphyte
 [submodule "chromiumos/infra/build/empty-project"]
-	branch = refs/heads/master
 	path = src/platform/empty-project
 	url = ../infra/build/empty-project
 [submodule "chromiumos/infra/ci_results_archiver"]
