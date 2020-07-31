@@ -3,6 +3,7 @@
 /src/third_party/modp_b64
 /src/aosp/frameworks/ml
 /src/aosp/frameworks/native
+/src/aosp/hardware/interfaces/neuralnetworks
 /src/aosp/system/core/base
 /src/aosp/system/core/libbacktrace
 /src/aosp/system/core/libcutils

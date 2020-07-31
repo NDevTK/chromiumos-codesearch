@@ -18,6 +18,10 @@
 	branch = refs/heads/master
 	path = src/aosp/frameworks/native
 	url = ../../aosp/platform/frameworks/native
+[submodule "aosp/platform/hardware/interfaces/neuralnetworks"]
+	branch = refs/heads/master
+	path = src/aosp/hardware/interfaces/neuralnetworks
+	url = ../../aosp/platform/hardware/interfaces/neuralnetworks
 [submodule "aosp/platform/system/core/base"]
 	branch = refs/heads/master
 	path = src/aosp/system/core/base
