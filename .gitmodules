@@ -420,6 +420,10 @@
 	branch = refs/heads/master
 	path = src/repohooks
 	url = ../repohooks
+[submodule "chromiumos/third_party/Wi-FiTestSuite-Linux-DUT"]
+	branch = refs/heads/master
+	path = src/third_party/Wi-FiTestSuite-Linux-DUT
+	url = ../third_party/Wi-FiTestSuite-Linux-DUT
 [submodule "chromiumos/third_party/adhd"]
 	branch = refs/heads/master
 	path = src/third_party/adhd
@@ -468,11 +472,7 @@
 	branch = refs/heads/master
 	path = src/third_party/cbootimage
 	url = ../third_party/cbootimage
-[submodule "chromiumos/third_party/coreboot/src/third_party/coreboot-zork"]
-	branch = refs/heads/trembyle-bringup
-	path = src/third_party/coreboot-zork
-	url = ../third_party/coreboot
-[submodule "chromiumos/third_party/coreboot/src/third_party/coreboot"]
+[submodule "chromiumos/third_party/coreboot"]
 	branch = refs/heads/chromeos-2016.05
 	path = src/third_party/coreboot
 	url = ../third_party/coreboot
@@ -529,7 +529,7 @@
 	path = src/third_party/flashrom
 	url = ../third_party/flashrom
 [submodule "chromiumos/third_party/fwupd"]
-	branch = refs/heads/fwupd-1.4.1
+	branch = refs/heads/fwupd-1.4.5
 	path = src/third_party/fwupd
 	url = ../third_party/fwupd
 [submodule "chromiumos/third_party/hdctools"]
@@ -561,7 +561,7 @@
 	path = src/third_party/intel-wifi-fw-dump
 	url = ../third_party/intel-wifi-fw-dump
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/upstream"]
-	branch = refs/heads/merge/continuous/chromeos-kernelupstream-5.8-rc5
+	branch = refs/heads/merge/continuous/chromeos-kernelupstream-5.8
 	path = src/third_party/kernel/upstream
 	url = ../third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v3.10"]
@@ -785,7 +785,7 @@
 	path = src/third_party/trousers
 	url = ../third_party/trousers
 [submodule "chromiumos/third_party/u-boot"]
-	branch = refs/heads/chromeos-v2020.01
+	branch = refs/heads/chromeos-v2020.10-rc1
 	path = src/third_party/u-boot/files
 	url = ../third_party/u-boot
 [submodule "chromiumos/third_party/virglrenderer"]
