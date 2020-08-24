@@ -240,10 +240,6 @@
 	branch = refs/heads/master
 	path = src/platform/dev
 	url = ../platform/dev-util
-[submodule "chromiumos/platform/dm-verity"]
-	branch = refs/heads/master
-	path = src/platform/verity
-	url = ../platform/dm-verity
 [submodule "chromiumos/platform/drm-tests"]
 	branch = refs/heads/master
 	path = src/platform/drm-tests

@@ -59,7 +59,6 @@
 /src/platform/crosvm crosvm
 /src/platform/depthcharge firmware
 /src/platform/dev minilayout buildtools devserver firmware
-/src/platform/verity
 /src/platform/drm-tests
 /src/platform/cr50 firmware
 /src/platform/ec firmware
