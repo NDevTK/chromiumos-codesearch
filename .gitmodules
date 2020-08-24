@@ -46,6 +46,10 @@
 	branch = refs/heads/master
 	path = src/aosp/system/core/libutils
 	url = ../../aosp/platform/system/core/libutils
+[submodule "aosp/platform/system/libbase"]
+	branch = refs/heads/master
+	path = src/aosp/system/libbase
+	url = ../../aosp/platform/system/libbase
 [submodule "aosp/platform/system/libfmq"]
 	branch = refs/heads/master
 	path = src/aosp/system/libfmq
