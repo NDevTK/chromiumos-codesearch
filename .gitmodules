@@ -489,7 +489,7 @@
 	path = src/third_party/cups
 	url = ../third_party/cups
 [submodule "chromiumos/third_party/daisydog"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/daisydog
 	url = ../third_party/daisydog
 [submodule "chromiumos/third_party/edk2/src/third_party/edk2"]
@@ -733,7 +733,7 @@
 	path = src/third_party/novatek-tcon-fw-update-tool
 	url = ../third_party/novatek-tcon-fw-update-tool
 [submodule "chromiumos/third_party/poly-updater"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/poly-updater
 	url = ../third_party/poly-updater
 [submodule "chromiumos/third_party/portage_tool"]
@@ -745,7 +745,7 @@
 	path = src/third_party/qemu
 	url = ../third_party/qemu
 [submodule "chromiumos/third_party/rootdev"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/rootdev
 	url = ../third_party/rootdev
 [submodule "chromiumos/third_party/seabios"]
