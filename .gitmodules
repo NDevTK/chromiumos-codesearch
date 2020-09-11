@@ -839,6 +839,6 @@
 	path = src/aosp/toolchain/gcc
 	url = https://android.googlesource.com/toolchain/gcc
 [submodule "weave/libweave"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/weave/libweave
 	url = ../../weave/libweave
