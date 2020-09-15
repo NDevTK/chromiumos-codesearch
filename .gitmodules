@@ -420,6 +420,10 @@
 	branch = refs/heads/master
 	path = src/platform2
 	url = ../platform2
+[submodule "chromiumos/project"]
+	branch = refs/heads/main
+	path = src/project_public
+	url = ../project
 [submodule "chromiumos/repohooks"]
 	branch = refs/heads/master
 	path = src/repohooks
