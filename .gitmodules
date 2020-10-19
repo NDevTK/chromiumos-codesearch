@@ -58,6 +58,10 @@
 	branch = refs/heads/master
 	path = src/aosp/system/libhidl
 	url = ../../aosp/platform/system/libhidl
+[submodule "aosp/platform/system/logging"]
+	branch = refs/heads/master
+	path = src/aosp/system/logging
+	url = ../../aosp/platform/system/logging
 [submodule "aosp/platform/system/update_engine"]
 	branch = refs/heads/master
 	path = src/aosp/system/update_engine

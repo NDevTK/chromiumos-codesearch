@@ -13,6 +13,7 @@
 /src/aosp/system/libbase
 /src/aosp/system/libfmq
 /src/aosp/system/libhidl
+/src/aosp/system/logging
 /src/aosp/system/update_engine
 /src/third_party/libapps
 /src/chromium/src/buildtools minilayout labtools buildtools
