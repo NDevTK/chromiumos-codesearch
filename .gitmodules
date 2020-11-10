@@ -393,7 +393,7 @@
 	path = src/platform/uboot-env
 	url = ../platform/uboot-env
 [submodule "chromiumos/platform/usi-test"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/usi-test
 	url = ../platform/usi-test
 [submodule "chromiumos/platform/vboot_reference"]
