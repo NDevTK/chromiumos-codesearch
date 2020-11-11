@@ -389,7 +389,7 @@
 	path = src/platform/tremplin
 	url = ../platform/tremplin
 [submodule "chromiumos/platform/uboot-env"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/uboot-env
 	url = ../platform/uboot-env
 [submodule "chromiumos/platform/usi-test"]
