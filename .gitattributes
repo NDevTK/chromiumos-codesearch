@@ -45,7 +45,6 @@
 /src/third_party/portage-stable minilayout labtools firmware
 /src/platform/assets
 /src/platform/audiotest
-/src/platform/battery_updater
 /src/platform/bisect-kit
 /src/platform/bmpblk
 /src/platform/bootcache

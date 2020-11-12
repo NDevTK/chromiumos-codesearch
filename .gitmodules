@@ -184,10 +184,6 @@
 	branch = refs/heads/master
 	path = src/platform/audiotest
 	url = ../platform/audiotest
-[submodule "chromiumos/platform/battery_updater"]
-	branch = refs/heads/master
-	path = src/platform/battery_updater
-	url = ../platform/battery_updater
 [submodule "chromiumos/platform/bisect-kit"]
 	branch = refs/heads/master
 	path = src/platform/bisect-kit
