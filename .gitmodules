@@ -98,7 +98,7 @@
 	path = src/platform/container-guest-tools
 	url = ../containers/cros-container-guest-tools
 [submodule "chromiumos/docs"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = docs
 	url = ../docs
 [submodule "chromiumos/graphyte"]
@@ -269,7 +269,7 @@
 	path = src/platform/release-firmware/fpmcu-nocturne
 	url = ../platform/ec
 [submodule "chromiumos/platform/experimental"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/experimental
 	url = ../platform/experimental
 [submodule "chromiumos/platform/factory"]
