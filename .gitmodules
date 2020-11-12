@@ -217,7 +217,7 @@
 	path = src/platform/chromiumos-assets
 	url = ../platform/chromiumos-assets
 [submodule "chromiumos/platform/cobble"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/cobble
 	url = ../platform/cobble
 [submodule "chromiumos/platform/crostestutils"]
