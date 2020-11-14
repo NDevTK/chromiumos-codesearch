@@ -67,7 +67,7 @@
 	path = src/aosp/system/update_engine
 	url = ../../aosp/platform/system/update_engine
 [submodule "apps/libapps"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/libapps
 	url = ../../apps/libapps
 [submodule "chromium/src/buildtools"]
