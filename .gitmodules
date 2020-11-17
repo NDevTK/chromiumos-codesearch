@@ -192,10 +192,6 @@
 	branch = refs/heads/master
 	path = src/platform/bmpblk
 	url = ../platform/bmpblk
-[submodule "chromiumos/platform/bootcache"]
-	branch = refs/heads/master
-	path = src/platform/bootcache
-	url = ../platform/bootcache
 [submodule "chromiumos/platform/btsocket"]
 	branch = refs/heads/master
 	path = src/platform/btsocket
@@ -289,7 +285,7 @@
 	path = src/platform/frecon
 	url = ../platform/frecon
 [submodule "chromiumos/platform/gestures"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/gestures
 	url = ../platform/gestures
 [submodule "chromiumos/platform/glbench"]
@@ -788,6 +784,10 @@
 	branch = refs/heads/chromeos-v2020.10-rc1
 	path = src/third_party/u-boot/files
 	url = ../third_party/u-boot
+[submodule "chromiumos/third_party/upstart"]
+	branch = refs/heads/chromeos-1.2
+	path = src/third_party/upstart
+	url = ../third_party/upstart
 [submodule "chromiumos/third_party/virglrenderer"]
 	branch = refs/heads/master
 	path = src/third_party/virglrenderer

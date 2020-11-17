@@ -47,7 +47,6 @@
 /src/platform/audiotest
 /src/platform/bisect-kit
 /src/platform/bmpblk
-/src/platform/bootcache
 /src/platform/btsocket
 /src/platform/cbor
 /src/platform/cfm-device-monitor
@@ -196,6 +195,7 @@
 /src/third_party/tpm2 firmware
 /src/third_party/trousers
 /src/third_party/u-boot/files
+/src/third_party/upstart
 /src/third_party/virglrenderer
 /src/third_party/virtual-usb-printer
 /src/third_party/webrtc-apm
