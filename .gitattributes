@@ -162,7 +162,6 @@
 /src/third_party/libmbim
 /src/third_party/libqmi
 /src/third_party/libqrtr
-/src/third_party/libscrypt
 /src/third_party/libsigrok
 /src/third_party/sigrok-cli
 /src/third_party/libsigrokdecode
