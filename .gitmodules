@@ -157,7 +157,7 @@
 	path = infra_virtualenv
 	url = ../infra_virtualenv
 [submodule "chromiumos/manifest"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = manifest
 	url = ../manifest
 [submodule "chromiumos/overlays/board-overlays"]
