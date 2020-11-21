@@ -32,6 +32,7 @@
 /infra/go chromeos-admin
 /infra/logstock
 /infra/lucifer
+/infra/proto
 /infra/recipes chromeos-admin
 /infra/skylab_inventory labtools chromeos-admin
 /infra/suite_scheduler

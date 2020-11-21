@@ -132,6 +132,10 @@
 	branch = refs/heads/master
 	path = infra/lucifer
 	url = ../infra/lucifer
+[submodule "chromiumos/infra/proto"]
+	branch = refs/heads/master
+	path = infra/proto
+	url = ../infra/proto
 [submodule "chromiumos/infra/recipes"]
 	branch = refs/heads/master
 	path = infra/recipes
@@ -421,7 +425,7 @@
 	path = src/project_public
 	url = ../project
 [submodule "chromiumos/repohooks"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/repohooks
 	url = ../repohooks
 [submodule "chromiumos/third_party/Wi-FiTestSuite-Linux-DUT"]
