@@ -409,7 +409,7 @@
 	path = src/platform/webplot
 	url = ../platform/webplot
 [submodule "chromiumos/platform/xorg-conf"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/xorg-conf
 	url = ../platform/xorg-conf
 [submodule "chromiumos/platform/zephyr-chrome"]
