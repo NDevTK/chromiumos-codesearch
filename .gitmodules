@@ -285,7 +285,7 @@
 	path = src/platform/firmware
 	url = ../platform/firmware
 [submodule "chromiumos/platform/frecon"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/frecon
 	url = ../platform/frecon
 [submodule "chromiumos/platform/gestures"]
