@@ -27,10 +27,7 @@
 /src/platform/graphyte
 /src/platform/empty-project minilayout firmware
 /infra/ci_results_archiver chromeos-admin
-/infra/dummies/general-sandbox
-/infra/dummies/merge-sandbox
 /infra/go chromeos-admin
-/infra/logstock
 /infra/lucifer
 /infra/proto
 /infra/recipes chromeos-admin

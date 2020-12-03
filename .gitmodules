@@ -90,7 +90,7 @@
 	path = chromite
 	url = ../chromite
 [submodule "chromiumos/config"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/config
 	url = ../config
 [submodule "chromiumos/containers/cros-container-guest-tools"]
@@ -112,22 +112,10 @@
 	branch = refs/heads/master
 	path = infra/ci_results_archiver
 	url = ../infra/ci_results_archiver
-[submodule "chromiumos/infra/dummies/general-sandbox"]
-	branch = refs/heads/master
-	path = infra/dummies/general-sandbox
-	url = ../infra/dummies/general-sandbox
-[submodule "chromiumos/infra/dummies/merge-sandbox"]
-	branch = refs/heads/master
-	path = infra/dummies/merge-sandbox
-	url = ../infra/dummies/merge-sandbox
 [submodule "chromiumos/infra/go"]
 	branch = refs/heads/master
 	path = infra/go
 	url = ../infra/go
-[submodule "chromiumos/infra/logstock"]
-	branch = refs/heads/master
-	path = infra/logstock
-	url = ../infra/logstock
 [submodule "chromiumos/infra/lucifer"]
 	branch = refs/heads/master
 	path = infra/lucifer
@@ -177,7 +165,7 @@
 	path = src/third_party/eclass-overlay
 	url = ../overlays/eclass-overlay
 [submodule "chromiumos/overlays/portage-stable"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/portage-stable
 	url = ../overlays/portage-stable
 [submodule "chromiumos/platform/assets"]
@@ -193,11 +181,11 @@
 	path = src/platform/bisect-kit
 	url = ../platform/bisect-kit
 [submodule "chromiumos/platform/bmpblk"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/bmpblk
 	url = ../platform/bmpblk
 [submodule "chromiumos/platform/btsocket"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/btsocket
 	url = ../platform/btsocket
 [submodule "chromiumos/platform/cbor"]
@@ -237,7 +225,7 @@
 	path = src/platform/depthcharge
 	url = ../platform/depthcharge
 [submodule "chromiumos/platform/dev-util"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/dev
 	url = ../platform/dev-util
 [submodule "chromiumos/platform/drm-tests"]
@@ -293,7 +281,7 @@
 	path = src/platform/gestures
 	url = ../platform/gestures
 [submodule "chromiumos/platform/glbench"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/glbench
 	url = ../platform/glbench
 [submodule "chromiumos/platform/go-seccomp"]
@@ -301,7 +289,6 @@
 	path = src/platform/go-seccomp
 	url = ../platform/go-seccomp
 [submodule "chromiumos/platform/google-breakpad"]
-	branch = refs/heads/master
 	path = src/third_party/breakpad
 	url = ../platform/google-breakpad
 [submodule "chromiumos/platform/graphics"]
@@ -309,7 +296,7 @@
 	path = src/platform/graphics
 	url = ../platform/graphics
 [submodule "chromiumos/platform/initramfs"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/initramfs
 	url = ../platform/initramfs
 [submodule "chromiumos/platform/inputcontrol"]
@@ -333,7 +320,7 @@
 	path = src/platform/lithium
 	url = ../platform/lithium
 [submodule "chromiumos/platform/microbenchmarks"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/microbenchmarks
 	url = ../platform/microbenchmarks
 [submodule "chromiumos/platform/minigbm"]
@@ -473,7 +460,7 @@
 	path = src/third_party/bluez/upstream
 	url = ../third_party/bluez
 [submodule "chromiumos/third_party/bootstub"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/bootstub
 	url = ../third_party/bootstub
 [submodule "chromiumos/third_party/cbootimage"]
@@ -565,7 +552,7 @@
 	path = src/third_party/intel-wifi-fw-dump
 	url = ../third_party/intel-wifi-fw-dump
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/upstream"]
-	branch = refs/heads/merge/continuous/chromeos-kernelupstream-5.9
+	branch = refs/heads/merge/continuous/chromeos-kernelupstream-5.10-rc6
 	path = src/third_party/kernel/upstream
 	url = ../third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v3.10"]
