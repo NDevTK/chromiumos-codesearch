@@ -161,7 +161,7 @@
 	path = src/third_party/chromiumos-overlay
 	url = ../overlays/chromiumos-overlay
 [submodule "chromiumos/overlays/eclass-overlay"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/eclass-overlay
 	url = ../overlays/eclass-overlay
 [submodule "chromiumos/overlays/portage-stable"]
@@ -169,15 +169,15 @@
 	path = src/third_party/portage-stable
 	url = ../overlays/portage-stable
 [submodule "chromiumos/platform/assets"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/assets
 	url = ../platform/assets
 [submodule "chromiumos/platform/audiotest"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/audiotest
 	url = ../platform/audiotest
 [submodule "chromiumos/platform/bisect-kit"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/bisect-kit
 	url = ../platform/bisect-kit
 [submodule "chromiumos/platform/bmpblk"]
@@ -189,11 +189,11 @@
 	path = src/platform/btsocket
 	url = ../platform/btsocket
 [submodule "chromiumos/platform/cbor"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/cbor
 	url = ../platform/cbor
 [submodule "chromiumos/platform/cfm-device-monitor"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/cfm-device-monitor
 	url = ../platform/cfm-device-monitor
 [submodule "chromiumos/platform/chameleon"]
@@ -201,7 +201,7 @@
 	path = src/platform/chameleon
 	url = ../platform/chameleon
 [submodule "chromiumos/platform/chromiumos-assets"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/chromiumos-assets
 	url = ../platform/chromiumos-assets
 [submodule "chromiumos/platform/cobble"]
@@ -209,7 +209,7 @@
 	path = src/platform/cobble
 	url = ../platform/cobble
 [submodule "chromiumos/platform/crostestutils"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/crostestutils
 	url = ../platform/crostestutils
 [submodule "chromiumos/platform/crosutils"]
@@ -221,7 +221,7 @@
 	path = src/platform/crosvm
 	url = ../platform/crosvm
 [submodule "chromiumos/platform/depthcharge"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/depthcharge
 	url = ../platform/depthcharge
 [submodule "chromiumos/platform/dev-util"]
@@ -229,7 +229,7 @@
 	path = src/platform/dev
 	url = ../platform/dev-util
 [submodule "chromiumos/platform/drm-tests"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/drm-tests
 	url = ../platform/drm-tests
 [submodule "chromiumos/platform/ec/src/platform/cr50"]
@@ -261,11 +261,11 @@
 	path = src/platform/experimental
 	url = ../platform/experimental
 [submodule "chromiumos/platform/factory"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/factory
 	url = ../platform/factory
 [submodule "chromiumos/platform/factory_installer"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/factory_installer
 	url = ../platform/factory_installer
 [submodule "chromiumos/platform/firmware"]
@@ -304,7 +304,7 @@
 	path = src/platform/inputcontrol
 	url = ../platform/inputcontrol
 [submodule "chromiumos/platform/jabra_vold"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/jabra_vold
 	url = ../platform/jabra_vold
 [submodule "chromiumos/platform/libevdev"]
@@ -316,7 +316,7 @@
 	path = src/platform/libva-fake-driver
 	url = ../platform/libva-fake-driver
 [submodule "chromiumos/platform/lithium"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/lithium
 	url = ../platform/lithium
 [submodule "chromiumos/platform/microbenchmarks"]
@@ -328,23 +328,23 @@
 	path = src/platform/minigbm
 	url = ../platform/minigbm
 [submodule "chromiumos/platform/moblab"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/moblab
 	url = ../platform/moblab
 [submodule "chromiumos/platform/mosys"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/mosys
 	url = ../platform/mosys
 [submodule "chromiumos/platform/mttools"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/mttools
 	url = ../platform/mttools
 [submodule "chromiumos/platform/tast"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/tast
 	url = ../platform/tast
 [submodule "chromiumos/platform/tast-tests"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/tast-tests
 	url = ../platform/tast-tests
 [submodule "chromiumos/platform/touch_firmware_test"]
@@ -384,15 +384,15 @@
 	path = src/platform/vboot_reference
 	url = ../platform/vboot_reference
 [submodule "chromiumos/platform/vkbench"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/vkbench
 	url = ../platform/vkbench
 [submodule "chromiumos/platform/vpd"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/vpd
 	url = ../platform/vpd
 [submodule "chromiumos/platform/webplot"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/webplot
 	url = ../platform/webplot
 [submodule "chromiumos/platform/xorg-conf"]
@@ -420,7 +420,7 @@
 	path = src/third_party/Wi-FiTestSuite-Linux-DUT
 	url = ../third_party/Wi-FiTestSuite-Linux-DUT
 [submodule "chromiumos/third_party/adhd"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/adhd
 	url = ../third_party/adhd
 [submodule "chromiumos/third_party/apitrace"]
@@ -524,11 +524,11 @@
 	path = src/third_party/flashrom
 	url = ../third_party/flashrom
 [submodule "chromiumos/third_party/fwupd"]
-	branch = refs/heads/fwupd-1.4.5
+	branch = refs/heads/fwupd-1.5.0
 	path = src/third_party/fwupd
 	url = ../third_party/fwupd
 [submodule "chromiumos/third_party/hdctools"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/hdctools
 	url = ../third_party/hdctools
 [submodule "chromiumos/third_party/hostap/src/third_party/wpa_supplicant-2.9"]
@@ -548,11 +548,11 @@
 	path = src/third_party/igt-gpu-tools
 	url = ../third_party/igt-gpu-tools
 [submodule "chromiumos/third_party/intel-wifi-fw-dump"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/intel-wifi-fw-dump
 	url = ../third_party/intel-wifi-fw-dump
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/upstream"]
-	branch = refs/heads/merge/continuous/chromeos-kernelupstream-5.10-rc6
+	branch = refs/heads/merge/continuous/chromeos-kernelupstream-5.10-rc7
 	path = src/third_party/kernel/upstream
 	url = ../third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v3.10"]
@@ -756,7 +756,7 @@
 	path = src/third_party/tlsdate
 	url = ../third_party/tlsdate
 [submodule "chromiumos/third_party/toolchain-utils"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/toolchain-utils
 	url = ../third_party/toolchain-utils
 [submodule "chromiumos/third_party/tpm2"]
@@ -764,7 +764,7 @@
 	path = src/third_party/tpm2
 	url = ../third_party/tpm2
 [submodule "chromiumos/third_party/trousers"]
-	branch = refs/heads/master-0.3.13
+	branch = refs/heads/chromeos-0.3.13
 	path = src/third_party/trousers
 	url = ../third_party/trousers
 [submodule "chromiumos/third_party/u-boot"]
@@ -784,7 +784,7 @@
 	path = src/third_party/virtual-usb-printer
 	url = ../third_party/virtual-usb-printer
 [submodule "chromiumos/third_party/webrtc-apm"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/webrtc-apm
 	url = ../third_party/webrtc-apm
 [submodule "chromiumos/third_party/zephyr/src/third_party/zephyr/main/v2.3"]
