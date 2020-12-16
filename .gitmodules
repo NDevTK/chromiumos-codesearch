@@ -280,7 +280,11 @@
 	branch = refs/heads/main
 	path = src/platform/gestures
 	url = ../platform/gestures
-[submodule "chromiumos/platform/glbench"]
+[submodule "chromiumos/platform/glbench/src/platform/glbench-debian"]
+	branch = refs/heads/debian
+	path = src/platform/glbench-debian
+	url = ../platform/glbench
+[submodule "chromiumos/platform/glbench/src/platform/glbench"]
 	branch = refs/heads/main
 	path = src/platform/glbench
 	url = ../platform/glbench
@@ -423,7 +427,11 @@
 	branch = refs/heads/main
 	path = src/third_party/adhd
 	url = ../third_party/adhd
-[submodule "chromiumos/third_party/apitrace"]
+[submodule "chromiumos/third_party/apitrace/src/third_party/apitrace-debian"]
+	branch = refs/heads/debian
+	path = src/third_party/apitrace-debian
+	url = ../third_party/apitrace
+[submodule "chromiumos/third_party/apitrace/src/third_party/apitrace"]
 	branch = refs/heads/master
 	path = src/third_party/apitrace
 	url = ../third_party/apitrace
@@ -611,6 +619,10 @@
 	branch = refs/heads/chromeos-5.4
 	path = src/third_party/kernel/v5.4
 	url = ../third_party/kernel
+[submodule "chromiumos/third_party/kernel-next"]
+	branch = refs/heads/chromeos-next
+	path = src/third_party/kernel/next
+	url = ../third_party/kernel-next
 [submodule "chromiumos/third_party/khronos"]
 	branch = refs/heads/master
 	path = src/third_party/khronos
@@ -623,7 +635,11 @@
 	branch = refs/heads/master
 	path = src/third_party/libcamera
 	url = ../third_party/libcamera
-[submodule "chromiumos/third_party/libdrm"]
+[submodule "chromiumos/third_party/libdrm/src/third_party/libdrm-debian"]
+	branch = refs/heads/debian
+	path = src/third_party/libdrm-debian
+	url = ../third_party/libdrm
+[submodule "chromiumos/third_party/libdrm/src/third_party/libdrm"]
 	branch = refs/heads/master
 	path = src/third_party/libdrm
 	url = ../third_party/libdrm
@@ -715,6 +731,18 @@
 	branch = refs/heads/master
 	path = src/third_party/novatek-tcon-fw-update-tool
 	url = ../third_party/novatek-tcon-fw-update-tool
+[submodule "chromiumos/third_party/optofidelity_TPPT"]
+	branch = refs/heads/main
+	path = src/third_party/optofidelity_TPPT
+	url = ../third_party/optofidelity_TPPT
+[submodule "chromiumos/third_party/optofidelity_TPPT_analysis"]
+	branch = refs/heads/main
+	path = src/third_party/optofidelity_TPPT_analysis
+	url = ../third_party/optofidelity_TPPT_analysis
+[submodule "chromiumos/third_party/optofidelity_chrome_touch_client"]
+	branch = refs/heads/main
+	path = src/third_party/optofidelity_chrome_touch_client
+	url = ../third_party/optofidelity_chrome_touch_client
 [submodule "chromiumos/third_party/poly-updater"]
 	branch = refs/heads/main
 	path = src/third_party/poly-updater

@@ -69,6 +69,7 @@
 /src/platform/firmware firmware
 /src/platform/frecon
 /src/platform/gestures
+/src/platform/glbench-debian notdefault crostini
 /src/platform/glbench
 /src/platform/go-seccomp
 /src/third_party/breakpad
@@ -105,6 +106,7 @@
 /src/repohooks minilayout crosvm labtools buildtools firmware
 /src/third_party/Wi-FiTestSuite-Linux-DUT
 /src/third_party/adhd crosvm
+/src/third_party/apitrace-debian notdefault crostini
 /src/third_party/apitrace
 /src/third_party/arm-trusted-firmware
 /src/third_party/atheros
@@ -152,9 +154,11 @@
 /src/third_party/kernel/v5.4-arcvm
 /src/third_party/kernel/v5.4-manatee
 /src/third_party/kernel/v5.4
+/src/third_party/kernel/next notdefault kernel-next
 /src/third_party/khronos
 /src/third_party/lexmark-fax-pnh
 /src/third_party/libcamera
+/src/third_party/libdrm-debian notdefault crostini
 /src/third_party/libdrm
 /src/third_party/libiio
 /src/third_party/libmbim
@@ -178,6 +182,9 @@
 /src/third_party/mmc-utils
 /src/third_party/modemmanager-next
 /src/third_party/novatek-tcon-fw-update-tool
+/src/third_party/optofidelity_TPPT notdefault touch-firmware-tests
+/src/third_party/optofidelity_TPPT_analysis notdefault touch-firmware-tests
+/src/third_party/optofidelity_chrome_touch_client notdefault touch-firmware-tests
 /src/third_party/poly-updater
 /src/third_party/portage_tool
 /src/third_party/qemu
