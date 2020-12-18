@@ -82,7 +82,7 @@
 /src/platform/lithium firmware
 /src/platform/microbenchmarks
 /src/platform/minigbm
-/src/platform/moblab moblab
+/src/platform/moblab moblab notdefault
 /src/platform/mosys
 /src/platform/mttools
 /src/platform/tast
@@ -151,6 +151,7 @@
 /src/third_party/kernel/v4.19-manatee
 /src/third_party/kernel/v4.19
 /src/third_party/kernel/v4.4
+/src/third_party/kernel/v5.10
 /src/third_party/kernel/v5.4-arcvm
 /src/third_party/kernel/v5.4-manatee
 /src/third_party/kernel/v5.4

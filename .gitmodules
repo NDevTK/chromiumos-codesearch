@@ -109,7 +109,7 @@
 	path = src/platform/empty-project
 	url = ../infra/build/empty-project
 [submodule "chromiumos/infra/ci_results_archiver"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = infra/ci_results_archiver
 	url = ../infra/ci_results_archiver
 [submodule "chromiumos/infra/go"]
@@ -145,7 +145,7 @@
 	path = infra/tnull
 	url = ../infra/tnull
 [submodule "chromiumos/infra_virtualenv"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = infra_virtualenv
 	url = ../infra_virtualenv
 [submodule "chromiumos/manifest"]
@@ -153,7 +153,7 @@
 	path = manifest
 	url = ../manifest
 [submodule "chromiumos/overlays/board-overlays"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/overlays
 	url = ../overlays/board-overlays
 [submodule "chromiumos/overlays/chromiumos-overlay"]
@@ -197,7 +197,7 @@
 	path = src/platform/cfm-device-monitor
 	url = ../platform/cfm-device-monitor
 [submodule "chromiumos/platform/chameleon"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/chameleon
 	url = ../platform/chameleon
 [submodule "chromiumos/platform/chromiumos-assets"]
@@ -213,11 +213,11 @@
 	path = src/platform/crostestutils
 	url = ../platform/crostestutils
 [submodule "chromiumos/platform/crosutils"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/scripts
 	url = ../platform/crosutils
 [submodule "chromiumos/platform/crosvm"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/crosvm
 	url = ../platform/crosvm
 [submodule "chromiumos/platform/depthcharge"]
@@ -237,7 +237,7 @@
 	path = src/platform/cr50
 	url = ../platform/ec
 [submodule "chromiumos/platform/ec/src/platform/ec"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/ec
 	url = ../platform/ec
 [submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-bloonchipper"]
@@ -269,7 +269,7 @@
 	path = src/platform/factory_installer
 	url = ../platform/factory_installer
 [submodule "chromiumos/platform/firmware"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/firmware
 	url = ../platform/firmware
 [submodule "chromiumos/platform/frecon"]
@@ -289,14 +289,14 @@
 	path = src/platform/glbench
 	url = ../platform/glbench
 [submodule "chromiumos/platform/go-seccomp"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/go-seccomp
 	url = ../platform/go-seccomp
 [submodule "chromiumos/platform/google-breakpad"]
 	path = src/third_party/breakpad
 	url = ../platform/google-breakpad
 [submodule "chromiumos/platform/graphics"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/graphics
 	url = ../platform/graphics
 [submodule "chromiumos/platform/initramfs"]
@@ -316,7 +316,7 @@
 	path = src/platform/libevdev
 	url = ../platform/libevdev
 [submodule "chromiumos/platform/libva-fake-driver"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/libva-fake-driver
 	url = ../platform/libva-fake-driver
 [submodule "chromiumos/platform/lithium"]
@@ -328,7 +328,7 @@
 	path = src/platform/microbenchmarks
 	url = ../platform/microbenchmarks
 [submodule "chromiumos/platform/minigbm"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/minigbm
 	url = ../platform/minigbm
 [submodule "chromiumos/platform/moblab"]
@@ -364,15 +364,15 @@
 	path = src/platform/touchpad-tests
 	url = ../platform/touchpad-tests
 [submodule "chromiumos/platform/tpm"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/tpm
 	url = ../platform/tpm
 [submodule "chromiumos/platform/tpm_lite"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/tpm_lite
 	url = ../platform/tpm_lite
 [submodule "chromiumos/platform/tremplin"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/tremplin
 	url = ../platform/tremplin
 [submodule "chromiumos/platform/uboot-env"]
@@ -606,6 +606,10 @@
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v4.4"]
 	branch = refs/heads/chromeos-4.4
 	path = src/third_party/kernel/v4.4
+	url = ../third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v5.10"]
+	branch = refs/heads/chromeos-5.10
+	path = src/third_party/kernel/v5.10
 	url = ../third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v5.4-arcvm"]
 	branch = refs/heads/chromeos-5.4-arcvm
