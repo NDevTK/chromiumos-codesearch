@@ -157,7 +157,7 @@
 	path = src/overlays
 	url = ../overlays/board-overlays
 [submodule "chromiumos/overlays/chromiumos-overlay"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/chromiumos-overlay
 	url = ../overlays/chromiumos-overlay
 [submodule "chromiumos/overlays/eclass-overlay"]
