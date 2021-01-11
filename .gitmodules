@@ -102,7 +102,7 @@
 	path = docs
 	url = ../docs
 [submodule "chromiumos/graphyte"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/graphyte
 	url = ../graphyte
 [submodule "chromiumos/infra/build/empty-project"]
@@ -117,7 +117,7 @@
 	path = infra/go
 	url = ../infra/go
 [submodule "chromiumos/infra/lucifer"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = infra/lucifer
 	url = ../infra/lucifer
 [submodule "chromiumos/infra/proto"]
@@ -304,7 +304,7 @@
 	path = src/platform/initramfs
 	url = ../platform/initramfs
 [submodule "chromiumos/platform/inputcontrol"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/inputcontrol
 	url = ../platform/inputcontrol
 [submodule "chromiumos/platform/jabra_vold"]
@@ -352,15 +352,15 @@
 	path = src/platform/tast-tests
 	url = ../platform/tast-tests
 [submodule "chromiumos/platform/touch_firmware_test"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/touch_firmware_test
 	url = ../platform/touch_firmware_test
 [submodule "chromiumos/platform/touch_updater"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/touch_updater
 	url = ../platform/touch_updater
 [submodule "chromiumos/platform/touchpad-tests"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/touchpad-tests
 	url = ../platform/touchpad-tests
 [submodule "chromiumos/platform/tpm"]
@@ -384,7 +384,7 @@
 	path = src/platform/usi-test
 	url = ../platform/usi-test
 [submodule "chromiumos/platform/vboot_reference"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/vboot_reference
 	url = ../platform/vboot_reference
 [submodule "chromiumos/platform/vkbench"]
@@ -408,7 +408,7 @@
 	path = src/platform/zephyr-chrome
 	url = ../platform/zephyr-chrome
 [submodule "chromiumos/platform2"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform2
 	url = ../platform2
 [submodule "chromiumos/project"]
@@ -448,7 +448,7 @@
 	path = src/third_party/atrusctl
 	url = ../third_party/atrusctl
 [submodule "chromiumos/third_party/autotest"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/autotest/files
 	url = ../third_party/autotest
 [submodule "chromiumos/third_party/aver-updater"]
@@ -484,7 +484,7 @@
 	path = src/third_party/cros-adapta
 	url = ../third_party/cros-adapta
 [submodule "chromiumos/third_party/cryptoc"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/cryptoc
 	url = ../third_party/cryptoc
 [submodule "chromiumos/third_party/cups"]
@@ -560,7 +560,7 @@
 	path = src/third_party/intel-wifi-fw-dump
 	url = ../third_party/intel-wifi-fw-dump
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/upstream"]
-	branch = refs/heads/merge/continuous/chromeos-kernelupstream-5.10-rc7
+	branch = refs/heads/merge/continuous/chromeos-kernelupstream-5.10
 	path = src/third_party/kernel/upstream
 	url = ../third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v3.10"]
@@ -792,7 +792,7 @@
 	path = src/third_party/toolchain-utils
 	url = ../third_party/toolchain-utils
 [submodule "chromiumos/third_party/tpm2"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/third_party/tpm2
 	url = ../third_party/tpm2
 [submodule "chromiumos/third_party/trousers"]
