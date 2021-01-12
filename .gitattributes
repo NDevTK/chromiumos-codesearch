@@ -81,7 +81,7 @@
 /src/platform/libva-fake-driver
 /src/platform/lithium firmware
 /src/platform/microbenchmarks
-/src/platform/minigbm
+/src/platform/minigbm crosvm
 /src/platform/moblab moblab notdefault
 /src/platform/mosys
 /src/platform/mttools
@@ -197,11 +197,11 @@
 /src/third_party/sysbios firmware
 /src/third_party/tlsdate
 /src/third_party/toolchain-utils minilayout
-/src/third_party/tpm2 firmware
+/src/third_party/tpm2 crosvm firmware
 /src/third_party/trousers
 /src/third_party/u-boot/files
 /src/third_party/upstart
-/src/third_party/virglrenderer
+/src/third_party/virglrenderer crosvm
 /src/third_party/virtual-usb-printer
 /src/third_party/webrtc-apm
 /src/third_party/zephyr/main/v2.3 firmware zephyr
