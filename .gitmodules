@@ -129,7 +129,7 @@
 	path = infra/recipes
 	url = ../infra/recipes
 [submodule "chromiumos/infra/skylab_inventory"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = infra/skylab_inventory
 	url = ../infra/skylab_inventory
 [submodule "chromiumos/infra/suite_scheduler"]
