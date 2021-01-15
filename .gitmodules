@@ -22,6 +22,14 @@
 	branch = refs/heads/master
 	path = src/aosp/hardware/interfaces/neuralnetworks
 	url = ../../aosp/platform/hardware/interfaces/neuralnetworks
+[submodule "aosp/platform/system/bt/src/aosp/system/bt/bringup"]
+	branch = refs/heads/bringup
+	path = src/aosp/system/bt/bringup
+	url = ../../aosp/platform/system/bt
+[submodule "aosp/platform/system/bt/src/aosp/system/bt/upstream"]
+	branch = refs/heads/main
+	path = src/aosp/system/bt/upstream
+	url = ../../aosp/platform/system/bt
 [submodule "aosp/platform/system/core/base"]
 	branch = refs/heads/master
 	path = src/aosp/system/core/base

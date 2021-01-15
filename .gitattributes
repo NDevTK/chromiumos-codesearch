@@ -4,6 +4,8 @@
 /src/aosp/frameworks/ml
 /src/aosp/frameworks/native
 /src/aosp/hardware/interfaces/neuralnetworks
+/src/aosp/system/bt/bringup bluetooth notdefault
+/src/aosp/system/bt/upstream bluetooth notdefault
 /src/aosp/system/core/base
 /src/aosp/system/core/libbacktrace
 /src/aosp/system/core/libcutils
