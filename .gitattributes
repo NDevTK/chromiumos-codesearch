@@ -34,7 +34,6 @@
 /infra/lucifer
 /infra/proto
 /infra/recipes chromeos-admin
-/infra/skylab_inventory labtools chromeos-admin
 /infra/suite_scheduler
 /infra/test_analyzer
 /infra/tnull
