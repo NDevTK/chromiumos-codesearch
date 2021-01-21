@@ -78,9 +78,6 @@
 	branch = refs/heads/main
 	path = src/third_party/libapps
 	url = ../../apps/libapps
-[submodule "breakpad/breakpad"]
-	path = src/third_party/breakpad
-	url = ../../breakpad/breakpad
 [submodule "chromium/src/buildtools"]
 	branch = refs/heads/master
 	path = src/chromium/src/buildtools
@@ -299,6 +296,9 @@
 	branch = refs/heads/main
 	path = src/platform/go-seccomp
 	url = ../platform/go-seccomp
+[submodule "chromiumos/platform/google-breakpad"]
+	path = src/third_party/breakpad
+	url = ../platform/google-breakpad
 [submodule "chromiumos/platform/graphics"]
 	branch = refs/heads/main
 	path = src/platform/graphics
