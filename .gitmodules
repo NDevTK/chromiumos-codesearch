@@ -141,7 +141,7 @@
 	path = infra/suite_scheduler
 	url = ../infra/suite_scheduler
 [submodule "chromiumos/infra/test_analyzer"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = infra/test_analyzer
 	url = ../infra/test_analyzer
 [submodule "chromiumos/infra/tnull"]
