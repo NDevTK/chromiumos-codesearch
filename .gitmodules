@@ -137,7 +137,7 @@
 	path = infra/recipes
 	url = ../infra/recipes
 [submodule "chromiumos/infra/suite_scheduler"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = infra/suite_scheduler
 	url = ../infra/suite_scheduler
 [submodule "chromiumos/infra/test_analyzer"]
