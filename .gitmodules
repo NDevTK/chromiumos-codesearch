@@ -192,6 +192,10 @@
 	branch = refs/heads/main
 	path = src/platform/btsocket
 	url = ../platform/btsocket
+[submodule "chromiumos/platform/camera"]
+	branch = refs/heads/main
+	path = src/platform/camera
+	url = ../platform/camera
 [submodule "chromiumos/platform/cbor"]
 	branch = refs/heads/main
 	path = src/platform/cbor

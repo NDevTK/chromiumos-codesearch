@@ -47,6 +47,7 @@
 /src/platform/bisect-kit
 /src/platform/bmpblk
 /src/platform/btsocket
+/src/platform/camera
 /src/platform/cbor
 /src/platform/cfm-device-monitor
 /src/platform/chameleon
