@@ -78,6 +78,9 @@
 	branch = refs/heads/main
 	path = src/third_party/libapps
 	url = ../../apps/libapps
+[submodule "breakpad/breakpad"]
+	path = src/third_party/breakpad
+	url = ../../breakpad/breakpad
 [submodule "chromium/src/buildtools"]
 	branch = refs/heads/master
 	path = src/chromium/src/buildtools
@@ -300,9 +303,6 @@
 	branch = refs/heads/main
 	path = src/platform/go-seccomp
 	url = ../platform/go-seccomp
-[submodule "chromiumos/platform/google-breakpad"]
-	path = src/third_party/breakpad
-	url = ../platform/google-breakpad
 [submodule "chromiumos/platform/graphics"]
 	branch = refs/heads/main
 	path = src/platform/graphics
@@ -320,7 +320,7 @@
 	path = src/platform/jabra_vold
 	url = ../platform/jabra_vold
 [submodule "chromiumos/platform/libevdev"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/platform/libevdev
 	url = ../platform/libevdev
 [submodule "chromiumos/platform/libva-fake-driver"]
@@ -639,6 +639,10 @@
 	branch = refs/heads/master
 	path = src/third_party/khronos
 	url = ../third_party/khronos
+[submodule "chromiumos/third_party/labpack"]
+	branch = refs/heads/main
+	path = src/third_party/labpack/files
+	url = ../third_party/labpack
 [submodule "chromiumos/third_party/lexmark-fax-pnh"]
 	branch = refs/heads/master
 	path = src/third_party/lexmark-fax-pnh

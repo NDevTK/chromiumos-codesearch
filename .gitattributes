@@ -18,6 +18,7 @@
 /src/aosp/system/logging
 /src/aosp/system/update_engine
 /src/third_party/libapps
+/src/third_party/breakpad
 /src/chromium/src/buildtools minilayout labtools buildtools
 /src/chromium/src/third_party/Python-Markdown
 /src/chromium/src/tools/md_browser
@@ -74,7 +75,6 @@
 /src/platform/glbench-debian notdefault crostini
 /src/platform/glbench
 /src/platform/go-seccomp
-/src/third_party/breakpad
 /src/platform/graphics
 /src/platform/initramfs
 /src/platform/inputcontrol
@@ -159,6 +159,7 @@
 /src/third_party/kernel/v5.4
 /src/third_party/kernel/next notdefault kernel-next
 /src/third_party/khronos
+/src/third_party/labpack/files labtools
 /src/third_party/lexmark-fax-pnh
 /src/third_party/libcamera
 /src/third_party/libdrm-debian notdefault crostini
