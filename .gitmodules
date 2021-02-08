@@ -124,7 +124,7 @@
 	path = infra/ci_results_archiver
 	url = ../infra/ci_results_archiver
 [submodule "chromiumos/infra/go"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = infra/go
 	url = ../infra/go
 [submodule "chromiumos/infra/lucifer"]
