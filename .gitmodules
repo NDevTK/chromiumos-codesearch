@@ -132,7 +132,7 @@
 	path = infra/lucifer
 	url = ../infra/lucifer
 [submodule "chromiumos/infra/proto"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = infra/proto
 	url = ../infra/proto
 [submodule "chromiumos/infra/recipes"]
