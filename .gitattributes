@@ -102,6 +102,7 @@
 /src/platform/vpd
 /src/platform/webplot
 /src/platform/xorg-conf
+/src/platform/zephyr-chrome firmware zephyr
 /src/platform2 crosvm
 /src/project_public partner-config
 /src/repohooks minilayout crosvm labtools buildtools firmware
