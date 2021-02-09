@@ -759,6 +759,14 @@
 	branch = refs/heads/main
 	path = src/third_party/optofidelity_chrome_touch_client
 	url = ../third_party/optofidelity_chrome_touch_client
+[submodule "chromiumos/third_party/optofidelity_chromeos_touch_sender"]
+	branch = refs/heads/main
+	path = src/third_party/optofidelity_chromeos_touch_sender
+	url = ../third_party/optofidelity_chromeos_touch_sender
+[submodule "chromiumos/third_party/optofidelity_protocols"]
+	branch = refs/heads/main
+	path = src/third_party/optofidelity_protocols
+	url = ../third_party/optofidelity_protocols
 [submodule "chromiumos/third_party/poly-updater"]
 	branch = refs/heads/main
 	path = src/third_party/poly-updater

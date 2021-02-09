@@ -189,6 +189,8 @@
 /src/third_party/optofidelity_TPPT notdefault touch-firmware-tests
 /src/third_party/optofidelity_TPPT_analysis notdefault touch-firmware-tests
 /src/third_party/optofidelity_chrome_touch_client notdefault touch-firmware-tests
+/src/third_party/optofidelity_chromeos_touch_sender notdefault touch-firmware-tests
+/src/third_party/optofidelity_protocols notdefault touch-firmware-tests
 /src/third_party/poly-updater
 /src/third_party/portage_tool
 /src/third_party/qemu
