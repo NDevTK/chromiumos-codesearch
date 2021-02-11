@@ -883,9 +883,6 @@
 	branch = refs/heads/pie-release
 	path = src/aosp/system/keymaster
 	url = https://android.googlesource.com/platform/system/keymaster
-[submodule "toolchain/binutils"]
-	path = src/aosp/toolchain/binutils
-	url = https://android.googlesource.com/toolchain/binutils
 [submodule "toolchain/gcc"]
 	path = src/aosp/toolchain/gcc
 	url = https://android.googlesource.com/toolchain/gcc
