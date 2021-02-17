@@ -675,6 +675,10 @@
 	branch = refs/heads/master
 	path = src/third_party/libqrtr
 	url = ../third_party/libqrtr
+[submodule "chromiumos/third_party/libqrtr-glib"]
+	branch = refs/heads/master
+	path = src/third_party/libqrtr-glib
+	url = ../third_party/libqrtr-glib
 [submodule "chromiumos/third_party/libsigrok"]
 	branch = refs/heads/chromeos
 	path = src/third_party/libsigrok
