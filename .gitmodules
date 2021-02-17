@@ -97,7 +97,7 @@
 	path = src/chromium/depot_tools
 	url = ../../chromium/tools/depot_tools
 [submodule "chromiumos/chromite"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = chromite
 	url = ../chromite
 [submodule "chromiumos/config"]
