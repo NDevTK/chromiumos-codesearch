@@ -224,5 +224,4 @@
 /src/aosp/external/minijail crosvm
 /src/aosp/external/puffin
 /src/aosp/system/keymaster
-/src/aosp/toolchain/gcc
 /src/weave/libweave
