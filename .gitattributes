@@ -3,6 +3,7 @@
 /src/third_party/modp_b64
 /src/aosp/frameworks/ml
 /src/aosp/frameworks/native
+/src/aosp/frameworks/proto_logging bluetooth notdefault
 /src/aosp/hardware/interfaces/neuralnetworks
 /src/aosp/system/bt/bringup bluetooth notdefault
 /src/aosp/system/bt/upstream bluetooth notdefault

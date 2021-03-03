@@ -18,6 +18,10 @@
 	branch = refs/heads/master
 	path = src/aosp/frameworks/native
 	url = ../../aosp/platform/frameworks/native
+[submodule "aosp/platform/frameworks/proto_logging"]
+	branch = refs/heads/master
+	path = src/aosp/frameworks/proto_logging
+	url = ../../aosp/platform/frameworks/proto_logging
 [submodule "aosp/platform/hardware/interfaces/neuralnetworks"]
 	branch = refs/heads/master
 	path = src/aosp/hardware/interfaces/neuralnetworks
