@@ -724,7 +724,7 @@
 	path = src/third_party/mesa-freedreno
 	url = ../third_party/mesa
 [submodule "chromiumos/third_party/mesa/src/third_party/mesa-img"]
-	branch = refs/heads/mesa-img
+	branch = refs/heads/mesa-19.0
 	path = src/third_party/mesa-img
 	url = ../third_party/mesa
 [submodule "chromiumos/third_party/mesa/src/third_party/mesa-iris"]
