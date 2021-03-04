@@ -197,6 +197,7 @@
 /src/third_party/portage_tool
 /src/third_party/qemu
 /src/third_party/rootdev
+/src/third_party/rust-vmm/vhost
 /src/third_party/rust_crates bluetooth notdefault
 /src/third_party/seabios firmware
 /src/third_party/shellcheck

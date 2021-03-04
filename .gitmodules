@@ -791,6 +791,10 @@
 	branch = refs/heads/main
 	path = src/third_party/rootdev
 	url = ../third_party/rootdev
+[submodule "chromiumos/third_party/rust-vmm/vhost"]
+	branch = refs/heads/main
+	path = src/third_party/rust-vmm/vhost
+	url = ../third_party/rust-vmm/vhost
 [submodule "chromiumos/third_party/rust_crates"]
 	branch = refs/heads/main
 	path = src/third_party/rust_crates
