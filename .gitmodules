@@ -879,6 +879,10 @@
 	branch = refs/heads/master
 	path = src/aosp/external/minijail
 	url = https://android.googlesource.com/platform/external/minijail
+[submodule "platform/external/perfetto"]
+	branch = refs/heads/master
+	path = src/aosp/external/perfetto
+	url = https://android.googlesource.com/platform/external/perfetto
 [submodule "platform/external/puffin"]
 	branch = refs/heads/master
 	path = src/aosp/external/puffin

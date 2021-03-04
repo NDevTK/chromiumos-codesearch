@@ -219,6 +219,7 @@
 /src/third_party/xfstests
 /src/aosp/external/bsdiff
 /src/aosp/external/minijail crosvm
+/src/aosp/external/perfetto notdefault
 /src/aosp/external/puffin
 /src/aosp/system/keymaster
 /src/weave/libweave
