@@ -407,10 +407,6 @@
 	branch = refs/heads/main
 	path = src/platform/vpd
 	url = ../platform/vpd
-[submodule "chromiumos/platform/webplot"]
-	branch = refs/heads/main
-	path = src/platform/webplot
-	url = ../platform/webplot
 [submodule "chromiumos/platform/xorg-conf"]
 	branch = refs/heads/main
 	path = src/platform/xorg-conf
