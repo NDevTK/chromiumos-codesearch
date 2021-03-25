@@ -496,7 +496,7 @@
 	path = src/third_party/cryptoc
 	url = ../third_party/cryptoc
 [submodule "chromiumos/third_party/cups"]
-	branch = refs/heads/v2.3
+	branch = refs/heads/chromeos
 	path = src/third_party/cups
 	url = ../third_party/cups
 [submodule "chromiumos/third_party/daisydog"]
