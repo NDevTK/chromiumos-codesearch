@@ -515,10 +515,6 @@
 	branch = refs/heads/chromeos-glk
 	path = src/third_party/fsp/glk/edk2
 	url = ../third_party/edk2
-[submodule "chromiumos/third_party/edk2/src/third_party/fsp/icl/edk2"]
-	branch = refs/heads/chromeos-icl
-	path = src/third_party/fsp/icl/edk2
-	url = ../third_party/edk2
 [submodule "chromiumos/third_party/em100"]
 	branch = refs/heads/master
 	path = src/third_party/em100
