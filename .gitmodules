@@ -355,6 +355,10 @@
 	branch = refs/heads/main
 	path = src/platform/mttools
 	url = ../platform/mttools
+[submodule "chromiumos/platform/satlab"]
+	branch = refs/heads/main
+	path = src/platform/satlab
+	url = ../platform/satlab
 [submodule "chromiumos/platform/tast"]
 	branch = refs/heads/main
 	path = src/platform/tast
