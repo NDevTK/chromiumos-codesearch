@@ -120,6 +120,10 @@
 	branch = refs/heads/main
 	path = src/platform/graphyte
 	url = ../graphyte
+[submodule "chromiumos/infra/build/drydock"]
+	branch = refs/heads/main
+	path = infra/build/drydock
+	url = ../infra/build/drydock
 [submodule "chromiumos/infra/build/empty-project"]
 	path = src/platform/empty-project
 	url = ../infra/build/empty-project
