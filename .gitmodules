@@ -451,10 +451,6 @@
 	branch = refs/heads/master
 	path = src/third_party/arm-trusted-firmware
 	url = ../third_party/arm-trusted-firmware
-[submodule "chromiumos/third_party/atheros"]
-	branch = refs/heads/master
-	path = src/third_party/atheros
-	url = ../third_party/atheros
 [submodule "chromiumos/third_party/atrusctl"]
 	branch = refs/heads/master
 	path = src/third_party/atrusctl
