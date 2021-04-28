@@ -567,10 +567,6 @@
 	branch = refs/heads/merge/continuous/chromeos-kernelupstream-5.12-rc5
 	path = src/third_party/kernel/upstream
 	url = ../third_party/kernel
-[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v3.14"]
-	branch = refs/heads/chromeos-3.14
-	path = src/third_party/kernel/v3.14
-	url = ../third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v3.18"]
 	branch = refs/heads/chromeos-3.18
 	path = src/third_party/kernel/v3.18
