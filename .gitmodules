@@ -100,9 +100,13 @@
 [submodule "chromium/tools/depot_tools"]
 	path = src/chromium/depot_tools
 	url = ../../chromium/tools/depot_tools
-[submodule "chromiumos/chromite"]
+[submodule "chromiumos/chromite/chromite"]
 	branch = refs/heads/main
 	path = chromite
+	url = ../chromite
+[submodule "chromiumos/chromite/infra/chromite-HEAD"]
+	branch = refs/heads/main
+	path = infra/chromite-HEAD
 	url = ../chromite
 [submodule "chromiumos/config"]
 	branch = refs/heads/main
