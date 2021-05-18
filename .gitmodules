@@ -587,10 +587,6 @@
 	branch = refs/heads/chromeos-4.19-ht
 	path = src/third_party/kernel/v4.19-ht
 	url = ../third_party/kernel
-[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v4.19-lakitu"]
-	branch = refs/heads/chromeos-4.19-lakitu
-	path = src/third_party/kernel/v4.19-lakitu
-	url = ../third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v4.19-manatee"]
 	branch = refs/heads/chromeos-4.19-manatee
 	path = src/third_party/kernel/v4.19-manatee
