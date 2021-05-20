@@ -419,6 +419,10 @@
 	branch = refs/heads/main
 	path = src/platform/vpd
 	url = ../platform/vpd
+[submodule "chromiumos/platform/xolabs-common-core"]
+	branch = refs/heads/main
+	path = src/platform/xolabs-common-core
+	url = ../platform/xolabs-common-core
 [submodule "chromiumos/platform/xorg-conf"]
 	branch = refs/heads/main
 	path = src/platform/xorg-conf
