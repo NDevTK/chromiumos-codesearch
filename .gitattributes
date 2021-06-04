@@ -99,7 +99,6 @@
 /src/third_party/tpm firmware
 /src/platform/tpm_lite
 /src/platform/tremplin
-/src/platform/uboot-env
 /src/platform/usi-test
 /src/platform/vboot_reference buildtools firmware
 /src/platform/vkbench
