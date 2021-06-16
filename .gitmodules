@@ -720,7 +720,7 @@
 	path = src/third_party/mesa-iris
 	url = ../third_party/mesa
 [submodule "chromiumos/third_party/mesa/src/third_party/mesa"]
-	branch = refs/heads/master
+	branch = refs/heads/upstream/main
 	path = src/third_party/mesa
 	url = ../third_party/mesa
 [submodule "chromiumos/third_party/mimo-updater"]
