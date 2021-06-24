@@ -487,6 +487,10 @@
 	branch = refs/heads/master
 	path = src/third_party/cbootimage
 	url = ../third_party/cbootimage
+[submodule "chromiumos/third_party/chre"]
+	branch = refs/heads/upstream/main
+	path = src/third_party/chre
+	url = ../third_party/chre
 [submodule "chromiumos/third_party/coreboot"]
 	branch = refs/heads/chromeos-2016.05
 	path = src/third_party/coreboot
