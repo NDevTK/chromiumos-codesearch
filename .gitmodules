@@ -375,6 +375,10 @@
 	branch = refs/heads/main
 	path = src/platform/tast-tests
 	url = ../platform/tast-tests
+[submodule "chromiumos/platform/tauto"]
+	branch = refs/heads/main
+	path = src/platform/tauto
+	url = ../platform/tauto
 [submodule "chromiumos/platform/touch_firmware_test"]
 	branch = refs/heads/main
 	path = src/platform/touch_firmware_test

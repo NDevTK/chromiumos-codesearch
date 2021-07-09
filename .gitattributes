@@ -93,6 +93,7 @@
 /src/platform/satlab notdefault satlab
 /src/platform/tast
 /src/platform/tast-tests
+/src/platform/tauto
 /src/platform/touch_firmware_test firmware
 /src/platform/touch_updater
 /src/platform/touchpad-tests
