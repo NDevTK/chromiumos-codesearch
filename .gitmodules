@@ -860,11 +860,11 @@
 	path = src/third_party/zephyr/main/v2.6
 	url = ../third_party/zephyr
 [submodule "chromiumos/third_party/zephyr/cmsis"]
-	branch = refs/heads/chromeos-v2.6
+	branch = refs/heads/chromeos-main
 	path = src/third_party/zephyr/cmsis
 	url = ../third_party/zephyr/cmsis
 [submodule "chromiumos/third_party/zephyr/hal_stm32"]
-	branch = refs/heads/chromeos-v2.6
+	branch = refs/heads/chromeos-main
 	path = src/third_party/zephyr/hal_stm32
 	url = ../third_party/zephyr/hal_stm32
 [submodule "external/git.kernel.org/fs/xfs/xfstests-dev"]
