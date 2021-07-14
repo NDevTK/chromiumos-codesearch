@@ -124,6 +124,10 @@
 	branch = refs/heads/main
 	path = src/platform/graphyte
 	url = ../graphyte
+[submodule "chromiumos/infra/autotest-drone"]
+	branch = refs/heads/main
+	path = infra/autotest-drone
+	url = ../infra/autotest-drone
 [submodule "chromiumos/infra/build/drydock"]
 	branch = refs/heads/main
 	path = infra/build/drydock
