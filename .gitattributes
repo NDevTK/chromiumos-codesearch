@@ -91,6 +91,7 @@
 /src/platform/moblab moblab notdefault
 /src/platform/mosys
 /src/platform/mttools
+/src/platform/pinweaver
 /src/platform/satlab notdefault satlab
 /src/platform/tast
 /src/platform/tast-tests

@@ -367,6 +367,10 @@
 	branch = refs/heads/main
 	path = src/platform/mttools
 	url = ../platform/mttools
+[submodule "chromiumos/platform/pinweaver"]
+	branch = refs/heads/main
+	path = src/platform/pinweaver
+	url = ../platform/pinweaver
 [submodule "chromiumos/platform/satlab"]
 	branch = refs/heads/main
 	path = src/platform/satlab
