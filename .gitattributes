@@ -80,6 +80,7 @@
 /src/platform/glbench
 /src/platform/go-seccomp
 /src/platform/graphics
+/src/platform/hps-firmware-images
 /src/platform/initramfs
 /src/platform/inputcontrol
 /src/platform/jabra_vold
