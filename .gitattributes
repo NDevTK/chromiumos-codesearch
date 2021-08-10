@@ -141,7 +141,6 @@
 /src/third_party/flashrom firmware
 /src/third_party/fwupd
 /src/third_party/hdctools labtools
-/src/third_party/wpa_supplicant-2.9
 /src/third_party/wpa_supplicant-cros/current
 /src/third_party/wpa_supplicant-cros/next
 /src/third_party/wpa_supplicant
