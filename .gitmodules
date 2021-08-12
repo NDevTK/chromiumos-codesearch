@@ -867,11 +867,7 @@
 	branch = refs/heads/main
 	path = src/third_party/webrtc-apm
 	url = ../third_party/webrtc-apm
-[submodule "chromiumos/third_party/zephyr/src/third_party/zephyr/main/v2.5"]
-	branch = refs/heads/chromeos-v2.5
-	path = src/third_party/zephyr/main/v2.5
-	url = ../third_party/zephyr
-[submodule "chromiumos/third_party/zephyr/src/third_party/zephyr/main/v2.6"]
+[submodule "chromiumos/third_party/zephyr"]
 	branch = refs/heads/chromeos-v2.6
 	path = src/third_party/zephyr/main/v2.6
 	url = ../third_party/zephyr
