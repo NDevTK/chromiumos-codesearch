@@ -823,6 +823,10 @@
 	branch = refs/heads/master
 	path = src/third_party/sound-open-firmware
 	url = ../third_party/sound-open-firmware
+[submodule "chromiumos/third_party/svunit"]
+	branch = refs/heads/chromeos
+	path = src/third_party/svunit
+	url = ../third_party/svunit
 [submodule "chromiumos/third_party/sysbios"]
 	branch = refs/heads/master
 	path = src/third_party/sysbios

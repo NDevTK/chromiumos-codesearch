@@ -205,6 +205,7 @@
 /src/third_party/shellcheck
 /src/third_party/sis-updater
 /src/third_party/sound-open-firmware
+/src/third_party/svunit
 /src/third_party/sysbios firmware
 /src/third_party/systemd
 /src/third_party/tlsdate
