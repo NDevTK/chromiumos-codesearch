@@ -131,6 +131,7 @@
 /src/third_party/cryptoc firmware
 /src/third_party/cups
 /src/third_party/daisydog
+/src/third_party/amd-firmware/binarypi/picasso-edk2 firmware
 /src/third_party/edk2 firmware
 /src/third_party/fsp/cml/edk2/branch1 firmware
 /src/third_party/fsp/cnl/edk2 firmware
