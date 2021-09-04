@@ -887,6 +887,10 @@
 	branch = refs/heads/chromeos-main
 	path = src/third_party/zephyr/hal_stm32
 	url = ../third_party/zephyr/hal_stm32
+[submodule "chromiumos/third_party/zephyr/nanopb"]
+	branch = refs/heads/main
+	path = src/third_party/zephyr/nanopb
+	url = ../third_party/zephyr/nanopb
 [submodule "external/git.kernel.org/fs/xfs/xfstests-dev"]
 	branch = refs/heads/master
 	path = src/third_party/xfstests
