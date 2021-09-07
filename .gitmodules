@@ -11,7 +11,7 @@
 	path = src/third_party/modp_b64
 	url = ../../aosp/platform/external/modp_b64
 [submodule "aosp/platform/frameworks/ml"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/aosp/frameworks/ml
 	url = ../../aosp/platform/frameworks/ml
 [submodule "aosp/platform/frameworks/native"]
