@@ -89,10 +89,22 @@
 	branch = refs/heads/master
 	path = src/chromium/src/buildtools
 	url = ../../chromium/src/buildtools
+[submodule "chromium/src/components/policy"]
+	branch = refs/heads/main
+	path = src/chromium/src/components/policy
+	url = ../../chromium/src/components/policy
 [submodule "chromium/src/third_party/Python-Markdown"]
 	branch = refs/heads/master
 	path = src/chromium/src/third_party/Python-Markdown
 	url = ../../chromium/src/third_party/Python-Markdown
+[submodule "chromium/src/third_party/private_membership"]
+	branch = refs/heads/main
+	path = src/chromium/src/third_party/private_membership
+	url = ../../chromium/src/third_party/private_membership
+[submodule "chromium/src/third_party/shell-encryption"]
+	branch = refs/heads/main
+	path = src/chromium/src/third_party/shell-encryption
+	url = ../../chromium/src/third_party/shell-encryption
 [submodule "chromium/src/tools/md_browser"]
 	branch = refs/heads/master
 	path = src/chromium/src/tools/md_browser

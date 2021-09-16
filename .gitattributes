@@ -21,7 +21,10 @@
 /src/third_party/libapps
 /src/third_party/breakpad
 /src/chromium/src/buildtools minilayout labtools buildtools
+/src/chromium/src/components/policy
 /src/chromium/src/third_party/Python-Markdown
+/src/chromium/src/third_party/private_membership
+/src/chromium/src/third_party/shell-encryption
 /src/chromium/src/tools/md_browser
 /src/chromium/depot_tools minilayout labtools buildtools firmware
 /chromite minilayout crosvm labtools sysmon buildtools chromeos-admin devserver firmware
