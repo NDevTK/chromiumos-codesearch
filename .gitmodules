@@ -335,6 +335,10 @@
 	branch = refs/heads/main
 	path = src/platform/graphics
 	url = ../platform/graphics
+[submodule "chromiumos/platform/hps-firmware"]
+	branch = refs/heads/main
+	path = src/platform/hps-firmware2
+	url = ../platform/hps-firmware
 [submodule "chromiumos/platform/hps-firmware-images"]
 	branch = refs/heads/main
 	path = src/platform/hps-firmware-images
