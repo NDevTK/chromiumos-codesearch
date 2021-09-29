@@ -223,6 +223,8 @@
 /src/third_party/virtual-usb-printer
 /src/third_party/webrtc-apm
 /src/third_party/zephyr/main/v2.6 firmware zephyr
+/src/third_party/zephyr/main/v2.7 firmware zephyr
+/src/third_party/zephyr/main/v2.8 firmware zephyr
 /src/third_party/zephyr/cmsis firmware zephyr
 /src/third_party/zephyr/hal_stm32 firmware zephyr
 /src/third_party/zephyr/nanopb firmware zephyr
