@@ -69,6 +69,7 @@
 /src/platform/drm-tests
 /src/platform/cr50 firmware
 /src/platform/ec firmware
+/src/platform/ish firmware
 /src/platform/release-firmware/fpmcu-bloonchipper firmware
 /src/platform/release-firmware/fpmcu-dartmonkey firmware
 /src/platform/release-firmware/fpmcu-nami firmware

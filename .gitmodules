@@ -279,6 +279,10 @@
 	branch = refs/heads/main
 	path = src/platform/ec
 	url = ../platform/ec
+[submodule "chromiumos/platform/ec/src/platform/ish"]
+	branch = refs/heads/ish
+	path = src/platform/ish
+	url = ../platform/ec
 [submodule "chromiumos/platform/ec/src/platform/release-firmware/fpmcu-bloonchipper"]
 	branch = refs/heads/firmware-fpmcu-bloonchipper-release
 	path = src/platform/release-firmware/fpmcu-bloonchipper
