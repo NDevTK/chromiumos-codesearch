@@ -191,6 +191,7 @@
 /src/third_party/mesa-freedreno
 /src/third_party/mesa-img
 /src/third_party/mesa-iris
+/src/third_party/mesa-reven
 /src/third_party/mesa
 /src/third_party/mimo-updater
 /src/third_party/mmc-utils
