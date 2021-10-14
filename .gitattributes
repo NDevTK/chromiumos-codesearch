@@ -131,6 +131,8 @@
 /src/third_party/bootstub firmware
 /src/third_party/cbootimage firmware
 /src/third_party/chre
+/src/third_party/clspv
+/src/third_party/clvk
 /src/third_party/coreboot firmware
 /src/third_party/cros-adapta
 /src/third_party/cryptoc firmware
