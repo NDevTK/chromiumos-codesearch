@@ -824,7 +824,7 @@
 	path = src/third_party/poly-updater
 	url = ../third_party/poly-updater
 [submodule "chromiumos/third_party/portage_tool"]
-	branch = refs/heads/chromeos-2.3.75
+	branch = refs/heads/chromeos-3.0.21
 	path = src/third_party/portage_tool
 	url = ../third_party/portage_tool
 [submodule "chromiumos/third_party/qemu"]
