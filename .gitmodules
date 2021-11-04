@@ -663,6 +663,10 @@
 	branch = refs/heads/chromeos-5.10
 	path = src/third_party/kernel/v5.10
 	url = ../third_party/kernel
+[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v5.15"]
+	branch = refs/heads/chromeos-5.15
+	path = src/third_party/kernel/v5.15
+	url = ../third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v5.4-arcvm"]
 	branch = refs/heads/chromeos-5.4-arcvm
 	path = src/third_party/kernel/v5.4-arcvm
