@@ -592,7 +592,7 @@
 	path = src/third_party/flashrom
 	url = ../third_party/flashrom
 [submodule "chromiumos/third_party/fwupd"]
-	branch = refs/heads/fwupd-1.7.0
+	branch = refs/heads/fwupd-1.7.1
 	path = src/third_party/fwupd
 	url = ../third_party/fwupd
 [submodule "chromiumos/third_party/hdctools"]
