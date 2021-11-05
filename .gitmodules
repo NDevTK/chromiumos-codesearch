@@ -247,6 +247,10 @@
 	branch = refs/heads/main
 	path = src/platform/cobble
 	url = ../platform/cobble
+[submodule "chromiumos/platform/croscomp"]
+	branch = refs/heads/main
+	path = src/platform/croscomp
+	url = ../platform/croscomp
 [submodule "chromiumos/platform/crostestutils"]
 	branch = refs/heads/main
 	path = src/platform/crostestutils

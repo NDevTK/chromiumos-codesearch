@@ -61,6 +61,7 @@
 /src/platform/chameleon
 /src/platform/chromiumos-assets
 /src/platform/cobble
+/src/platform/croscomp
 /src/platform/crostestutils minilayout buildtools firmware
 /src/scripts minilayout labtools buildtools firmware
 /src/platform/crosvm crosvm
