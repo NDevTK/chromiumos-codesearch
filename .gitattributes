@@ -156,6 +156,7 @@
 /src/third_party/huddly-updater
 /src/third_party/igt-gpu-tools
 /src/third_party/intel-wifi-fw-dump
+/src/third_party/kernel/bluetooth-next bluetooth notdefault
 /src/third_party/kernel/upstream
 /src/third_party/kernel/v3.18
 /src/third_party/kernel/v4.14-gw
