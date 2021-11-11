@@ -604,7 +604,7 @@
 	path = src/third_party/hdctools
 	url = ../third_party/hdctools
 [submodule "chromiumos/third_party/hostap/src/third_party/wpa_supplicant-cros/current"]
-	branch = refs/heads/wpa_supplicant-2.9
+	branch = refs/heads/wpa_supplicant-2.9.1
 	path = src/third_party/wpa_supplicant-cros/current
 	url = ../third_party/hostap
 [submodule "chromiumos/third_party/hostap/src/third_party/wpa_supplicant-cros/next"]
