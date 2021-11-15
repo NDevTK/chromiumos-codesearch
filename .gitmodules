@@ -93,6 +93,9 @@
 	branch = refs/heads/main
 	path = src/chromium/src/components/policy
 	url = ../../chromium/src/components/policy
+[submodule "chromium/src/media/midi"]
+	path = src/chromium/src/media/midi
+	url = ../../chromium/src/media/midi
 [submodule "chromium/src/third_party/Python-Markdown"]
 	branch = refs/heads/master
 	path = src/chromium/src/third_party/Python-Markdown

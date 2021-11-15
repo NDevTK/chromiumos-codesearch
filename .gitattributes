@@ -22,6 +22,7 @@
 /src/third_party/breakpad
 /src/chromium/src/buildtools minilayout labtools buildtools
 /src/chromium/src/components/policy
+/src/chromium/src/media/midi
 /src/chromium/src/third_party/Python-Markdown
 /src/chromium/src/third_party/private_membership
 /src/chromium/src/third_party/shell-encryption
