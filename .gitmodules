@@ -86,7 +86,7 @@
 	path = src/third_party/breakpad
 	url = ../../breakpad/breakpad
 [submodule "chromium/src/buildtools"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/chromium/src/buildtools
 	url = ../../chromium/src/buildtools
 [submodule "chromium/src/components/policy"]
@@ -97,7 +97,7 @@
 	path = src/chromium/src/media/midi
 	url = ../../chromium/src/media/midi
 [submodule "chromium/src/third_party/Python-Markdown"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/chromium/src/third_party/Python-Markdown
 	url = ../../chromium/src/third_party/Python-Markdown
 [submodule "chromium/src/third_party/private_membership"]
@@ -109,7 +109,7 @@
 	path = src/chromium/src/third_party/shell-encryption
 	url = ../../chromium/src/third_party/shell-encryption
 [submodule "chromium/src/tools/md_browser"]
-	branch = refs/heads/master
+	branch = refs/heads/main
 	path = src/chromium/src/tools/md_browser
 	url = ../../chromium/src/tools/md_browser
 [submodule "chromium/tools/depot_tools"]
