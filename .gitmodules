@@ -26,6 +26,14 @@
 	branch = refs/heads/master
 	path = src/aosp/hardware/interfaces/neuralnetworks
 	url = ../../aosp/platform/hardware/interfaces/neuralnetworks
+[submodule "aosp/platform/packages/modules/Bluetooth/src/aosp/packages/modules/Bluetooth/local"]
+	branch = refs/heads/main
+	path = src/aosp/packages/modules/Bluetooth/local
+	url = ../../aosp/platform/packages/modules/Bluetooth
+[submodule "aosp/platform/packages/modules/Bluetooth/src/aosp/packages/modules/Bluetooth/upstream"]
+	branch = refs/heads/upstream/master
+	path = src/aosp/packages/modules/Bluetooth/upstream
+	url = ../../aosp/platform/packages/modules/Bluetooth
 [submodule "aosp/platform/system/bt/src/aosp/system/bt/bringup"]
 	branch = refs/heads/bringup
 	path = src/aosp/system/bt/bringup
