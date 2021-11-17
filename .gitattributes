@@ -23,9 +23,11 @@
 /src/chromium/src/buildtools minilayout labtools buildtools
 /src/chromium/src/components/policy
 /src/chromium/src/media/midi
+/src/chromium/src/net/tools/testserver
 /src/chromium/src/third_party/Python-Markdown
 /src/chromium/src/third_party/private_membership
 /src/chromium/src/third_party/shell-encryption
+/src/chromium/src/third_party/tlslite
 /src/chromium/src/tools/md_browser
 /src/chromium/depot_tools minilayout labtools buildtools firmware
 /chromite minilayout crosvm labtools sysmon buildtools chromeos-admin devserver firmware
@@ -236,7 +238,9 @@
 /src/third_party/zephyr/hal_stm32 firmware zephyr
 /src/third_party/zephyr/nanopb firmware zephyr
 /src/third_party/xfstests
+/src/third_party/llvm-project notdefault
 /src/aosp/external/bsdiff
+/src/aosp/external/marisa-trie
 /src/aosp/external/minijail crosvm
 /src/aosp/external/perfetto notdefault
 /src/aosp/external/puffin

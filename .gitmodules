@@ -96,6 +96,10 @@
 [submodule "chromium/src/media/midi"]
 	path = src/chromium/src/media/midi
 	url = ../../chromium/src/media/midi
+[submodule "chromium/src/net/tools/testserver"]
+	branch = refs/heads/main
+	path = src/chromium/src/net/tools/testserver
+	url = ../../chromium/src/net/tools/testserver
 [submodule "chromium/src/third_party/Python-Markdown"]
 	branch = refs/heads/main
 	path = src/chromium/src/third_party/Python-Markdown
@@ -108,6 +112,10 @@
 	branch = refs/heads/main
 	path = src/chromium/src/third_party/shell-encryption
 	url = ../../chromium/src/third_party/shell-encryption
+[submodule "chromium/src/third_party/tlslite"]
+	branch = refs/heads/main
+	path = src/chromium/src/third_party/tlslite
+	url = ../../chromium/src/third_party/tlslite
 [submodule "chromium/src/tools/md_browser"]
 	branch = refs/heads/main
 	path = src/chromium/src/tools/md_browser
@@ -946,10 +954,18 @@
 	branch = refs/heads/master
 	path = src/third_party/xfstests
 	url = ../../external/git.kernel.org/fs/xfs/xfstests-dev
+[submodule "external/github.com/llvm/llvm-project"]
+	branch = refs/heads/main
+	path = src/third_party/llvm-project
+	url = ../../external/github.com/llvm/llvm-project
 [submodule "platform/external/bsdiff"]
 	branch = refs/heads/master
 	path = src/aosp/external/bsdiff
 	url = https://android.googlesource.com/platform/external/bsdiff
+[submodule "platform/external/marisa-trie"]
+	branch = refs/heads/master
+	path = src/aosp/external/marisa-trie
+	url = https://android.googlesource.com/platform/external/marisa-trie
 [submodule "platform/external/minijail"]
 	branch = refs/heads/master
 	path = src/aosp/external/minijail
