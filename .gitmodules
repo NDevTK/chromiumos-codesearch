@@ -931,7 +931,7 @@
 	path = src/third_party/virglrenderer
 	url = ../third_party/virglrenderer
 [submodule "chromiumos/third_party/virtual-usb-printer"]
-	branch = refs/heads/master
+	branch = refs/heads/chromeos
 	path = src/third_party/virtual-usb-printer
 	url = ../third_party/virtual-usb-printer
 [submodule "chromiumos/third_party/webrtc-apm"]
