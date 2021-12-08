@@ -48,7 +48,6 @@
 /infra/recipes chromeos-admin
 /infra/suite_scheduler
 /infra/test_analyzer
-/infra/tnull
 /infra_virtualenv minilayout labtools sysmon buildtools chromeos-admin devserver firmware
 /manifest
 /src/overlays minilayout firmware

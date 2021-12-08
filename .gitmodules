@@ -194,10 +194,6 @@
 	branch = refs/heads/main
 	path = infra/test_analyzer
 	url = ../infra/test_analyzer
-[submodule "chromiumos/infra/tnull"]
-	branch = refs/heads/main
-	path = infra/tnull
-	url = ../infra/tnull
 [submodule "chromiumos/infra_virtualenv"]
 	branch = refs/heads/main
 	path = infra_virtualenv
