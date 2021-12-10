@@ -662,10 +662,6 @@
 	branch = refs/heads/chromeos-4.14
 	path = src/third_party/kernel/v4.14
 	url = ../third_party/kernel
-[submodule "chromiumos/third_party/kernel/src/third_party/kernel/v4.19-ht"]
-	branch = refs/heads/chromeos-4.19-ht
-	path = src/third_party/kernel/v4.19-ht
-	url = ../third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v4.19-manatee"]
 	branch = refs/heads/chromeos-4.19-manatee
 	path = src/third_party/kernel/v4.19-manatee
