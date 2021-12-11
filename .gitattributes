@@ -68,6 +68,7 @@
 /src/platform/croscomp
 /src/platform/crostestutils minilayout buildtools firmware
 /src/scripts minilayout labtools buildtools firmware
+/src/platform/crosvm-upstream crosvm
 /src/platform/crosvm crosvm
 /src/platform/depthcharge firmware
 /src/platform/dev minilayout buildtools devserver firmware
