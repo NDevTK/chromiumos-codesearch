@@ -163,8 +163,6 @@
 /src/third_party/intel-wifi-fw-dump
 /src/third_party/kernel/bluetooth-next bluetooth notdefault
 /src/third_party/kernel/upstream
-/src/third_party/kernel/v3.18
-/src/third_party/kernel/v4.14-gw
 /src/third_party/kernel/v4.14
 /src/third_party/kernel/v4.19-manatee
 /src/third_party/kernel/v4.19
