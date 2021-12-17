@@ -950,6 +950,10 @@
 	branch = refs/heads/main
 	path = src/third_party/llvm-project
 	url = ../../external/github.com/llvm/llvm-project
+[submodule "pigweed/pigweed"]
+	branch = refs/heads/main
+	path = src/third_party/pigweed
+	url = https://pigweed.googlesource.com/pigweed/pigweed
 [submodule "platform/external/bsdiff"]
 	branch = refs/heads/master
 	path = src/aosp/external/bsdiff

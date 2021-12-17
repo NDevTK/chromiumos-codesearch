@@ -237,6 +237,7 @@
 /src/third_party/zephyr/nanopb firmware zephyr
 /src/third_party/xfstests
 /src/third_party/llvm-project notdefault
+/src/third_party/pigweed
 /src/aosp/external/bsdiff
 /src/aosp/external/marisa-trie
 /src/aosp/external/minijail crosvm
