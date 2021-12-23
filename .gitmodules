@@ -978,10 +978,6 @@
 	branch = refs/heads/pie-release
 	path = src/aosp/system/keymaster
 	url = https://android.googlesource.com/platform/system/keymaster
-[submodule "weave/libweave"]
-	branch = refs/heads/main
-	path = src/weave/libweave
-	url = ../../weave/libweave
 [submodule "website"]
 	branch = refs/heads/main
 	path = website
