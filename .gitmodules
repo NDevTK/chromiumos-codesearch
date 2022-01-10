@@ -418,6 +418,10 @@
 	branch = refs/heads/main
 	path = src/platform/pinweaver
 	url = ../platform/pinweaver
+[submodule "chromiumos/platform/rules_cros"]
+	branch = refs/heads/main
+	path = src/platform/rules_cros
+	url = ../platform/rules_cros
 [submodule "chromiumos/platform/satlab"]
 	branch = refs/heads/main
 	path = src/platform/satlab
