@@ -655,7 +655,7 @@
 	path = src/third_party/kernel/bluetooth-next
 	url = ../third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/upstream"]
-	branch = refs/heads/merge/continuous/chromeos-kernelupstream-5.16-rc8
+	branch = refs/heads/merge/continuous/chromeos-kernelupstream-5.16
 	path = src/third_party/kernel/upstream
 	url = ../third_party/kernel
 [submodule "chromiumos/third_party/kernel/src/third_party/kernel/v4.14"]
