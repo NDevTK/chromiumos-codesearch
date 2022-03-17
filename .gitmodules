@@ -719,7 +719,7 @@
 	path = src/third_party/libdrm-debian
 	url = ../third_party/libdrm
 [submodule "chromiumos/third_party/libdrm/src/third_party/libdrm"]
-	branch = refs/heads/master
+	branch = refs/heads/upstream/main
 	path = src/third_party/libdrm
 	url = ../third_party/libdrm
 [submodule "chromiumos/third_party/libiio"]
