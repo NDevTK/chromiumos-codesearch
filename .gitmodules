@@ -158,6 +158,10 @@
 [submodule "chromiumos/infra/build/empty-project"]
 	path = src/platform/empty-project
 	url = ../infra/build/empty-project
+[submodule "chromiumos/infra/build/observability-cloud"]
+	branch = refs/heads/main
+	path = infra/build/observability-cloud
+	url = ../infra/build/observability-cloud
 [submodule "chromiumos/infra/ci_results_archiver"]
 	branch = refs/heads/main
 	path = infra/ci_results_archiver
@@ -547,11 +551,11 @@
 	path = src/third_party/chre
 	url = ../third_party/chre
 [submodule "chromiumos/third_party/clspv"]
-	branch = refs/heads/main
+	branch = refs/heads/upstream/main
 	path = src/third_party/clspv
 	url = ../third_party/clspv
 [submodule "chromiumos/third_party/clvk"]
-	branch = refs/heads/main
+	branch = refs/heads/upstream/main
 	path = src/third_party/clvk
 	url = ../third_party/clvk
 [submodule "chromiumos/third_party/coreboot"]

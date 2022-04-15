@@ -39,6 +39,7 @@
 /infra/autotest-drone
 /infra/build/drydock notdefault infra-tools
 /src/platform/empty-project minilayout firmware
+/infra/build/observability-cloud
 /infra/ci_results_archiver chromeos-admin
 /infra/go chromeos-admin
 /infra/lucifer
