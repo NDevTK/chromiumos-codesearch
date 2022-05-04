@@ -350,10 +350,6 @@
 	branch = refs/heads/main
 	path = src/platform/glbench
 	url = ../platform/glbench
-[submodule "chromiumos/platform/go-seccomp"]
-	branch = refs/heads/main
-	path = src/platform/go-seccomp
-	url = ../platform/go-seccomp
 [submodule "chromiumos/platform/graphics"]
 	branch = refs/heads/main
 	path = src/platform/graphics

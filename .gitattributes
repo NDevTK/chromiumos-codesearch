@@ -87,7 +87,6 @@
 /src/platform/gestures
 /src/platform/glbench-debian notdefault crostini
 /src/platform/glbench
-/src/platform/go-seccomp
 /src/platform/graphics
 /src/platform/hps-firmware2
 /src/platform/hps-firmware-images
