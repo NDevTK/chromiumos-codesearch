@@ -13,14 +13,14 @@
 /src/aosp/system/core/liblog
 /src/aosp/system/libsync
 /src/aosp/system/core/libutils
-/src/aosp/system/libbase
+/src/aosp/system/libbase paygen
 /src/aosp/system/libfmq
 /src/aosp/system/libhidl
 /src/aosp/system/logging
-/src/aosp/system/update_engine
+/src/aosp/system/update_engine paygen
 /src/third_party/libapps
 /src/third_party/breakpad
-/src/chromium/src/buildtools minilayout labtools buildtools
+/src/chromium/src/buildtools minilayout labtools paygen buildtools
 /src/chromium/src/components/policy
 /src/chromium/src/media/midi
 /src/chromium/src/net/tools/testserver
@@ -29,8 +29,8 @@
 /src/chromium/src/third_party/shell-encryption
 /src/chromium/src/third_party/tlslite
 /src/chromium/src/tools/md_browser
-/src/chromium/depot_tools minilayout labtools buildtools firmware
-/chromite minilayout crosvm labtools sysmon buildtools chromeos-admin devserver firmware
+/src/chromium/depot_tools minilayout labtools paygen buildtools firmware
+/chromite minilayout crosvm labtools sysmon paygen buildtools chromeos-admin devserver firmware
 /infra/chromite-HEAD buildtools
 /src/config partner-config config
 /src/platform/container-guest-tools
@@ -38,7 +38,7 @@
 /src/platform/graphyte
 /infra/autotest-drone
 /infra/build/drydock notdefault infra-tools
-/src/platform/empty-project minilayout firmware
+/src/platform/empty-project minilayout paygen firmware
 /infra/build/observability-cloud
 /infra/ci_results_archiver chromeos-admin
 /infra/go chromeos-admin
@@ -47,12 +47,12 @@
 /infra/recipes chromeos-admin
 /infra/suite_scheduler
 /infra/test_analyzer
-/infra_virtualenv minilayout labtools sysmon buildtools chromeos-admin devserver firmware
+/infra_virtualenv minilayout labtools sysmon paygen buildtools chromeos-admin devserver firmware
 /manifest
-/src/overlays minilayout firmware
-/src/third_party/chromiumos-overlay minilayout labtools firmware
-/src/third_party/eclass-overlay minilayout labtools firmware
-/src/third_party/portage-stable minilayout labtools firmware
+/src/overlays minilayout paygen firmware
+/src/third_party/chromiumos-overlay minilayout labtools paygen firmware
+/src/third_party/eclass-overlay minilayout labtools paygen firmware
+/src/third_party/portage-stable minilayout labtools paygen firmware
 /src/platform/assets
 /src/platform/audiotest
 /src/platform/bisect-kit
@@ -65,12 +65,12 @@
 /src/platform/chromiumos-assets
 /src/platform/cobble
 /src/platform/croscomp
-/src/platform/crostestutils minilayout buildtools firmware
-/src/scripts minilayout labtools buildtools firmware
+/src/platform/crostestutils minilayout paygen buildtools firmware
+/src/scripts minilayout labtools paygen buildtools firmware
 /src/platform/crosvm-upstream crosvm
 /src/platform/crosvm crosvm
 /src/platform/depthcharge firmware
-/src/platform/dev minilayout buildtools devserver firmware
+/src/platform/dev minilayout paygen buildtools devserver firmware
 /src/platform/drm-tests
 /src/platform/cr50 firmware
 /src/platform/ec firmware
@@ -119,9 +119,9 @@
 /src/platform/vpd
 /src/platform/xolabs-common-core notdefault xolabs
 /src/platform/xorg-conf
-/src/platform2 minilayout crosvm
+/src/platform2 minilayout crosvm paygen
 /src/project_public partner-config
-/src/repohooks minilayout crosvm labtools buildtools firmware
+/src/repohooks minilayout crosvm labtools paygen buildtools firmware
 /src/third_party/Wi-FiTestSuite-Linux-DUT
 /src/third_party/adhd crosvm
 /src/third_party/apitrace-debian notdefault crostini
@@ -222,7 +222,7 @@
 /src/third_party/sysbios firmware
 /src/third_party/systemd
 /src/third_party/tlsdate
-/src/third_party/toolchain-utils minilayout
+/src/third_party/toolchain-utils minilayout paygen
 /src/third_party/tpm2 crosvm firmware
 /src/third_party/trousers
 /src/third_party/u-boot/files
@@ -236,10 +236,10 @@
 /src/third_party/zephyr/nanopb firmware zephyr
 /src/third_party/xfstests
 /src/third_party/llvm-project notdefault
-/src/aosp/external/bsdiff
+/src/aosp/external/bsdiff paygen
 /src/aosp/external/marisa-trie
 /src/aosp/external/minijail crosvm
 /src/aosp/external/perfetto notdefault
-/src/aosp/external/puffin
+/src/aosp/external/puffin paygen
 /src/aosp/system/keymaster
 /website
