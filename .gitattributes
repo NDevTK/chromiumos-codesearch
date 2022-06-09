@@ -104,8 +104,8 @@
 /src/platform/pinweaver
 /src/platform/rules_cros
 /src/platform/satlab notdefault satlab
-/src/platform/tast
-/src/platform/tast-tests
+/src/platform/tast minilayout paygen
+/src/platform/tast-tests minilayout paygen
 /src/platform/tauto
 /src/platform/touch_firmware_test firmware
 /src/platform/touch_updater
