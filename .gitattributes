@@ -93,6 +93,7 @@
 /src/platform/initramfs
 /src/platform/inputcontrol
 /src/platform/jabra_vold
+/src/platform/libchrome
 /src/platform/libevdev
 /src/platform/libva-fake-driver
 /src/platform/lithium firmware

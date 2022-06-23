@@ -374,6 +374,10 @@
 	branch = refs/heads/main
 	path = src/platform/jabra_vold
 	url = ../platform/jabra_vold
+[submodule "chromiumos/platform/libchrome"]
+	branch = refs/heads/main
+	path = src/platform/libchrome
+	url = ../platform/libchrome
 [submodule "chromiumos/platform/libevdev"]
 	branch = refs/heads/main
 	path = src/platform/libevdev
