@@ -1,4 +1,4 @@
-/src/aosp/external/libchrome
+/src/aosp/external/libchrome paygen
 /src/aosp/external/libutf
 /src/third_party/modp_b64
 /src/aosp/frameworks/ml
@@ -32,7 +32,7 @@
 /src/chromium/depot_tools minilayout labtools paygen buildtools firmware
 /chromite minilayout crosvm labtools sysmon paygen buildtools chromeos-admin devserver firmware
 /infra/chromite-HEAD buildtools
-/src/config partner-config config
+/src/config partner-config paygen config
 /src/platform/container-guest-tools
 /docs crosvm
 /src/platform/graphyte
@@ -72,8 +72,8 @@
 /src/platform/depthcharge firmware
 /src/platform/dev minilayout paygen buildtools devserver firmware
 /src/platform/drm-tests
-/src/platform/cr50 firmware
-/src/platform/ec firmware
+/src/platform/cr50 paygen firmware
+/src/platform/ec paygen firmware
 /src/platform/ish firmware
 /src/platform/release-firmware/fpmcu-bloonchipper firmware
 /src/platform/release-firmware/fpmcu-dartmonkey firmware
@@ -152,9 +152,9 @@
 /src/third_party/em100 firmware
 /src/third_party/fastrpc
 /src/third_party/flashmap firmware
-/src/third_party/flashrom firmware
+/src/third_party/flashrom paygen firmware
 /src/third_party/fwupd
-/src/third_party/hdctools labtools
+/src/third_party/hdctools labtools paygen
 /src/third_party/wpa_supplicant-cros/current
 /src/third_party/wpa_supplicant-cros/next
 /src/third_party/wpa_supplicant
@@ -238,7 +238,7 @@
 /src/aosp/external/bsdiff paygen
 /src/aosp/external/marisa-trie
 /src/aosp/external/minijail crosvm
-/src/aosp/external/perfetto notdefault
+/src/aosp/external/perfetto paygen notdefault
 /src/aosp/external/puffin paygen
 /src/aosp/system/keymaster
 /website
