@@ -1,7 +1,3 @@
-[submodule "aosp/platform/external/libchrome"]
-	branch = refs/heads/master
-	path = src/aosp/external/libchrome
-	url = ../../aosp/platform/external/libchrome
 [submodule "aosp/platform/external/libutf"]
 	branch = refs/heads/master
 	path = src/aosp/external/libutf
